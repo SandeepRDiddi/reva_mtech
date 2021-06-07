@@ -1,0 +1,3876 @@
+﻿CustomerID,City,Zip Code,Gender,Senior Citizen,Partner,Dependents
+3668-QPYBK,Los Angeles,90003,Male,No,No,No
+9237-HQITU,Los Angeles,90005,Female,No,No,Yes
+9305-CDSKC,Los Angeles,90006,Female,No,No,Yes
+7892-POOKP,Los Angeles,90010,Female,No,Yes,Yes
+0280-XJGEX,Los Angeles,90015,Male,No,No,Yes
+4190-MFLUW,Los Angeles,90020,Female,No,Yes,No
+8779-QRDMV,Los Angeles,90022,Male,Yes,No,No
+1066-JKSGK,Los Angeles,90024,Male,No,No,No
+6467-CHFZW,Los Angeles,90028,Male,No,Yes,Yes
+8665-UTDHZ,Los Angeles,90029,Male,No,Yes,No
+8773-HHUOZ,Los Angeles,90032,Female,No,No,No
+6047-YHPVI,Los Angeles,90039,Male,No,No,Yes
+5380-WJKOV,Los Angeles,90041,Male,No,No,Yes
+8168-UQWWF,Los Angeles,90042,Female,No,No,Yes
+7760-OYPDY,Los Angeles,90056,Female,No,No,Yes
+9420-LOJKX,Los Angeles,90061,Female,No,No,Yes
+7495-OOKFY,Los Angeles,90063,Female,Yes,Yes,Yes
+1658-BYGOY,Los Angeles,90065,Male,Yes,No,Yes
+5698-BQJOH,Beverly Hills,90211,Female,No,No,Yes
+5919-TMRGD,Huntington Park,90255,Female,No,No,Yes
+9191-MYQKX,Lynwood,90262,Female,No,Yes,Yes
+8637-XJIVR,Marina Del Rey,90292,Female,No,No,Yes
+0278-YXOOG,Inglewood,90301,Male,No,No,No
+4598-XLKNJ,Inglewood,90303,Female,Yes,Yes,Yes
+0486-HECZI,Torrance,90504,Male,No,Yes,Yes
+4846-WHAFZ,Whittier,90602,Female,Yes,Yes,Yes
+5299-RULOA,Whittier,90606,Female,No,Yes,Yes
+0404-SWRVG,La Habra,90631,Male,No,No,Yes
+4412-YLTKF,Pico Rivera,90660,Female,Yes,No,Yes
+6207-WIOLX,Avalon,90704,Female,No,Yes,No
+3091-FYHKI,Harbor City,90710,Male,No,No,No
+2372-HWUHI,Lakewood,90712,Male,No,No,No
+0390-DCFDQ,Los Alamitos,90720,Female,Yes,Yes,Yes
+4080-OGPJL,San Pedro,90731,Female,No,No,No
+2135-RXIHG,Carson,90745,Male,No,No,No
+3874-EQOEP,Long Beach,90804,Male,No,No,Yes
+0867-MKZVY,Altadena,91001,Female,No,Yes,Yes
+3376-BMGFE,Monrovia,91016,Female,No,No,Yes
+3445-HXXGF,Sierra Madre,91024,Male,Yes,Yes,No
+1875-QIVME,Tujunga,91042,Female,No,Yes,Yes
+2656-FMOKZ,Pasadena,91106,Female,Yes,No,Yes
+2070-FNEXE,Pasadena,91107,Female,Yes,No,Yes
+6317-YPKDH,Glendale,91202,Female,No,No,No
+9367-WXLCH,Glendale,91204,Male,No,No,Yes
+1918-ZBFQJ,Glendale,91206,Female,No,No,Yes
+1024-GUALD,Glendale,91207,Female,No,Yes,No
+2472-OVKUP,Canoga Park,91304,Male,No,Yes,Yes
+1285-OKIPP,Mission Hills,91345,Male,No,No,Yes
+7825-ECJRF,Santa Clarita,91350,Female,No,No,Yes
+7841-TZDMQ,Sun Valley,91352,Male,No,No,No
+9408-SSNVZ,Stevenson Ranch,91381,Female,No,No,Yes
+0742-MOABM,Panorama City,91402,Male,No,Yes,No
+2232-DMLXU,Van Nuys,91411,Female,No,Yes,No
+8937-RDTHP,Burbank,91504,Male,No,No,Yes
+1251-KRREG,North Hollywood,91601,Male,No,No,No
+0094-OIFMO,North Hollywood,91605,Female,Yes,No,Yes
+9947-OTFQU,Covina,91722,Male,Yes,No,No
+0322-YINQP,Covina,91723,Male,No,No,No
+4629-NRXKX,El Monte,91731,Female,No,Yes,No
+9514-JDSKI,El Monte,91732,Male,Yes,Yes,No
+4959-JOSRX,La Puente,91744,Female,No,Yes,No
+7273-TEFQD,La Puente,91746,Male,Yes,No,No
+3606-TWKGI,Rowland Heights,91748,Male,Yes,No,No
+4385-GZQXV,Ontario,91764,Female,Yes,No,No
+6366-ZGQGL,Pomona,91766,Male,No,No,No
+5940-AHUHD,Pomona,91768,Male,No,No,No
+6432-TWQLB,Rosemead,91770,Male,No,Yes,No
+4484-GLZOU,San Dimas,91773,Female,No,Yes,No
+9512-UIBFX,West Covina,91791,Male,No,Yes,No
+5583-SXDAG,Alhambra,91803,Male,No,Yes,No
+3488-PGMQJ,Alpine,91901,Male,Yes,No,No
+3580-REOAC,Bonita,91902,Male,No,No,No
+7534-BFESC,Boulevard,91905,Male,Yes,No,No
+6390-DSAZX,Guatay,91931,Female,No,No,No
+8098-LLAZX,Jacumba,91934,Female,Yes,No,No
+0265-EDXBD,Mount Laguna,91948,Male,Yes,Yes,No
+7563-BIUPC,Borrego Springs,92004,Male,No,No,No
+2840-XANRC,Del Mar,92014,Male,Yes,Yes,No
+5804-LEPIM,Escondido,92029,Female,Yes,No,No
+0122-OAHPZ,Oceanside,92057,Female,No,No,No
+2868-SNELZ,Pala,92059,Female,No,No,No
+1343-EHPYB,Ranchita,92066,Male,No,Yes,No
+2034-GDRCN,Valley Center,92082,Female,No,No,No
+0219-YTZUE,San Diego,92103,Male,No,Yes,No
+0623-IIHUG,San Diego,92104,Female,Yes,No,No
+4572-DVCGN,San Diego,92105,Female,No,No,No
+9057-MSWCO,San Diego,92108,Male,Yes,Yes,No
+1010-DIAUQ,San Diego,92116,Male,No,No,No
+0259-GBZSH,San Diego,92122,Male,No,No,No
+9601-BRXPO,San Diego,92129,Female,No,Yes,No
+6905-NIQIN,San Diego,92154,Male,No,No,No
+5167-ZFFMM,Indio,92201,Male,No,No,No
+4895-TMWIR,Indian Wells,92210,Male,Yes,Yes,No
+0533-BNWKF,Palm Desert,92211,Female,Yes,Yes,No
+6599-CEBNN,Desert Hot Springs,92240,Female,No,No,No
+0979-PHULV,Holtville,92250,Male,No,Yes,No
+4800-VHZKI,Niland,92257,Female,No,No,No
+7989-CHGTL,North Palm Springs,92258,Male,No,No,No
+0334-GDDSO,Ocotillo,92259,Male,Yes,No,No
+0578-SKVMF,Seeley,92273,Female,No,Yes,No
+5564-NEMQO,Thermal,92274,Female,Yes,No,No
+9063-ZGTUY,Adelanto,92301,Female,No,Yes,No
+2957-LOLHO,Apple Valley,92307,Male,No,No,No
+7752-XUSCI,Crestline,92325,Female,No,No,No
+4110-PFEUZ,Daggett,92327,Female,No,No,No
+0256-LTHVJ,Ludlow,92338,Female,No,Yes,No
+0880-TKATG,Lucerne Valley,92356,Male,No,Yes,No
+3811-VBYBZ,Lytle Creek,92358,Male,No,No,No
+4640-UHDOS,Phelan,92371,Female,No,Yes,No
+3583-EKAPL,Redlands,92373,Male,No,No,No
+9399-APLBT,Rialto,92377,Female,No,Yes,No
+2359-KMGLI,Running Springs,92382,Male,No,No,No
+0306-JAELE,Tecopa,92389,Male,No,No,No
+6227-HWPWX,Victorville,92392,Female,No,No,No
+0447-BEMNG,Wrightwood,92397,Female,No,Yes,No
+5949-XIKAE,San Bernardino,92401,Female,No,Yes,No
+8372-JUXUI,San Bernardino,92410,Male,No,No,No
+0388-EOPEX,Riverside,92503,Female,No,Yes,No
+6235-VDHOM,Riverside,92509,Female,Yes,No,No
+7783-YKGDV,March Air Reserve Base,92518,Female,No,No,No
+5609-CEBID,Hemet,92544,Female,Yes,No,No
+7218-HKQFK,Homeland,92548,Male,No,Yes,No
+4636-QRJKY,Idyllwild,92549,Female,No,Yes,No
+5956-VKDTT,Moreno Valley,92557,Female,Yes,Yes,No
+9412-GHEEC,Murrieta,92563,Male,No,No,No
+0257-ZESQC,Perris,92571,Female,Yes,Yes,No
+6825-UYPFK,Sun City,92586,Female,No,No,No
+8397-MVTAZ,Sun City,92587,Male,No,Yes,No
+9282-IZGQK,Irvine,92612,Female,No,No,No
+1342-JPNKI,Lake Forest,92630,Male,No,No,No
+2817-NTQDO,Huntington Beach,92646,Male,No,No,No
+6986-IJDHX,Huntington Beach,92648,Male,No,Yes,No
+5301-GAUUY,Newport Beach,92661,Male,No,No,No
+0939-YAPAF,Santa Ana,92701,Female,No,No,No
+1218-VKFPE,Anaheim,92805,Female,No,Yes,No
+3627-FHKBK,Anaheim,92806,Female,No,No,No
+2865-TCHJW,Anaheim,92807,Female,Yes,No,No
+5192-EBGOV,Brea,92823,Female,Yes,No,No
+0719-SYFRB,Norco,92860,Female,No,No,No
+3419-SNJJD,Yorba Linda,92887,Female,Yes,Yes,No
+6543-CPZMK,Ventura,93001,Male,No,Yes,No
+4765-OXPPD,Ventura,93003,Female,No,Yes,No
+1009-IRMNA,Port Hueneme,93041,Female,No,No,No
+4554-YGZIH,Summerland,93067,Male,Yes,Yes,No
+5099-BAILX,Santa Barbara,93101,Male,Yes,Yes,No
+7207-RMRDB,Santa Barbara,93110,Female,No,Yes,No
+0195-IESCP,Armona,93202,Male,No,Yes,No
+4580-TMHJU,Avenal,93204,Female,No,Yes,No
+0970-ETWGE,Bodfish,93205,Male,No,No,No
+1626-ERCMM,Camp Nelson,93208,Male,Yes,Yes,No
+0887-HJGAR,Coalinga,93210,Male,No,No,No
+5644-PDMZC,Delano,93215,Female,Yes,No,No
+9576-ANLXO,Earlimart,93219,Female,No,No,No
+2024-BASKD,Exeter,93221,Female,No,No,No
+4160-AMJTL,Fellows,93224,Female,Yes,No,No
+5650-VDUDS,Kernville,93238,Female,No,No,No
+7538-GWHML,Lemon Cove,93244,Female,No,No,No
+3859-CVCET,Lindsay,93247,Female,No,No,No
+3276-HDUEG,Maricopa,93252,Female,No,No,No
+0823-HSCDJ,Onyx,93255,Male,Yes,No,No
+0822-GAVAP,Posey,93260,Female,No,No,No
+1448-PWKYE,Shafter,93263,Male,No,Yes,No
+0067-DKWBL,Tipton,93272,Male,Yes,No,No
+2276-YDAVZ,Wofford Heights,93285,Female,No,No,No
+5896-NPFWW,Visalia,93292,Male,No,Yes,No
+7133-VBDCG,Bakersfield,93311,Female,No,No,No
+1029-QFBEN,San Luis Obispo,93405,Male,No,No,No
+4952-YSOGZ,Lompoc,93436,Female,No,Yes,No
+1589-AGTLK,Lompoc,93437,Male,No,No,No
+5244-IRFIH,Los Alamos,93440,Male,Yes,Yes,No
+2684-EIWEO,Oceano,93445,Female,Yes,No,No
+6439-GTPCA,Pismo Beach,93449,Female,No,No,No
+5138-WVKYJ,Mojave,93501,Male,No,No,No
+6683-VLCTZ,Johannesburg,93528,Male,Yes,No,No
+2189-WWOEW,Keene,93531,Female,No,No,No
+1894-IGFSG,Lancaster,93535,Female,No,No,No
+7379-POKDZ,Lancaster,93536,Male,No,Yes,No
+0236-HFWSV,Palmdale,93552,Male,No,No,No
+3900-AQPHZ,Pearblossom,93553,Female,No,No,No
+5842-POCOP,Randsburg,93554,Female,No,Yes,No
+7314-OXENN,Trona,93562,Male,No,No,No
+0322-CHQRU,Palmdale,93591,Male,No,No,No
+4678-DVQEO,Bass Lake,93604,Female,No,No,No
+1450-GALXR,Friant,93626,Female,No,No,No
+3138-BKYAV,Kerman,93630,Male,No,No,No
+4289-DTDKW,Madera,93637,Male,No,Yes,No
+1820-TQVEV,Madera,93638,Male,No,No,No
+6275-YDUVO,Orosi,93647,Female,No,No,No
+0115-TFERT,Fresno,93650,Male,No,Yes,No
+2311-QYMUQ,San Joaquin,93660,Female,No,Yes,No
+3643-AHCFP,Selma,93662,Male,Yes,Yes,No
+9231-ZJYAM,Squaw Valley,93675,Female,Yes,No,No
+6982-SSHFK,Fresno,93703,Male,No,No,No
+3027-ZTDHO,Fresno,93721,Male,No,No,No
+2207-NHRJK,Carmel,93923,Male,No,No,No
+0947-MUGVO,Jolon,93928,Male,Yes,Yes,No
+9944-HKVVB,King City,93930,Female,No,No,No
+4124-MMETB,Lockwood,93932,Male,No,No,No
+3671-SHRSP,Marina,93933,Male,No,Yes,No
+5073-WXOYN,Belmont,94002,Female,No,No,No
+0207-MDKNV,Daly City,94014,Female,No,No,No
+9851-KIELU,Loma Mar,94021,Male,No,No,No
+3908-BLSYF,Los Altos,94024,Female,No,No,No
+7549-MYGPK,Mountain View,94040,Female,No,Yes,No
+3804-RVTGV,Mountain View,94043,Male,No,Yes,No
+9227-LUNBG,Pescadero,94060,Female,No,No,No
+4315-MURBD,San Bruno,94066,Female,No,No,No
+9734-YWGEX,South San Francisco,94080,Female,No,No,No
+2719-BDAQO,Sunnyvale,94086,Male,No,No,No
+0781-LKXBR,San Francisco,94102,Male,Yes,No,No
+1907-UBQFC,San Francisco,94108,Male,Yes,No,No
+6513-EECDB,San Francisco,94114,Male,Yes,Yes,No
+7074-IEVOJ,San Francisco,94130,Female,Yes,No,No
+9625-QSTYE,San Francisco,94131,Female,No,No,No
+4750-ZRXIU,Palo Alto,94304,Female,Yes,No,No
+6400-BWQKW,San Mateo,94402,Female,No,No,No
+6680-WKXRZ,Antioch,94509,Female,No,No,No
+7028-DVOIQ,Birds Landing,94512,Male,Yes,No,No
+4208-UFFGW,Byron,94514,Male,Yes,No,No
+9448-REEVD,Concord,94520,Male,No,Yes,No
+9117-SHLZX,Fremont,94538,Male,No,No,No
+9889-TMAHG,Fremont,94539,Male,Yes,No,No
+4541-RMRLG,Hayward,94541,Male,No,No,No
+3158-MOERK,Hayward,94545,Female,No,No,No
+7294-TMAOP,Castro Valley,94546,Female,No,No,No
+8919-FYFQZ,Livermore,94550,Male,Yes,Yes,No
+5875-YPQFJ,Fremont,94555,Male,No,No,No
+8603-IJWDN,Pinole,94564,Male,No,No,No
+9369-XFEHK,Pleasanton,94566,Female,Yes,Yes,No
+3842-IYKUE,San Leandro,94579,Female,No,No,No
+6641-XRPSU,San Lorenzo,94580,Female,No,No,No
+1374-DMZUI,San Ramon,94583,Female,Yes,No,No
+8357-EQXFO,Union City,94587,Female,No,No,No
+1989-PRJHP,Pleasanton,94588,Male,Yes,Yes,No
+9524-EGPJC,Walnut Creek,94595,Female,No,No,No
+6993-OHLXR,Walnut Creek,94596,Female,No,No,No
+8818-XYFCQ,Walnut Creek,94598,Male,No,Yes,No
+4695-VADHF,Oakland,94606,Male,No,Yes,No
+4822-RVYBB,Berkeley,94704,Male,Yes,No,No
+8436-BJUMM,Albany,94706,Male,No,Yes,No
+4184-TJFAN,Berkeley,94707,Female,Yes,Yes,No
+4145-UQXUQ,Berkeley,94710,Female,Yes,No,No
+9948-YPTDG,San Rafael,94903,Male,No,Yes,No
+1236-WFCDV,Greenbrae,94904,Male,Yes,No,No
+4883-QICIH,Bodega Bay,94923,Male,No,Yes,No
+8329-IBCTI,Cotati,94931,Female,No,No,No
+1271-SJBGZ,Forest Knolls,94933,Male,Yes,No,No
+5669-SRAIP,Larkspur,94939,Female,No,No,No
+5981-ITEMU,Marshall,94940,Male,No,Yes,No
+6941-PMGEP,Novato,94945,Female,No,No,No
+1624-WOIWJ,Nicasio,94946,Female,No,No,No
+2074-GKOWZ,Novato,94947,Male,No,Yes,No
+0376-YMCJC,Novato,94949,Male,No,No,No
+0634-SZPQA,San Anselmo,94960,Female,No,No,No
+5536-RTPWK,Sausalito,94965,Male,No,Yes,No
+6166-ILMNY,Tomales,94971,Female,No,No,No
+3097-NNSPB,Valley Ford,94972,Female,No,No,No
+0655-RBDUG,Alviso,95002,Male,No,No,No
+4361-BKAXE,Boulder Creek,95006,Female,No,No,No
+9878-TNQGW,Davenport,95017,Male,No,No,No
+4441-NIHPT,Freedom,95019,Female,Yes,No,No
+8999-BOHSE,Gilroy,95020,Female,Yes,No,No
+7029-RPUAV,Los Gatos,95030,Male,Yes,Yes,No
+8824-RWFXJ,Santa Cruz,95062,Male,No,Yes,No
+9763-PDTKK,San Jose,95112,Female,No,No,No
+7627-JKIAZ,San Jose,95116,Female,No,Yes,No
+8111-SLLHI,San Jose,95128,Male,Yes,Yes,No
+0927-LCSMG,San Jose,95129,Male,No,No,No
+8257-RZAHR,San Jose,95134,Female,No,Yes,No
+5293-WXJAK,San Jose,95135,Female,Yes,Yes,No
+0841-NULXI,Stockton,95209,Male,No,No,No
+7851-WZEKY,Stockton,95219,Female,No,No,No
+8844-TONUD,Acampo,95220,Male,No,Yes,No
+4086-YQSNZ,Glencoe,95232,Female,Yes,Yes,No
+5868-CZJDR,Linden,95236,Male,No,No,No
+0135-NMXAP,Lodi,95240,Female,No,No,No
+0107-WESLM,West Point,95255,Male,No,No,No
+3992-YWPKO,Atwater,95301,Female,No,No,No
+0125-LZQXK,Big Oak Flat,95305,Male,No,No,No
+8399-YNDCH,Columbia,95310,Male,Yes,No,No
+5673-FSSMF,Delhi,95315,Female,No,No,No
+1579-KLYDT,Hickman,95323,Male,No,No,No
+6358-LYNGM,Mariposa,95338,Male,No,No,No
+5494-HECPR,Mi Wuk Village,95346,Female,No,No,No
+9824-BEMCV,Modesto,95350,Male,No,Yes,No
+1373-ORVIZ,Modesto,95351,Female,No,Yes,No
+9866-QEVEE,Modesto,95356,Male,No,No,No
+9897-KXHCM,Modesto,95357,Female,No,Yes,No
+7979-CORPM,Oakdale,95361,Male,No,No,No
+1618-CFHME,Riverbank,95367,Female,No,No,No
+3165-HDOEW,Salida,95368,Male,No,Yes,No
+6581-NQCBA,Snelling,95369,Female,No,Yes,No
+1689-MRZQR,Turlock,95382,Male,No,Yes,No
+5835-BEQEU,Westley,95387,Male,No,No,No
+5565-FILXA,Yosemite National Park,95389,Female,Yes,No,No
+5552-ZNFSJ,Santa Rosa,95407,Male,No,No,No
+2223-KAGMX,Santa Rosa,95409,Female,No,No,No
+7321-PKUYW,Branscomb,95417,Female,No,No,No
+2833-SLKDQ,Caspar,95420,Male,No,No,No
+7595-EUIVN,Clearlake,95422,Female,No,No,No
+2026-TGDHM,Cloverdale,95425,Female,No,No,No
+4030-VPZBD,Comptche,95427,Female,No,No,No
+6818-WOBHJ,Fulton,95439,Female,Yes,Yes,No
+9134-CEQMF,Nice,95464,Male,Yes,Yes,No
+7993-PYKOF,Rio Nido,95471,Male,No,Yes,No
+5027-XWQHA,Ukiah,95482,Male,No,No,No
+4566-QVRRW,Witter Springs,95493,Female,No,Yes,No
+8519-IMDHU,Alderpoint,95511,Male,Yes,Yes,No
+3372-KWFBM,Bayside,95524,Male,Yes,No,No
+7831-QGOXH,Blue Lake,95525,Female,No,No,No
+6393-WRYZE,Bridgeville,95526,Female,No,Yes,No
+6599-RCLCJ,Crescent City,95531,Male,No,Yes,No
+1725-MIMXW,Honeydew,95545,Male,No,No,No
+0031-PVLZI,Korbel,95550,Female,No,Yes,No
+7206-GZCDC,Loleta,95551,Female,Yes,No,No
+1768-ZAIFU,Rio Dell,95562,Female,Yes,No,No
+4671-LXRDQ,Salyer,95563,Male,No,No,No
+1934-SJVJK,Smith River,95567,Male,No,No,No
+3838-OZURD,Somes Bar,95568,Male,No,Yes,No
+9269-CQOOL,Trinidad,95570,Male,No,No,No
+2845-HSJCY,Whitethorn,95589,Female,No,Yes,No
+1184-PJVDB,Amador City,95601,Male,No,Yes,No
+9415-DPEWS,Carmichael,95608,Female,No,No,No
+7943-RQCHR,Davis,95616,Female,No,No,No
+3793-MMFUH,Davis,95618,Female,Yes,No,No
+3249-ZPQRG,Diamond Springs,95619,Male,No,No,No
+2568-BRGYX,Dixon,95620,Male,No,No,No
+7721-JXEAW,Elk Grove,95624,Male,No,Yes,No
+7249-WBIYX,Elmira,95625,Male,No,Yes,No
+6567-HOOPW,Folsom,95630,Female,Yes,No,No
+3334-CTHOL,Jackson,95642,Female,No,No,No
+4704-ERYFC,Knights Landing,95645,Female,No,Yes,No
+8621-MNIHH,Madison,95653,Female,Yes,Yes,No
+5419-CONWX,Pleasant Grove,95668,Female,Yes,No,No
+6240-EURKS,Plymouth,95669,Female,No,No,No
+6960-HVYXR,Rio Linda,95673,Female,No,No,No
+7024-OHCCK,Sheridan,95681,Female,Yes,No,No
+7861-UVUFT,Sloughhouse,95683,Female,No,Yes,No
+5357-TZHPP,Wheatland,95692,Male,Yes,No,No
+0680-DFNNY,Winters,95694,Male,No,Yes,No
+7767-UXAGJ,Colfax,95713,Male,No,No,No
+1571-SAVHK,Meadow Vista,95722,Male,No,No,No
+9546-CQJSU,Soda Springs,95728,Female,No,No,No
+0506-LVNGN,Rancho Cordova,95742,Female,Yes,No,No
+2951-QOQTK,Sacramento,95815,Male,No,No,No
+3473-XIIIT,Sacramento,95824,Female,No,Yes,No
+7893-IXHRQ,Sacramento,95826,Male,No,No,No
+2952-QAYZF,Sacramento,95828,Male,No,No,No
+4763-PGDPO,Sacramento,95831,Female,No,No,No
+5394-SVGJV,Sacramento,95838,Male,No,No,No
+9283-LZQOH,Antelope,95843,Male,No,Yes,No
+7079-QRCBC,Sacramento,95864,Female,No,No,No
+9851-QXEEQ,Bangor,95914,Male,No,No,No
+9809-IMGCQ,Canyon Dam,95923,Male,Yes,No,No
+5208-HFSBT,Challenge,95925,Female,No,No,No
+3254-YRILK,Dobbins,95935,Male,Yes,No,No
+0529-ONKER,Forest Ranch,95942,Male,Yes,No,No
+5240-IJOQT,Grass Valley,95949,Male,Yes,No,No
+1092-GANHU,Magalia,95954,Male,No,No,No
+0661-XEYAN,Nevada City,95959,Female,Yes,No,No
+7881-EVUAD,Oroville,95966,Female,No,No,No
+5766-XQXMQ,Princeton,95970,Female,No,No,No
+3703-VAVCL,Strawberry Valley,95981,Male,No,Yes,No
+8519-QJGJD,Twain,95984,Female,No,No,No
+6326-MTTXK,Yuba City,95993,Male,No,No,No
+0330-IVZHA,Anderson,96007,Female,No,Yes,No
+4237-RLAQD,Callahan,96014,Male,No,No,No
+3186-BAXNB,Cottonwood,96022,Female,No,No,No
+0637-YLETY,Douglas City,96024,Female,No,No,No
+1157-BQCUW,Fall River Mills,96028,Male,No,No,No
+2660-EMUBI,Fort Jones,96032,Male,Yes,No,No
+7675-OZCZG,Hayfork,96041,Female,Yes,No,No
+2003-CKLOR,Igo,96047,Male,No,No,No
+1205-WNWPJ,Lakehead,96051,Female,No,No,No
+9391-EOYLI,Lewiston,96052,Male,Yes,Yes,No
+8387-MOJJT,Nubieber,96068,Female,No,Yes,No
+2761-OCIAX,Palo Cedro,96073,Male,Yes,No,No
+3068-OMWZA,Round Mountain,96084,Male,Yes,No,No
+6032-KRXXO,Seiad Valley,96086,Male,No,No,No
+7459-RRWQZ,Shasta,96087,Female,No,No,No
+4154-AQUGT,Vina,96092,Male,Yes,Yes,No
+8017-LXHFA,Davis Creek,96108,Female,Yes,No,No
+6352-TWCAU,Fort Bidwell,96112,Female,No,No,No
+1262-OPMFY,Likely,96116,Female,No,Yes,No
+4248-QPAVC,Portola,96122,Female,Yes,Yes,No
+4690-LLKUA,Topaz,96133,Male,Yes,No,No
+3331-HQDTW,Homewood,96141,Female,No,No,No
+9490-DFPMD,Tahoma,96142,Female,Yes,No,No
+5442-XSDCW,Tahoe City,96145,Male,No,Yes,No
+3049-NDXFL,South Lake Tahoe,96150,Female,No,No,No
+8580-AECUZ,Truckee,96161,Male,Yes,No,No
+7963-GQRMY,Los Angeles,90004,Female,No,Yes,No
+1228-FZFRV,Los Angeles,90007,Male,No,Yes,No
+2058-DCJBE,Los Angeles,90012,Male,No,No,No
+5364-XYIRR,Los Angeles,90013,Male,No,Yes,No
+4829-AUOAX,Los Angeles,90014,Female,No,No,No
+5047-LHVLY,Los Angeles,90020,Male,Yes,No,No
+9158-VCTQB,Los Angeles,90023,Female,No,Yes,No
+6311-UEUME,Los Angeles,90025,Female,No,No,No
+6839-ITVZJ,Los Angeles,90037,Female,No,Yes,No
+0375-HVGXO,Los Angeles,90045,Female,No,No,No
+8593-WHYHV,Los Angeles,90047,Male,No,No,No
+4423-YLHDV,Los Angeles,90059,Female,No,Yes,No
+0107-YHINA,Los Angeles,90062,Male,No,No,No
+8640-SDGKB,Los Angeles,90066,Male,No,No,No
+4116-TZAQJ,Culver City,90230,Female,No,No,No
+3877-JRJIP,Hawthorne,90250,Male,No,No,No
+8375-DKEBR,Hermosa Beach,90254,Female,Yes,No,No
+7511-YMXVQ,Lynwood,90262,Male,No,No,No
+7551-JOHTI,Malibu,90265,Female,No,No,No
+9804-ICWBG,Pacific Palisades,90272,Male,No,No,No
+5318-IXUZF,Redondo Beach,90277,Female,No,No,No
+3198-VELRD,Marina Del Rey,90292,Female,No,Yes,No
+9436-ZBZCT,Inglewood,90303,Male,No,No,No
+7279-BUYWN,Buena Park,90620,Female,Yes,No,No
+7156-MHUGY,Buena Park,90621,Male,Yes,No,No
+7198-GLXTC,La Palma,90623,Male,No,No,No
+8380-PEFPE,Avalon,90704,Male,No,No,No
+5687-DKDTV,Bellflower,90706,Female,No,No,No
+7530-HDYDS,Lakewood,90712,Female,No,No,No
+3096-IZETN,Lomita,90717,Female,No,No,No
+5922-ABDVO,Seal Beach,90740,Female,No,Yes,No
+9172-ANCRX,Carson,90745,Female,No,No,No
+6910-HADCM,Long Beach,90808,Female,No,No,No
+4816-LXZYW,Long Beach,90810,Female,No,No,No
+9606-PBKBQ,Long Beach,90813,Male,Yes,Yes,No
+3536-IQCTX,South Pasadena,91030,Male,Yes,Yes,No
+4911-BANWH,Sunland,91040,Female,No,No,No
+8496-EJAUI,Tujunga,91042,Male,No,No,No
+3132-TVFDZ,Glendale,91202,Male,Yes,Yes,No
+8080-DDEMJ,Glendale,91204,Male,Yes,No,No
+6365-MTGZX,Glendale,91206,Male,No,No,No
+1349-WXNGG,Glendale,91207,Male,No,No,No
+0621-TWIEM,Newhall,91321,Male,No,No,No
+2485-ITVKB,Northridge,91325,Female,No,Yes,No
+3669-OYSJI,Porter Ranch,91326,Male,No,No,No
+1612-EOHDH,Pacoima,91331,Female,No,No,No
+6702-OHFWR,Reseda,91335,Male,Yes,No,No
+4510-PYUSH,Sylmar,91342,Female,Yes,No,No
+7517-SAWMO,Granada Hills,91344,Female,No,Yes,No
+4143-HHPMK,Mission Hills,91345,Male,No,No,No
+7054-LGEQW,Canyon Country,91351,Female,No,No,No
+0923-PNFUB,Westlake Village,91361,Female,No,No,No
+3494-JCHRQ,Van Nuys,91411,Male,No,No,No
+6474-FVJLC,Sherman Oaks,91423,Male,No,No,No
+8840-DQLGN,Burbank,91502,Female,Yes,Yes,No
+4547-LYTDD,North Hollywood,91601,Female,No,No,No
+6770-XUAGN,North Hollywood,91605,Female,No,Yes,No
+4193-ORFCL,North Hollywood,91606,Female,Yes,No,No
+7776-QWNFX,Chino,91710,Male,Yes,Yes,No
+6689-TCZHQ,Claremont,91711,Female,Yes,No,No
+3143-ILDAL,El Monte,91732,Male,No,No,No
+4720-VSTSI,Monterey Park,91754,Female,No,No,No
+3946-MHCZW,Ontario,91761,Male,No,No,No
+6651-AZVTJ,Pomona,91768,Male,No,Yes,No
+4566-GOLUK,Rosemead,91770,Male,No,Yes,No
+2484-DGXPZ,San Dimas,91773,Female,No,Yes,No
+4587-NUKOX,Walnut,91789,Female,No,No,No
+0420-BWTPW,Chula Vista,91910,Male,No,No,No
+8183-ONMXC,Chula Vista,91915,Female,No,No,No
+9614-RMGHA,Dulzura,91917,Male,No,Yes,No
+5054-IEXZT,Jacumba,91934,Male,No,No,No
+5834-ASPWA,Jamul,91935,Male,No,No,No
+3948-XHGNA,Bonsall,92003,Male,No,No,No
+5445-UTODQ,Del Mar,92014,Female,No,Yes,No
+1024-VRZHF,Encinitas,92024,Male,No,Yes,No
+9497-QCMMS,Escondido,92026,Male,Yes,No,No
+0348-SDKOL,La Jolla,92037,Female,No,Yes,No
+4373-MAVJG,Oceanside,92056,Female,No,Yes,No
+8901-HJXTF,Oceanside,92057,Female,No,Yes,No
+5419-KLXBN,Palomar Mountain,92060,Female,No,Yes,No
+4514-GFCFI,Ramona,92065,Female,Yes,No,No
+9828-AOQLM,San Marcos,92069,Female,No,Yes,No
+8000-REIQB,Santee,92071,Female,Yes,No,No
+7615-ESMYF,Valley Center,92082,Female,No,Yes,No
+3858-VOBET,Vista,92083,Male,No,No,No
+8565-CLBZW,San Diego,92102,Male,No,No,No
+0224-HJAPT,San Diego,92104,Male,No,No,No
+8086-OVPWV,San Diego,92105,Male,No,No,No
+9430-FRQOC,San Diego,92106,Female,No,No,No
+3074-GQWYX,San Diego,92108,Male,No,No,No
+6845-RGTYS,San Diego,92110,Female,No,Yes,No
+8861-HGGKB,San Diego,92115,Female,No,No,No
+7065-YUNRY,San Diego,92117,Female,No,No,No
+4795-KTRTH,San Diego,92122,Female,Yes,Yes,No
+3753-TSEMP,San Diego,92139,Female,No,Yes,No
+8305-VHZBZ,San Diego,92154,Male,No,No,No
+9172-JITSM,Palm Desert,92211,Female,No,Yes,No
+6298-QDFNH,Banning,92220,Male,No,No,No
+9961-JBNMK,Desert Center,92239,Male,Yes,No,No
+6173-ITPWD,Heber,92249,Male,No,Yes,No
+9734-UYXQI,Holtville,92250,Female,No,No,No
+2189-UXTKY,La Quinta,92253,Female,No,Yes,No
+4958-GZWIY,North Palm Springs,92258,Male,No,Yes,No
+6356-ELRKD,Rancho Mirage,92270,Female,No,No,No
+8624-GIOUT,Seeley,92273,Female,No,No,No
+6179-GJPSO,Twentynine Palms,92277,Female,Yes,No,No
+3177-LASXD,Westmorland,92281,Female,No,No,No
+4897-QSUYC,Amboy,92304,Female,No,No,No
+1084-UQCHV,Angelus Oaks,92305,Male,No,No,No
+8290-YWKHZ,Apple Valley,92307,Female,Yes,Yes,No
+2955-BJZHG,Apple Valley,92308,Male,No,Yes,No
+3806-DXQOM,Baker,92309,Female,No,No,No
+9300-RENDD,Cedar Glen,92321,Male,No,No,No
+0761-AETCS,Colton,92324,Female,No,No,No
+3106-ULWFW,Fontana,92337,Female,No,Yes,No
+0925-VYDLG,Ludlow,92338,Female,No,No,No
+4349-GFQHK,Mentone,92359,Male,No,No,No
+7802-EFKNY,Redlands,92374,Male,No,Yes,No
+9787-XVQIU,Sugarloaf,92386,Male,No,No,No
+8051-HJRLT,Wrightwood,92397,Female,Yes,No,No
+3023-GFLBR,San Bernardino,92408,Female,No,Yes,No
+0524-IAVZO,Anza,92539,Female,No,Yes,No
+2737-YNGYW,Hemet,92543,Female,No,No,No
+5159-YFPKQ,Moreno Valley,92551,Female,No,No,No
+4021-RQSNY,Moreno Valley,92555,Male,Yes,Yes,No
+9061-TIHDA,Murrieta,92563,Male,Yes,Yes,No
+8699-ASUFO,Nuevo,92567,Male,Yes,Yes,No
+7927-AUXBZ,Sun City,92586,Female,No,No,No
+4695-WJZUE,Irvine,92606,Female,Yes,No,No
+7619-ODSGN,Foothill Ranch,92610,Male,No,Yes,Yes
+3988-RQIXO,Corona Del Mar,92625,Female,Yes,No,No
+2514-GINMM,Dana Point,92629,Male,No,No,No
+5931-FLJJF,Midway City,92655,Male,Yes,Yes,No
+3207-OYBWH,Newport Beach,92661,Male,Yes,Yes,No
+4285-GYRQC,Newport Beach,92662,Female,No,Yes,No
+7216-EWTRS,Newport Beach,92663,Female,Yes,Yes,No
+8337-MSSXB,Trabuco Canyon,92679,Female,No,No,No
+8182-BJDSI,Santa Ana,92705,Female,No,No,No
+2528-HFYZX,Santa Ana,92706,Male,Yes,Yes,No
+2482-CZGBB,Anaheim,92804,Male,No,No,No
+7181-BQYBV,Garden Grove,92845,Female,No,Yes,No
+6204-IEUXJ,Yorba Linda,92886,Female,No,No,No
+4529-CKBCL,Ventura,93001,Female,No,No,No
+2506-CLAKW,Ventura,93003,Female,No,No,No
+1583-IHQZE,Camarillo,93010,Male,No,No,No
+0151-ONTOV,Moorpark,93021,Female,No,No,No
+4140-MUHUG,Oak View,93022,Female,Yes,No,No
+0320-JDNQG,Oxnard,93035,Male,No,Yes,No
+7180-PISOG,Piru,93040,Male,No,Yes,No
+3571-RFHAR,Santa Paula,93060,Male,No,No,No
+9578-VRMNM,Summerland,93067,Female,No,No,No
+1587-FKLZB,Santa Barbara,93101,Male,Yes,Yes,No
+6140-QNRQQ,Santa Barbara,93103,Male,No,No,No
+4307-KTUMW,Santa Barbara,93108,Male,No,Yes,No
+7470-MCQTK,Alpaugh,93201,Female,No,Yes,No
+7488-MXJIV,Armona,93202,Female,No,No,No
+2027-FECZV,Bodfish,93205,Male,No,No,No
+2672-DZUOY,Buttonwillow,93206,Male,No,No,No
+7377-DMMRI,Exeter,93221,Male,No,No,No
+8949-JTMAY,Mc Kittrick,93251,Female,No,No,No
+2774-LVQUS,Maricopa,93252,Female,Yes,Yes,No
+3211-ILJTT,Taft,93268,Male,No,Yes,No
+4094-NSEDU,Tipton,93272,Female,Yes,No,No
+5103-MHMHY,Los Osos,93402,Female,No,No,Yes
+1846-XWOQN,Bradley,93426,Female,Yes,No,No
+0235-KGSLC,Buellton,93427,Female,No,No,No
+2884-GBPFB,Morro Bay,93442,Female,No,Yes,No
+3757-NJYBX,Nipomo,93444,Male,Yes,Yes,No
+3722-WPXTK,Benton,93512,Male,No,No,No
+2929-ERCFZ,Independence,93526,Female,No,Yes,No
+7548-SEPYI,Inyokern,93527,Female,No,No,No
+8835-VSDSE,Johannesburg,93528,Female,No,Yes,No
+9898-KZQDZ,Lee Vining,93541,Female,Yes,Yes,No
+7854-FOKSF,Rosamond,93560,Male,No,No,No
+2519-FAKOD,Tehachapi,93561,Male,No,No,No
+8263-JQAIK,Palmdale,93591,Male,Yes,No,No
+7089-IVVAZ,Cantua Creek,93608,Female,No,No,No
+2205-YMZZJ,Clovis,93612,Male,Yes,No,No
+1254-IZEYF,Cutler,93615,Female,Yes,No,No
+9492-TOKRI,Dinuba,93618,Female,No,No,No
+9221-OTIVJ,Dunlap,93621,Female,Yes,No,No
+5908-QMGOE,Fowler,93625,Male,Yes,No,No
+8481-YYXWG,Hume,93628,Female,No,No,No
+2609-IAICY,North Fork,93643,Female,No,No,No
+1740-CSDJP,Oakhurst,93644,Male,No,No,No
+2636-OHFMN,Orosi,93647,Male,No,Yes,No
+1323-OOEPC,Prather,93651,Female,No,Yes,No
+0397-GZBBC,South Dos Palos,93665,Male,Yes,Yes,No
+7641-EUYET,Tranquillity,93668,Male,Yes,Yes,No
+9921-ZVRHG,Traver,93673,Female,No,No,No
+4701-MLJPN,Fresno,93702,Male,No,No,No
+9206-GVPEQ,Fresno,93706,Male,No,Yes,No
+1596-BBVTG,Fresno,93711,Male,No,No,No
+8433-WXGNA,Salinas,93906,Male,No,No,No
+3707-GNWHM,Carmel Valley,93924,Male,No,No,No
+8922-LIEGH,Jolon,93928,Female,Yes,No,No
+8245-UMPYT,Lockwood,93932,Female,Yes,No,No
+5186-SAMNZ,Marina,93933,Male,Yes,No,No
+5373-SFODM,San Lucas,93954,Male,Yes,Yes,No
+5766-ZJYBB,Brisbane,94005,Male,No,No,No
+8931-GJJIQ,Burlingame,94010,Female,No,No,No
+4277-PVRAN,Daly City,94014,Female,No,No,No
+0952-KMEEH,Mountain View,94043,Male,No,No,No
+8178-EYZUO,San Francisco,94105,Male,No,No,No
+5130-IEKQT,San Francisco,94109,Male,Yes,No,No
+0407-BDJKB,San Francisco,94114,Male,No,Yes,No
+9600-UDOPK,San Francisco,94117,Male,No,Yes,No
+4074-SJFFA,San Francisco,94122,Female,No,No,No
+3269-ATYWD,San Francisco,94123,Male,Yes,No,No
+4910-GMJOT,San Francisco,94129,Female,No,No,No
+0354-WYROK,San Francisco,94130,Female,Yes,Yes,No
+7576-OYWBN,San Mateo,94402,Male,Yes,No,No
+5539-TMZLF,Concord,94520,Male,Yes,No,No
+4323-SADQS,Concord,94521,Male,No,Yes,Yes
+4446-BZKHU,Pleasant Hill,94523,Male,No,Yes,No
+5202-IVJNU,Crockett,94525,Female,No,No,Yes
+5976-JCJRH,Danville,94526,Male,No,Yes,No
+0137-OCGAB,Fairfield,94533,Female,No,No,No
+7593-JNWRU,Fremont,94538,Male,No,Yes,Yes
+4588-YBNIB,Fremont,94539,Female,No,No,No
+3336-JORSO,Hayward,94542,Female,Yes,No,No
+5028-GZLDO,Moraga,94556,Male,No,No,No
+6861-XWTWQ,Napa,94559,Male,Yes,Yes,No
+6877-TJMBR,Orinda,94563,Male,No,Yes,No
+2433-KMEAS,Dublin,94568,Male,No,No,No
+2195-ZRVAX,Rodeo,94572,Female,No,Yes,No
+3550-SAHFP,Saint Helena,94574,Female,No,No,No
+2011-TRQYE,Deer Park,94576,Male,No,No,No
+4873-ILOLJ,Sunol,94586,Male,No,No,No
+2725-KXXWT,Vallejo,94589,Male,No,Yes,No
+9565-DJPIB,Vallejo,94590,Female,No,No,No
+8348-HFYIV,Oakland,94601,Male,No,No,No
+6849-WLEYG,Emeryville,94608,Male,No,No,Yes
+4659-NZRUF,Oakland,94609,Female,No,No,No
+8429-XIBUM,Oakland,94618,Male,No,No,No
+2608-BHKFN,Berkeley,94703,Female,No,No,No
+7341-LXCAF,Berkeley,94705,Male,No,Yes,No
+9462-MJUAW,Berkeley,94708,Male,No,No,No
+8128-YVJRG,Berkeley,94709,Female,No,No,No
+4283-FUTGF,El Sobrante,94803,Male,Yes,No,No
+1569-TTNYJ,Richmond,94805,Male,No,Yes,No
+2397-BRLOM,San Rafael,94901,Male,Yes,Yes,No
+4749-VFKVB,Inverness,94937,Female,No,No,No
+7598-UAASY,Marshall,94940,Male,No,Yes,No
+7938-OUHIO,Mill Valley,94941,Male,No,No,No
+8510-AWCXC,Novato,94945,Female,Yes,No,No
+3426-NIYYL,Sausalito,94965,Male,No,No,No
+8225-BTJAU,Stinson Beach,94970,Male,Yes,No,No
+3387-VATUS,Aromas,95004,Male,No,No,No
+1143-NMNQJ,Boulder Creek,95006,Female,No,No,No
+0415-MOSGF,Los Gatos,95030,Female,No,No,No
+1724-BQUHA,Los Gatos,95032,Male,Yes,No,No
+4826-XTSOH,Moss Landing,95039,Male,Yes,Yes,No
+2495-INZWQ,San Juan Bautista,95045,Male,No,No,No
+4139-SUGLD,Santa Clara,95054,Male,No,Yes,Yes
+6857-VWJDT,Santa Cruz,95060,Female,No,No,No
+5624-BQSSA,Santa Cruz,95065,Female,No,No,No
+2408-WITXK,San Jose,95110,Female,Yes,No,No
+5577-OTWWW,San Jose,95120,Female,No,No,No
+6100-QQHEB,San Jose,95121,Male,No,Yes,No
+7503-QQRVF,San Jose,95127,Male,Yes,Yes,No
+2691-NZETQ,San Jose,95130,Male,No,No,No
+7295-JOMMD,San Jose,95135,Female,No,No,No
+0709-TVGUR,Stockton,95207,Female,Yes,No,No
+6023-YEBUP,Stockton,95210,Male,No,No,No
+7209-JCUDS,Stockton,95212,Male,No,No,No
+3001-CBHLQ,Angels Camp,95222,Male,Yes,Yes,No
+0772-GYEQQ,Lodi,95240,Male,No,No,No
+4831-EOBFE,Mountain Ranch,95246,Male,No,Yes,No
+4102-OQUPX,Sheep Ranch,95250,Male,Yes,Yes,No
+9170-GYZJC,Vallecito,95251,Female,No,Yes,Yes
+3999-QGRJH,Ballico,95303,Male,Yes,No,No
+2454-RPBRZ,Catheys Valley,95306,Female,Yes,Yes,No
+2002-MZHWP,Delhi,95315,Female,No,No,No
+2265-CYWIV,Hickman,95323,Female,Yes,Yes,No
+2004-OCQXK,Merced,95348,Female,No,No,No
+5027-QPKTE,Modesto,95350,Male,No,Yes,No
+2672-HUYVI,Newman,95360,Female,No,No,No
+7508-MYBOG,Patterson,95363,Male,No,Yes,No
+0148-DCDOS,Planada,95365,Male,No,No,No
+9992-RRAMN,Riverbank,95367,Male,No,Yes,No
+0310-MVLET,Snelling,95369,Female,No,Yes,No
+4550-VBOFE,Soulsbyville,95372,Male,Yes,Yes,No
+5696-QURRL,Waterford,95386,Male,No,No,No
+7409-KIUTL,Westley,95387,Female,Yes,No,No
+1732-VHUBQ,Yosemite National Park,95389,Female,Yes,Yes,No
+0495-RVCBF,Santa Rosa,95401,Female,No,No,No
+7854-EDSSA,Santa Rosa,95404,Male,No,No,No
+0679-IDSTG,Branscomb,95417,Female,Yes,Yes,No
+2115-BFTIW,Clearlake Oaks,95423,Male,No,No,No
+0611-DFXKO,Comptche,95427,Male,No,Yes,No
+7780-OTDSO,Covelo,95428,Male,No,Yes,No
+9747-DDZOS,Eldridge,95431,Female,No,No,No
+0564-JJHGS,Guerneville,95446,Male,No,No,No
+3348-CFRNX,Healdsburg,95448,Female,No,Yes,No
+1428-GTBJJ,Jenner,95450,Male,No,No,No
+8802-UNOJF,Philo,95466,Male,Yes,No,No
+6313-GIDIT,Point Arena,95468,Male,Yes,No,No
+2845-AFFTX,Westport,95488,Male,Yes,Yes,No
+2249-YPRNG,The Sea Ranch,95497,Female,No,Yes,No
+7410-YTJIK,Eureka,95501,Female,No,No,No
+4626-GYCZP,Eureka,95503,Male,No,No,No
+5590-BYNII,Bayside,95524,Male,No,No,No
+3237-AJGEH,Bridgeville,95526,Female,No,Yes,Yes
+1591-NFNLQ,Crescent City,95531,Male,No,No,No
+2815-CPTUL,Gasquet,95543,Male,Yes,No,No
+0596-BQCEQ,Hydesville,95547,Female,No,Yes,No
+1481-ZUWZA,Klamath,95548,Male,No,No,No
+2309-OSFEU,Smith River,95567,Male,No,No,No
+1891-FZYSA,Piercy,95587,Male,Yes,Yes,No
+7613-LLQFO,Amador City,95601,Male,No,No,No
+2640-PMGFL,West Sacramento,95605,Male,No,No,No
+3801-HMYNL,Brooks,95606,Male,No,Yes,No
+9685-WKZGT,Carmichael,95608,Male,Yes,No,No
+6022-UGGSO,Citrus Heights,95610,Female,Yes,No,No
+4484-CGXFK,El Dorado,95623,Female,No,No,No
+6214-EDAKZ,Elverta,95626,Female,No,Yes,Yes
+6127-ISGTU,Garden Valley,95633,Female,No,Yes,No
+8740-XLHDR,Greenwood,95635,Male,No,No,No
+1761-AEZZR,Guinda,95637,Male,No,No,No
+3923-CSIHK,Herald,95638,Female,Yes,Yes,No
+7120-RFMVS,Isleton,95641,Male,No,No,No
+1322-AGOQM,Mather,95655,Male,No,No,No
+3677-IYRBF,Newcastle,95658,Female,Yes,No,No
+5692-FPTAH,Nicolaus,95659,Female,No,No,No
+1550-LOAHA,Orangevale,95662,Female,No,Yes,No
+0268-QKIWO,Pilot Hill,95664,Female,No,No,No
+0876-WDUUZ,Pine Grove,95665,Female,No,No,No
+0617-FHSGK,Rancho Cordova,95670,Male,No,No,No
+8118-LSUEL,Roseville,95678,Male,Yes,No,No
+7005-CCBKV,Thornton,95686,Male,No,No,No
+4250-FDVOU,Woodland,95695,Female,No,No,No
+5277-ZLOOR,Applegate,95703,Female,Yes,No,No
+2141-RRYGO,Camino,95709,Female,No,No,No
+6376-GAHQE,Dutch Flat,95714,Male,No,No,No
+5052-PNLOS,Echo Lake,95721,Male,No,No,No
+6979-ZNSFF,Pollock Pines,95726,Female,No,No,No
+2386-LAHRK,Weimar,95736,Male,No,No,No
+6032-IGALN,Granite Bay,95746,Female,No,No,No
+4248-HCETZ,Sacramento,95814,Male,Yes,Yes,No
+0516-WJVXC,Sacramento,95818,Female,No,No,No
+9174-FKWZE,Sacramento,95819,Female,Yes,No,No
+4822-NGOCH,Sacramento,95831,Female,No,No,No
+5307-DZCVC,Sacramento,95835,Female,Yes,Yes,No
+8679-JOEVF,Sacramento,95838,Female,Yes,No,No
+1432-FPAXX,Beale Afb,95903,Female,No,No,No
+4803-AXVYP,Butte City,95920,Female,Yes,No,No
+3884-HCSWG,Camptonville,95922,Female,No,No,No
+5077-DXTCG,Challenge,95925,Female,No,No,No
+1142-WACZW,Chico,95926,Male,No,No,No
+5649-ANRML,Clipper Mills,95930,Male,Yes,No,No
+4892-VLANZ,Colusa,95932,Male,No,No,No
+2919-HBCJO,Downieville,95936,Female,No,No,No
+4236-XPXAV,Dunnigan,95937,Female,No,Yes,No
+3030-YZADT,Grass Valley,95949,Male,No,No,No
+7410-KTVFV,Grimes,95950,Male,No,Yes,No
+8393-DLHGA,Palermo,95968,Male,No,No,No
+7395-IGJOS,Quincy,95971,Male,Yes,Yes,No
+2834-SPCJV,Rough And Ready,95975,Male,No,Yes,No
+7890-VYYWG,Sutter,95982,Male,Yes,Yes,No
+9907-SWKKF,Twain,95984,Female,Yes,No,No
+0587-DMGBH,Willows,95988,Female,No,No,No
+6397-JNZZG,Adin,96006,Female,Yes,Yes,No
+0895-DQHEW,Burney,96013,Male,No,Yes,No
+8149-RSOUN,Dorris,96023,Female,No,No,No
+7250-EQKIY,Fort Jones,96032,Female,No,Yes,Yes
+4013-UBXWQ,Hayfork,96041,Female,No,No,No
+5519-NPHVG,Klamath River,96050,Female,No,No,No
+3148-BLQJT,Montague,96064,Male,No,No,No
+0461-CVKMU,Oak Run,96069,Female,No,Yes,No
+8806-EAGWC,Old Station,96071,Male,No,No,No
+7779-LGOVN,Paskenta,96074,Male,Yes,Yes,No
+9710-ZUSHQ,Red Bluff,96080,Female,Yes,No,No
+4183-WCSEP,Weaverville,96093,Male,No,No,No
+5498-TXHLF,Whitmore,96096,Female,No,Yes,No
+9722-UJOJR,Blairsden Graeagle,96103,Male,No,Yes,No
+3902-FOIGH,Doyle,96109,Male,Yes,Yes,No
+6772-KSATR,Eagleville,96110,Male,No,No,No
+7112-OPOTK,Fort Bidwell,96112,Male,No,No,No
+4210-QFJMF,Lake City,96115,Female,No,No,No
+3318-OSATS,Sierra City,96125,Male,Yes,No,No
+1086-LXKFY,Westwood,96137,Female,No,Yes,No
+2636-ALXXZ,Tahoe Vista,96148,Female,Yes,No,No
+7786-WBJYI,Truckee,96161,Female,No,No,No
+9885-CSMWE,Los Angeles,90007,Female,Yes,No,No
+5016-ETTFF,Los Angeles,90016,Male,No,No,No
+3866-MDTUB,Los Angeles,90017,Female,No,No,No
+8058-JMEQO,Los Angeles,90020,Female,Yes,No,No
+0697-ZMSWS,Los Angeles,90023,Male,No,No,No
+8276-MQBYC,Los Angeles,90028,Male,Yes,No,No
+7593-XFKDI,Los Angeles,90031,Male,No,No,No
+0337-CNPZE,Los Angeles,90033,Female,No,No,No
+1513-XNPPH,Los Angeles,90037,Female,No,No,No
+6015-VVHHE,Los Angeles,90039,Female,Yes,No,No
+6347-DCUIK,Los Angeles,90043,Male,No,No,No
+0897-FEGMU,Los Angeles,90048,Female,No,Yes,No
+7663-RGWBC,Los Angeles,90049,Male,No,No,No
+1120-BMWUB,Los Angeles,90056,Female,No,No,No
+9124-LHCJQ,Los Angeles,90057,Female,No,No,No
+2235-ZGKPT,Los Angeles,90062,Female,No,Yes,Yes
+3891-PUQOD,Los Angeles,90063,Female,No,No,Yes
+0689-NKYLF,Los Angeles,90066,Male,No,No,No
+3658-KIBGF,Los Angeles,90068,Female,No,No,No
+5519-YLDGW,Los Angeles,90071,Female,No,Yes,No
+4946-EDSEW,Compton,90221,Female,No,Yes,Yes
+2516-VQRRV,Culver City,90230,Female,Yes,No,No
+7580-UGXNC,Culver City,90232,Female,Yes,No,No
+5178-LMXOP,Gardena,90248,Male,Yes,Yes,No
+8185-UPYBR,Hermosa Beach,90254,Male,No,Yes,No
+4585-HETAI,Huntington Park,90255,Female,No,Yes,No
+7526-BEZQB,Lawndale,90260,Male,No,No,No
+4951-UKAAQ,Inglewood,90302,Female,No,No,No
+2108-YKQTY,Santa Monica,90403,Female,No,No,No
+4918-QLLIW,Santa Monica,90405,Male,No,No,No
+7056-IMHCC,Torrance,90501,Male,Yes,Yes,No
+2947-DOMLJ,Buena Park,90621,Male,No,No,Yes
+4112-LUEIZ,La Palma,90623,Male,No,No,No
+4510-HIMLV,La Habra,90631,Male,No,No,No
+8749-JMNKX,Montebello,90640,Male,Yes,Yes,No
+2430-USGXP,Santa Fe Springs,90670,Male,No,Yes,No
+5955-ERIHD,Lakewood,90712,Male,No,Yes,No
+5949-EBSQK,Sunset Beach,90742,Male,No,Yes,Yes
+7274-RTAPZ,Long Beach,90804,Male,No,No,No
+0311-UNPFF,Long Beach,90807,Female,No,No,No
+3834-XUIFC,Long Beach,90814,Male,No,No,No
+8414-MYSHR,Arcadia,91007,Male,Yes,No,No
+7599-FKVXZ,South Pasadena,91030,Male,No,Yes,No
+8229-TNIQA,Pasadena,91105,Female,No,No,No
+6221-AVQYL,Glendale,91203,Male,No,No,No
+7743-EXURX,Glendale,91208,Male,No,Yes,Yes
+5569-KGJHX,Canoga Park,91303,Female,No,Yes,No
+4988-IQIGL,Canoga Park,91304,Male,Yes,No,No
+7730-IUTDZ,Chatsworth,91311,Male,No,No,No
+0426-TIRNE,Encino,91316,Female,No,No,No
+7587-RZNME,Valencia,91355,Male,No,No,No
+4706-AXVKM,Stevenson Ranch,91381,Female,Yes,No,No
+5889-JTMUL,Castaic,91384,Female,Yes,Yes,No
+9026-RNUJS,Van Nuys,91401,Male,Yes,No,No
+3746-EUBYR,Panorama City,91402,Male,No,Yes,No
+2332-EFBJY,Sherman Oaks,91403,Male,No,No,No
+9474-PHLYD,Sherman Oaks,91423,Female,No,No,No
+2219-MVUSO,North Hollywood,91601,Male,No,No,No
+8914-RBTSB,Valley Village,91607,Male,No,Yes,No
+0963-ZBDRN,Claremont,91711,Male,No,No,No
+7594-RQHXR,Covina,91722,Female,No,No,No
+6331-EWIEB,El Monte,91731,Male,No,No,No
+5998-VVEJY,Glendora,91741,Male,No,No,No
+1624-NALOJ,La Puente,91744,Male,Yes,No,No
+4317-VTEOA,Rowland Heights,91748,Male,No,No,No
+1670-SVOWZ,Mira Loma,91752,Female,No,Yes,No
+0260-ZDLGK,San Dimas,91773,Female,No,No,Yes
+8722-NGNBH,Walnut,91789,Male,No,No,No
+6210-KBBPI,West Covina,91790,Male,Yes,No,No
+0133-BMFZO,Alhambra,91803,Female,No,No,No
+6128-CZOMY,Alpine,91901,Female,No,No,No
+9540-JYROE,Bonita,91902,Male,No,No,No
+2260-USTRB,Campo,91906,Female,Yes,No,No
+3656-TKRVZ,Chula Vista,91910,Female,No,No,No
+8623-TMRBY,Chula Vista,91915,Male,Yes,Yes,No
+1501-SGHBW,Guatay,91931,Male,No,No,No
+3208-YPIOE,La Mesa,91942,Male,No,No,No
+2612-RANWT,Mount Laguna,91948,Female,No,No,No
+6900-PXRMS,Spring Valley,91978,Male,Yes,Yes,No
+3346-BRMIS,Bonsall,92003,Female,Yes,Yes,No
+2933-FILNV,Carlsbad,92009,Female,No,Yes,Yes
+9986-BONCE,Fallbrook,92028,Female,No,No,No
+2722-JMONI,Escondido,92029,Female,Yes,Yes,No
+4083-EUGRJ,Oceanside,92057,Male,No,No,No
+7579-OOPEC,Pala,92059,Female,Yes,Yes,No
+1771-OADNZ,Pauma Valley,92061,Male,Yes,Yes,No
+0612-RTZZA,Vista,92084,Female,Yes,No,No
+6410-LEFEN,San Diego,92108,Female,No,No,No
+3194-ORPIK,San Diego,92113,Female,No,Yes,No
+8816-VXNZD,Coronado,92118,Female,No,No,No
+1723-HKXJQ,San Diego,92120,Male,No,No,No
+7825-GKXMW,San Diego,92121,Female,No,No,No
+1240-KNSEZ,San Diego,92127,Male,No,No,No
+0836-SEYLU,San Diego,92128,Male,No,Yes,No
+4433-JCGCG,San Diego,92129,Male,Yes,Yes,No
+3716-BDVDB,San Diego,92130,Male,No,No,No
+5899-MQZZL,San Ysidro,92173,Female,No,No,No
+9488-HGMJH,Indian Wells,92210,Female,Yes,No,No
+6038-GCYEC,Palm Desert,92211,Female,No,No,No
+3144-AUDBS,Calexico,92231,Female,No,Yes,No
+5616-PRTNT,Desert Center,92239,Male,No,No,Yes
+4818-QIUFN,Desert Hot Springs,92241,Female,Yes,No,No
+6961-VCPMC,North Palm Springs,92258,Male,Yes,Yes,No
+6688-UZPWD,Palm Springs,92262,Female,No,Yes,No
+2839-RFSQE,Rancho Mirage,92270,Female,No,No,No
+0968-GSIKN,Thousand Palms,92276,Female,No,No,No
+1965-DDBWU,Twentynine Palms,92277,Male,No,No,No
+9057-SIHCH,Twentynine Palms,92278,Female,No,No,No
+6771-XWBDM,White Water,92282,Female,No,Yes,No
+8601-QACRS,Apple Valley,92307,Female,No,No,No
+2391-SOORI,Big Bear City,92314,Male,No,No,Yes
+2645-QTLMB,Bloomington,92316,Male,No,No,No
+4806-HIPDW,Calimesa,92320,Female,No,Yes,No
+4424-TKOPW,Crestline,92325,Male,Yes,No,No
+8443-ZRDBZ,Fontana,92336,Male,No,No,No
+9136-ALYBR,Fontana,92337,Male,No,No,No
+7479-NITWS,Green Valley Lake,92341,Male,No,No,No
+2959-MJHIC,Hinkley,92347,Male,No,Yes,No
+4201-JMNGR,Lucerne Valley,92356,Female,Yes,No,No
+5960-WPXQM,Newberry Springs,92365,Male,No,No,No
+0684-AOSIH,Oro Grande,92368,Male,No,Yes,No
+8260-NGFNY,Phelan,92371,Female,No,No,No
+1866-RZZQS,Redlands,92373,Male,Yes,No,No
+4958-XCBDQ,Victorville,92394,Male,Yes,No,No
+8337-UPOAQ,Wrightwood,92397,Male,Yes,Yes,No
+6712-OAWRH,San Bernardino,92408,Female,Yes,No,No
+8614-VGMMV,Riverside,92503,Female,No,No,No
+2930-UOTMB,Riverside,92506,Female,No,No,No
+5914-DVBWJ,Riverside,92508,Female,Yes,No,No
+8644-XLFBW,Lake Elsinore,92532,Male,Yes,No,No
+8625-AZYZY,Anza,92539,Male,No,Yes,No
+9306-CPCBC,Moreno Valley,92555,Female,No,No,No
+1833-VGRUM,Perris,92570,Female,Yes,No,No
+8374-XGEJJ,Temecula,92590,Male,Yes,Yes,No
+2656-TABEH,Temecula,92591,Male,No,Yes,No
+4039-HEUNW,Irvine,92620,Male,Yes,Yes,No
+0812-WUPTB,Corona Del Mar,92625,Male,Yes,Yes,No
+0004-TLHLJ,Costa Mesa,92627,Male,No,No,No
+4817-VYYWS,Silverado,92676,Female,No,No,No
+1396-QWFBJ,Rancho Santa Margarita,92688,Female,No,Yes,No
+5299-SJCZT,Ladera Ranch,92694,Male,No,No,No
+7359-PTSXY,Tustin,92780,Male,No,No,No
+4503-BDXBD,Anaheim,92808,Male,No,No,No
+6086-ESGRL,Brea,92821,Female,No,No,No
+5759-RCVCB,Orange,92869,Female,No,No,No
+6372-RFVNS,Placentia,92870,Female,No,Yes,No
+8938-UMKPI,Corona,92882,Female,No,No,No
+0991-BRRFB,Corona,92883,Male,No,No,No
+3871-IKPYH,Camarillo,93010,Male,Yes,No,No
+6319-IEJWJ,Camarillo,93012,Male,No,Yes,No
+9025-AOMKI,Carpinteria,93013,Female,No,No,No
+5275-SQEIZ,Ojai,93023,Male,No,No,No
+4390-KYULV,Piru,93040,Male,No,Yes,No
+1304-NECVQ,Somis,93066,Female,Yes,No,No
+8945-GRKHX,Santa Barbara,93110,Female,No,No,No
+6959-UWKHF,Alpaugh,93201,Male,No,No,No
+3815-SLMEF,Avenal,93204,Female,No,No,No
+5154-VEKBL,Bodfish,93205,Female,No,No,No
+5655-JSMZM,Coalinga,93210,Male,Yes,No,No
+4505-EXZHB,Ducor,93218,Female,Yes,No,No
+4587-VVTOX,Frazier Park,93222,Female,No,Yes,No
+4652-NNHNY,Fellows,93224,Male,No,Yes,No
+8972-HJWNV,Huron,93234,Female,Yes,Yes,No
+2860-RANUS,Mc Kittrick,93251,Female,Yes,No,No
+5261-QSHQM,Maricopa,93252,Female,No,No,No
+8868-WOZGU,Porterville,93257,Male,No,No,No
+1334-FJSVR,Sequoia National Park,93262,Male,No,No,No
+7625-XCQRH,Strathmore,93267,Female,No,No,No
+1731-TVIUK,Tipton,93272,Female,No,No,No
+0618-XWMSS,Wasco,93280,Male,No,No,No
+5276-KQWHG,Woody,93287,Female,Yes,No,No
+2565-JSLRY,Bakersfield,93306,Male,No,No,No
+6689-KXGBO,San Luis Obispo,93401,Female,No,No,No
+6615-NGGZJ,Buellton,93427,Male,No,No,No
+4255-DDUOU,Casmalia,93429,Female,No,Yes,Yes
+2984-MIIZL,Guadalupe,93434,Male,No,No,No
+5590-YRFJT,Lompoc,93437,Female,No,Yes,No
+3677-TNKIO,Templeton,93465,Female,No,No,No
+9667-EQRXU,Boron,93516,Female,Yes,No,No
+3329-WDIOK,Edwards,93523,Female,No,No,No
+2873-ZLIWT,Inyokern,93527,Female,No,Yes,No
+3415-TAILE,Johannesburg,93528,Female,No,Yes,Yes
+1915-IOFGU,Keene,93531,Female,No,No,No
+3045-XETSH,Lake Hughes,93532,Female,No,No,No
+7239-HZZCX,Lancaster,93535,Male,No,No,No
+7683-CBDKJ,Palmdale,93550,Male,No,Yes,Yes
+0946-CLJTI,Palmdale,93551,Male,Yes,Yes,No
+7665-TOALD,Trona,93562,Female,No,No,No
+0324-BRPCJ,Palmdale,93591,Female,Yes,Yes,No
+2777-PHDEI,Ahwahnee,93601,Female,No,No,No
+1196-AMORA,Big Creek,93605,Male,No,No,No
+4282-YMKNA,Biola,93606,Female,No,No,No
+5356-RHIPP,Dinuba,93618,Male,No,No,No
+9189-JWSHV,Helm,93627,Female,Yes,Yes,No
+0746-JTRFU,Kingsburg,93631,Male,No,No,No
+0576-WNXXC,Parlier,93648,Male,Yes,Yes,No
+4628-CTTLA,Sanger,93657,Male,No,No,No
+2876-VBBBL,Shaver Lake,93664,Female,No,No,No
+6834-NXDCA,South Dos Palos,93665,Female,No,No,No
+5597-GLBUC,Squaw Valley,93675,Female,No,No,No
+4822-YCXMX,Fresno,93705,Male,No,No,No
+9821-POOTN,Fresno,93711,Male,No,Yes,No
+4229-CZMLL,Salinas,93901,Male,No,No,No
+3663-MITLP,Marina,93933,Female,No,No,No
+9025-ZRPVR,Pacific Grove,93950,Male,No,No,No
+3285-UCQVC,Seaside,93955,Female,No,No,No
+5482-PLVPE,Daly City,94014,Female,Yes,No,No
+4902-OHLSK,Half Moon Bay,94019,Female,Yes,No,No
+0495-ZBNGW,Loma Mar,94021,Male,Yes,Yes,No
+2357-COQEK,Atherton,94027,Female,Yes,No,No
+3737-GCSPV,Millbrae,94030,Female,No,Yes,No
+2034-CGRHZ,San Francisco,94104,Male,Yes,No,No
+5797-APWZC,San Francisco,94105,Female,No,No,No
+3683-QKIUE,San Francisco,94107,Female,No,No,No
+4228-ZGYUW,San Francisco,94108,Male,No,No,No
+3519-ZKXGG,San Francisco,94123,Female,No,Yes,No
+6416-TVAIH,San Francisco,94127,Male,No,Yes,No
+5108-ADXWO,San Francisco,94130,Male,No,No,No
+3066-RRJIO,San Francisco,94132,Female,No,No,No
+6715-OFDBP,Palo Alto,94304,Male,No,No,No
+1567-DSCIC,San Mateo,94401,Male,No,No,No
+2150-UWTFY,San Mateo,94402,Female,No,Yes,Yes
+2683-BPJSO,Byron,94514,Male,No,Yes,No
+1087-UDSIH,Concord,94520,Female,No,No,No
+5485-WUYWF,Crockett,94525,Male,Yes,No,No
+2632-UCGVD,Fairfield,94533,Male,Yes,Yes,No
+9170-CCKOU,Fremont,94539,Male,No,Yes,No
+3814-MLAXC,Hayward,94545,Female,No,No,No
+1226-UDFZR,Lafayette,94549,Female,No,No,No
+5442-UTCVD,Pittsburg,94565,Male,No,No,No
+7734-DBOAI,Pope Valley,94567,Female,No,Yes,Yes
+2091-RFFBA,Port Costa,94569,Female,Yes,No,No
+2114-MGINA,Rio Vista,94571,Female,No,No,No
+4489-SNOJF,Deer Park,94576,Female,No,Yes,Yes
+6899-PPEEA,Vallejo,94590,Female,Yes,No,No
+2187-LZGPL,Walnut Creek,94596,Female,No,No,No
+4597-NUCQV,Oakland,94601,Male,Yes,No,No
+9019-QVLZD,Oakland,94602,Female,No,No,No
+1455-ESIQH,Oakland,94619,Male,No,No,No
+2979-SXESE,Berkeley,94703,Female,No,Yes,No
+4013-TLDHQ,Berkeley,94704,Male,No,No,No
+3754-DXMRT,San Pablo,94806,Male,Yes,No,No
+7130-VTEWQ,San Rafael,94903,Female,Yes,No,No
+6121-VZNQB,Bolinas,94924,Female,No,No,No
+7903-CMPEY,Corte Madera,94925,Male,Yes,Yes,No
+6996-KNSML,Cotati,94931,Female,No,No,No
+1704-NRWYE,Point Reyes Station,94956,Female,Yes,No,No
+2592-SEIFQ,San Anselmo,94960,Male,No,No,No
+7481-ATQQS,Boulder Creek,95006,Female,Yes,No,No
+8642-GVWRF,Capitola,95010,Female,No,Yes,No
+2057-ZBLPD,Los Gatos,95032,Female,No,Yes,No
+5502-RLUYV,Milpitas,95035,Female,No,Yes,No
+0023-HGHWL,Morgan Hill,95037,Male,Yes,No,No
+9039-RBEEE,Santa Clara,95050,Male,No,No,No
+8417-FMLZI,Santa Cruz,95060,Male,No,Yes,No
+1792-UXAFY,San Jose,95110,Female,Yes,No,No
+0515-YPMCW,San Jose,95116,Male,No,No,No
+4729-XKASR,San Jose,95123,Male,No,No,Yes
+5449-FIBXJ,San Jose,95127,Male,No,Yes,No
+9837-BMCLM,Stockton,95202,Male,No,No,No
+0137-UDEUO,Stockton,95204,Female,No,No,No
+6161-UUUTA,Stockton,95206,Male,Yes,No,No
+6543-XRMYR,Stockton,95209,Female,Yes,No,No
+4925-LMHOK,Stockton,95212,Male,No,No,No
+1455-UGQVH,Acampo,95220,Male,No,Yes,No
+8280-MQRQN,Arnold,95223,Female,No,No,No
+2037-SGXHH,Campo Seco,95226,Male,No,Yes,No
+3178-FESZO,Clements,95227,Female,No,No,No
+6087-MVHJH,French Camp,95231,Female,No,No,No
+4603-JANFB,Glencoe,95232,Male,No,No,No
+3018-TFTSU,Hathaway Pines,95233,Male,No,No,No
+4806-KEXQR,Lockeford,95237,Male,No,No,No
+7083-YNSKY,Lodi,95242,Female,No,No,No
+2479-BRAMR,Murphys,95247,Male,Yes,Yes,No
+7434-SHXLS,Wallace,95254,Female,No,No,No
+7908-QCBCA,Atwater,95301,Female,No,Yes,No
+6711-FLDFB,Big Oak Flat,95305,Female,No,No,No
+3714-JTVOV,Crows Landing,95313,Female,Yes,Yes,No
+4702-IOQDC,Gustine,95322,Female,No,No,No
+6178-KFNHS,Hughson,95326,Female,No,No,No
+1264-BYWMS,La Grange,95329,Male,No,No,No
+9658-WYUFB,Lathrop,95330,Female,No,No,No
+2013-SGDXK,Mariposa,95338,Female,No,No,No
+2012-NWRPA,Modesto,95355,Female,Yes,Yes,No
+8808-ELEHO,Modesto,95356,Male,Yes,No,No
+3506-LCJDC,Modesto,95358,Male,No,Yes,Yes
+3934-HXCFZ,Pinecrest,95364,Male,No,Yes,No
+4910-AQFFX,Soulsbyville,95372,Male,No,Yes,No
+2154-KVJFF,Stevinson,95374,Female,No,No,No
+9647-ERGBE,Turlock,95380,Female,No,Yes,No
+3428-XZMAZ,Turlock,95382,Male,No,No,No
+0378-TOVMS,Vernalis,95385,Female,No,No,No
+9058-CBREO,Winton,95388,Female,Yes,No,No
+0318-QUUOB,Santa Rosa,95403,Male,No,Yes,No
+5520-FVEWJ,Santa Rosa,95405,Female,No,Yes,No
+5572-ZDXHY,Santa Rosa,95409,Female,No,No,No
+3750-CKVKH,Clearlake Oaks,95423,Male,No,No,No
+8063-GBATB,Cobb,95426,Female,Yes,No,No
+4547-KQRTM,Eldridge,95431,Female,No,No,No
+4877-EVATK,Elk,95432,Male,No,No,No
+7639-SUPCW,Glen Ellen,95442,Female,No,No,No
+1069-XAIEM,Mendocino,95460,Female,Yes,No,No
+4658-HCOHW,Redwood Valley,95470,Female,No,Yes,No
+3440-JPSCL,Sonoma,95476,Female,No,No,No
+6987-XQSJT,Blue Lake,95525,Female,Yes,No,No
+4290-BSXUX,Fields Landing,95537,Male,No,Yes,No
+0325-XBFAC,Hoopa,95546,Male,No,No,No
+2462-XIIJB,Miranda,95553,Male,No,No,No
+4760-XOHVN,Myers Flat,95554,Female,No,Yes,Yes
+7817-BOQPW,Rio Dell,95562,Female,No,No,No
+1853-UDXBW,Samoa,95564,Male,No,Yes,No
+5219-YIPTK,Trinidad,95570,Female,No,Yes,No
+3540-RZJYU,Zenia,95595,Female,No,No,No
+2091-MJTFX,Auburn,95602,Female,No,Yes,Yes
+0883-EIBTI,Clarksburg,95612,Female,No,No,No
+0722-TROQR,Davis,95616,Female,Yes,No,No
+7571-YXDAD,Davis,95618,Female,No,No,No
+3393-FMZPV,Elverta,95626,Female,No,No,No
+6402-ZFPPI,Fair Oaks,95628,Female,Yes,No,No
+8443-WVPSS,Galt,95632,Male,No,Yes,No
+3006-XIMLN,Garden Valley,95633,Female,No,No,No
+9965-YOKZB,Grizzly Flats,95636,Male,Yes,No,No
+0504-HHAPI,Guinda,95637,Female,Yes,No,No
+3647-GMGDH,Jackson,95642,Male,No,Yes,No
+3791-LGQCY,Loomis,95650,Female,Yes,Yes,No
+2956-GGUCQ,Pioneer,95666,Male,Yes,Yes,No
+6595-COKXZ,Plymouth,95669,Female,No,No,No
+0362-ZBZWJ,Thornton,95686,Male,No,No,No
+4211-MMAZN,Vacaville,95688,Male,No,No,No
+4274-OWWYO,Walnut Grove,95690,Male,No,No,No
+1541-ETJZO,Wheatland,95692,Male,No,No,No
+2369-UAPKZ,Meadow Vista,95722,Male,No,No,No
+2778-OCLGR,Soda Springs,95728,Male,Yes,Yes,No
+0637-KVDLV,Elk Grove,95758,Male,No,No,No
+6633-MPWBS,Woodland,95776,Male,No,No,No
+8785-EPNCG,Sacramento,95815,Male,No,No,No
+5729-KLZAR,Sacramento,95817,Female,No,Yes,No
+1582-RAFML,Sacramento,95821,Male,No,No,No
+8740-CRYFY,Sacramento,95823,Male,No,No,No
+2962-XPMCQ,Sacramento,95828,Male,No,No,No
+1678-FYZOW,Sacramento,95835,Female,No,No,No
+5480-TBGPH,Sacramento,95842,Female,No,Yes,No
+8854-CCVSQ,Browns Valley,95918,Male,No,No,No
+0511-JTEOY,Canyon Dam,95923,Female,No,No,No
+9300-AGZNL,Elk Creek,95939,Male,Yes,No,No
+1112-CUNAO,Grimes,95950,Female,Yes,No,No
+5175-AOBHI,Hamilton City,95951,Female,No,No,No
+5174-RNGBH,Live Oak,95953,Female,No,No,No
+7270-BDIOA,Maxwell,95955,Female,No,No,No
+9732-KPKBW,Oroville,95966,Male,No,No,No
+3389-YGYAI,Princeton,95970,Female,Yes,No,No
+9560-ARGQJ,Quincy,95971,Female,No,No,No
+5134-IKDAY,Twain,95984,Female,No,Yes,No
+3070-DVEYC,Williams,95987,Male,Yes,No,No
+5707-ORNDZ,Yuba City,95993,Male,Yes,No,No
+8696-JKZNU,Anderson,96007,Female,Yes,No,No
+5380-AFSSK,Bella Vista,96008,Female,No,No,No
+2055-PDADH,Big Bend,96011,Female,Yes,No,No
+8714-EUHJO,Castella,96017,Female,No,Yes,No
+3721-CNEYS,Douglas City,96024,Female,No,No,No
+2568-OIADY,Fort Jones,96032,Female,No,Yes,No
+1193-RTSLK,Happy Camp,96039,Female,No,No,No
+2302-ANTDP,Hat Creek,96040,Female,Yes,Yes,No
+5923-GXUOC,Hayfork,96041,Male,No,No,No
+5233-GEEAX,Lewiston,96052,Male,Yes,No,No
+4432-ADRLB,Montague,96064,Male,No,No,No
+8993-PHFWD,Old Station,96071,Female,No,No,No
+1565-RHDJD,Palo Cedro,96073,Female,No,No,No
+7137-RYLPP,Paskenta,96074,Male,Yes,Yes,No
+3765-JXVKY,Paynes Creek,96075,Female,No,No,No
+7330-WZLNC,Red Bluff,96080,Female,No,No,No
+3957-LXOLK,Shingletown,96088,Female,Yes,No,No
+5281-BUZGT,Weaverville,96093,Male,Yes,No,No
+5378-IKEEG,Eagleville,96110,Female,No,No,No
+2718-GAXQD,Lake City,96115,Female,Yes,Yes,Yes
+6413-XKKPU,Sierra City,96125,Male,No,Yes,No
+1449-XQEMT,Susanville,96130,Male,No,No,No
+2626-URJFX,Termo,96132,Male,No,Yes,Yes
+2612-RRIDN,Westwood,96137,Male,No,No,No
+4735-ASGMA,Carnelian Bay,96140,Male,No,No,No
+3669-LVWZB,Tahoma,96142,Male,No,No,No
+6892-EZDTG,Kings Beach,96143,Female,No,Yes,No
+9725-SCPZG,South Lake Tahoe,96150,Male,No,No,No
+5884-GCYMI,Truckee,96161,Male,No,No,No
+3217-FZDMN,Los Angeles,90001,Female,Yes,No,No
+7853-GVUDZ,Los Angeles,90004,Female,No,Yes,Yes
+7480-QNVZJ,Los Angeles,90005,Male,Yes,No,No
+3943-KDREE,Los Angeles,90010,Female,No,No,No
+9239-ZBZZV,Los Angeles,90011,Female,No,No,No
+4398-HSCJH,Los Angeles,90013,Female,No,No,No
+4430-UZIPO,Los Angeles,90020,Male,No,No,No
+4855-SNKMY,Los Angeles,90024,Female,No,No,No
+8008-HAWED,Los Angeles,90027,Male,No,No,No
+1862-SKORY,Los Angeles,90029,Female,Yes,Yes,No
+9692-TUSXH,Los Angeles,90041,Female,No,No,No
+7912-SYRQT,Los Angeles,90042,Female,No,No,No
+4816-JBHOV,Los Angeles,90044,Male,Yes,No,No
+8292-TYSPY,Los Angeles,90048,Male,No,No,No
+1867-BDVFH,Los Angeles,90056,Male,No,Yes,No
+9103-TCIHJ,Los Angeles,90059,Female,No,No,No
+4140-WJAWW,Los Angeles,90071,Female,No,No,No
+6653-CBBOM,Compton,90221,Female,No,No,No
+3247-ZVOUO,Downey,90240,Male,Yes,Yes,No
+6101-IMRMM,El Segundo,90245,Male,No,No,No
+1268-ASBGA,Huntington Park,90255,Female,Yes,Yes,No
+8943-URTMR,Lawndale,90260,Female,No,No,No
+4713-LZDRV,Malibu,90263,Female,Yes,No,No
+4325-NFSKC,Pacific Palisades,90272,Male,Yes,No,No
+2955-PSXOE,Topanga,90290,Female,No,No,No
+6907-NZZIJ,Santa Monica,90402,Female,No,No,No
+2911-UREFD,Santa Monica,90405,Female,No,Yes,No
+3744-ZRRDZ,Torrance,90501,Male,No,No,No
+5673-TIYIB,Torrance,90502,Male,No,No,No
+1602-IJQQE,Whittier,90602,Female,No,No,No
+6502-HCJTI,Lakewood,90712,Male,Yes,Yes,No
+2606-RMDHZ,Lakewood,90713,Male,No,No,No
+8258-GSTJK,San Pedro,90732,Male,Yes,No,No
+6861-OKBCE,Seal Beach,90740,Female,No,No,Yes
+9940-RHLFB,Sunset Beach,90742,Female,No,No,No
+6686-YPGHK,Long Beach,90808,Male,Yes,No,No
+1383-EZRWL,Long Beach,90810,Female,No,No,No
+4759-TRPLW,Long Beach,90822,Male,No,No,No
+8020-BWHYL,Montrose,91020,Female,Yes,No,No
+2982-VPSGI,South Pasadena,91030,Female,No,Yes,No
+4625-EWPTF,Pasadena,91104,Male,No,No,No
+5980-NOPLP,Pasadena,91105,Female,No,Yes,No
+6892-XPFPU,Pasadena,91107,Male,Yes,Yes,No
+8010-EZLOU,San Marino,91108,Male,Yes,No,No
+9874-QLCLH,Northridge,91324,Female,No,Yes,No
+8062-YBDOE,Canyon Country,91351,Male,Yes,No,No
+6000-APYLU,Valencia,91355,Male,No,No,No
+0947-IDHRQ,Woodland Hills,91367,Female,No,No,No
+3672-YITQD,Castaic,91384,Male,Yes,Yes,No
+9048-JVYVF,Panorama City,91402,Male,No,No,No
+8988-ECPJR,Van Nuys,91411,Female,Yes,Yes,No
+3776-EKTKM,Burbank,91501,Female,Yes,No,No
+1902-XBTFB,North Hollywood,91605,Male,No,No,No
+0643-OKLRP,Azusa,91702,Female,Yes,Yes,No
+9381-NDKME,El Monte,91731,Female,Yes,Yes,No
+8382-SHQEH,Rancho Cucamonga,91739,Female,No,Yes,No
+2983-ZANRP,La Puente,91744,Female,No,Yes,No
+7845-URHJN,Hacienda Heights,91745,Female,No,Yes,No
+1075-BGWOH,Rosemead,91770,Male,Yes,Yes,No
+0302-JOIVN,San Gabriel,91775,Female,No,Yes,No
+5366-IJEQJ,Alhambra,91801,Male,No,No,No
+1981-INRFU,Boulevard,91905,Female,No,No,No
+4971-PUYQO,Campo,91906,Female,No,No,No
+8485-GJCDN,Chula Vista,91914,Female,Yes,No,No
+6029-WTIPC,Jacumba,91934,Male,Yes,No,No
+6682-QJDGB,Borrego Springs,92004,Male,No,No,Yes
+8780-IXSTS,Carlsbad,92008,Female,No,No,No
+9530-EHPOH,El Cajon,92019,Male,No,No,No
+0345-HKJVM,El Cajon,92021,Female,No,No,No
+3049-SOLAY,Fallbrook,92028,Female,No,Yes,No
+3317-HRTNN,Julian,92036,Female,Yes,No,No
+3235-ETOOB,Lakeside,92040,Male,No,Yes,No
+8058-INTPH,Oceanside,92056,Female,No,No,No
+5569-OUICF,Santee,92071,Female,Yes,Yes,No
+8821-XNHVZ,Solana Beach,92075,Female,No,Yes,No
+2082-OJVTK,San Marcos,92078,Male,No,Yes,No
+5940-NFXKV,Rancho Santa Fe,92091,Male,No,Yes,No
+8053-WWDRO,San Diego,92105,Female,No,Yes,No
+9564-KCLHR,San Diego,92106,Male,No,No,No
+2082-CEFLT,San Diego,92109,Male,No,No,No
+1213-NGCUN,San Diego,92111,Female,No,No,No
+5688-KZTSN,San Diego,92121,Male,No,Yes,Yes
+2894-QOJRX,San Diego,92124,Female,No,Yes,No
+5747-PMBSQ,San Diego,92126,Male,Yes,Yes,No
+3143-JQEGI,San Diego,92129,Female,No,Yes,No
+2982-IHMFT,Indian Wells,92210,Female,Yes,No,No
+3521-SYVOR,Palm Desert,92211,Female,No,No,No
+9526-JAWYF,Blythe,92225,Male,No,No,No
+5143-EGQFK,Imperial,92251,Female,Yes,No,No
+4919-IKATY,Joshua Tree,92252,Male,No,Yes,No
+9050-QLROH,Niland,92257,Male,No,No,No
+6168-WFVVF,Palm Springs,92262,Female,Yes,No,No
+8065-YKXKD,Seeley,92273,Female,No,No,No
+9637-EIHEQ,Thermal,92274,Female,No,No,No
+9689-PTNPG,Vidal,92280,Male,No,No,No
+9465-RWMXL,Westmorland,92281,Male,No,Yes,No
+2362-IBOOY,Winterhaven,92283,Male,No,No,No
+0843-WTBXE,Landers,92285,Male,No,No,No
+5515-IDEJJ,Angelus Oaks,92305,Male,No,Yes,Yes
+7450-NWRTR,Apple Valley,92308,Male,Yes,No,No
+5376-DEQCP,Barstow,92311,Female,No,No,No
+9095-HFAFX,Big Bear City,92314,Female,No,No,No
+2379-ENZGV,Bloomington,92316,Male,No,No,No
+6005-OBZPH,Ludlow,92338,Female,Yes,No,No
+7932-WPTDS,Green Valley Lake,92341,Female,Yes,Yes,No
+5228-EXCET,Newberry Springs,92365,Male,No,No,No
+7394-FKDNK,Redlands,92374,Female,No,Yes,No
+6331-LWDTQ,Rialto,92377,Male,No,No,No
+1597-FZREH,Shoshone,92384,Female,No,No,No
+7000-WCEVQ,Wrightwood,92397,Female,Yes,No,No
+0727-IWKVK,Yermo,92398,Male,No,Yes,No
+5959-BELXA,Yucaipa,92399,Male,Yes,No,No
+6141-OOXUQ,San Bernardino,92411,Male,No,No,No
+7503-ZGUZJ,Riverside,92505,Male,No,No,No
+2506-TNFCO,Riverside,92509,Female,Yes,Yes,No
+8718-PTMEZ,Lake Elsinore,92530,Female,No,No,No
+2207-OBZNX,Aguanga,92536,Male,No,No,No
+6142-VSJQO,Homeland,92548,Female,No,Yes,Yes
+6437-UKHMV,Moreno Valley,92557,Female,No,No,No
+1114-CENIM,San Jacinto,92582,Male,No,No,Yes
+6060-DRTNL,San Jacinto,92583,Female,Yes,No,No
+8473-VUVJN,Temecula,92590,Male,Yes,No,No
+5536-SLHPM,Temecula,92592,Female,No,Yes,No
+0196-VULGZ,Irvine,92620,Female,Yes,Yes,No
+8837-VVWLQ,Capistrano Beach,92624,Female,No,No,No
+2696-NARTR,Corona Del Mar,92625,Male,No,No,No
+1976-CFOCS,Dana Point,92629,Female,Yes,Yes,No
+4631-OACRM,Lake Forest,92630,Male,Yes,No,No
+3755-JBMNH,Huntington Beach,92648,Male,Yes,Yes,No
+1809-DMJHQ,Newport Beach,92660,Female,No,No,Yes
+6923-EFPNL,Silverado,92676,Male,No,No,No
+9574-RKJIF,Trabuco Canyon,92679,Male,No,Yes,No
+2619-WFQWU,Mission Viejo,92692,Female,No,No,No
+0778-NELLA,Anaheim,92805,Male,No,No,No
+4614-NUVZD,Anaheim,92807,Female,No,No,No
+3803-KMQFW,Brea,92821,Female,No,Yes,Yes
+9572-MTILT,Fullerton,92833,Male,No,Yes,No
+9611-CTWIH,Garden Grove,92841,Female,No,No,No
+0329-GTIAJ,Garden Grove,92844,Female,No,No,No
+6629-CZTTH,Orange,92865,Male,No,No,No
+5364-EVNIB,Orange,92868,Male,No,No,No
+5087-SUURX,Yorba Linda,92887,Female,No,Yes,No
+0013-EXCHZ,Camarillo,93010,Female,Yes,Yes,No
+5550-VFRLC,Moorpark,93021,Female,Yes,No,No
+4929-BSTRX,Oxnard,93030,Female,No,No,No
+2657-ALMWY,Simi Valley,93065,Female,Yes,Yes,No
+6330-JKLPC,Somis,93066,Male,No,Yes,No
+4667-OHGKG,Summerland,93067,Male,No,No,No
+1660-HSOOQ,Santa Barbara,93105,Male,No,No,No
+7228-OMTPN,Santa Barbara,93110,Male,No,No,No
+6284-AHOOQ,Avenal,93204,Male,Yes,No,No
+2344-JMOGN,Buttonwillow,93206,Male,No,Yes,No
+3799-ISUZQ,California Hot Springs,93207,Male,No,Yes,No
+1794-HBQTJ,Corcoran,93212,Female,No,No,No
+2460-FPSYH,Exeter,93221,Female,Yes,No,No
+4818-DRBQT,Farmersville,93223,Male,No,Yes,No
+1320-HTRDR,Fellows,93224,Female,No,No,No
+1493-AMTIE,Ivanhoe,93235,Male,No,No,No
+6424-ELEYH,Lebec,93243,Female,No,Yes,No
+4391-RESHN,Lemon Cove,93244,Male,No,No,No
+6821-BUXUX,Maricopa,93252,Female,No,No,No
+5028-HTLJB,New Cuyama,93254,Male,Yes,No,No
+9801-GDWGV,Onyx,93255,Female,No,No,No
+2320-JRSDE,Richgrove,93261,Female,No,Yes,Yes
+0601-WZHJF,Shafter,93263,Male,No,Yes,No
+5143-WMWOG,Stratford,93266,Male,No,No,No
+5393-RXQSZ,Taft,93268,Male,No,No,No
+0231-LXVAP,Tipton,93272,Male,No,No,No
+9444-JTXHZ,Tulare,93274,Male,No,Yes,No
+5510-BOIUJ,Visalia,93277,Male,No,No,Yes
+4471-KXAUH,Woody,93287,Female,No,Yes,No
+7638-QVMVY,Visalia,93292,Female,No,No,No
+3244-DCJWY,Bakersfield,93312,Female,No,No,No
+0875-CABNR,San Luis Obispo,93401,Female,Yes,No,No
+7812-FZHPE,Bradley,93426,Female,No,Yes,Yes
+4797-AXPXK,Lompoc,93436,Female,No,No,Yes
+5229-PRWKT,Lompoc,93437,Male,No,No,No
+6982-UQZLY,Los Alamos,93440,Female,Yes,Yes,No
+5057-LCOUI,Nipomo,93444,Female,No,No,No
+4369-HTUIF,Pismo Beach,93449,Male,Yes,No,No
+0156-FVPTA,Solvang,93463,Male,No,Yes,No
+0654-HMSHN,Mojave,93501,Male,No,Yes,No
+5287-QWLKY,Big Pine,93513,Male,Yes,Yes,No
+5196-SGOAK,Caliente,93518,Female,No,No,No
+1891-UAWWU,Johannesburg,93528,Female,Yes,Yes,No
+6108-OQZDQ,Keene,93531,Female,No,Yes,No
+0363-QJVFX,Lake Hughes,93532,Male,No,No,No
+9840-DVNDC,Lancaster,93536,Male,No,No,No
+3096-JRDSO,Lone Pine,93545,Female,Yes,Yes,No
+8042-JVNFH,Olancha,93549,Male,No,No,No
+3374-LXDEV,Pearblossom,93553,Female,No,No,No
+5049-GLYVG,Badger,93603,Male,No,No,No
+5883-GTGVD,Biola,93606,Male,No,No,No
+4817-QRJSX,Clovis,93612,Female,No,No,No
+2398-YPMUR,Dinuba,93618,Female,Yes,Yes,No
+9985-MWVIX,Hume,93628,Female,No,No,No
+4871-JTKJF,Selma,93662,Female,Yes,No,No
+1415-YFWLT,Shaver Lake,93664,Female,Yes,No,No
+6711-VTNRE,Tranquillity,93668,Female,No,No,No
+3500-RMZLT,Fresno,93702,Female,Yes,No,No
+4548-SDBKE,Fresno,93711,Female,No,No,No
+8066-POXGX,Fresno,93720,Female,No,No,No
+4143-OOBWZ,Fresno,93726,Male,No,Yes,No
+7854-EKTJL,Salinas,93901,Female,No,No,Yes
+9102-IAYHT,Salinas,93908,Female,No,Yes,No
+3422-LYEPQ,Carmel By The Sea,93921,Male,No,Yes,No
+2642-DTVCO,Chualar,93925,Male,Yes,No,No
+4361-JEIVL,Greenfield,93927,Male,No,No,Yes
+1363-TXLSL,San Lucas,93954,Male,Yes,Yes,No
+9507-EXLTT,Seaside,93955,Female,No,Yes,No
+9846-GKXAS,Burlingame,94010,Female,No,No,No
+6017-PPLPX,Daly City,94014,Male,No,Yes,No
+4581-SSPWD,Mountain View,94040,Female,No,No,No
+6927-WTFIV,Redwood City,94061,Male,Yes,No,No
+3398-ZOUAA,Redwood City,94063,Male,Yes,Yes,No
+0378-NHQXU,South San Francisco,94080,Female,No,Yes,No
+4512-ZUIYL,Sunnyvale,94089,Female,No,No,No
+7969-AULMZ,San Francisco,94104,Female,No,No,No
+0568-ONFPC,San Francisco,94112,Male,No,Yes,Yes
+0733-VUNUW,San Francisco,94114,Male,No,No,No
+4550-EVXNY,San Francisco,94115,Female,No,No,No
+2968-SSGAA,San Francisco,94117,Female,No,No,No
+4844-JJWUY,San Francisco,94121,Female,Yes,No,No
+3538-WZPHD,San Francisco,94127,Male,No,No,No
+8610-WFCJF,Palo Alto,94303,Female,No,Yes,No
+7881-INRLC,San Mateo,94403,Male,No,No,No
+0117-LFRMW,Angwin,94508,Male,No,Yes,Yes
+6172-FECYY,Antioch,94509,Male,No,Yes,No
+1965-AKTSX,Byron,94514,Female,Yes,No,No
+4786-UKSNZ,Clayton,94517,Male,No,No,No
+7248-VZQLC,Concord,94521,Female,Yes,No,No
+0011-IGKFF,Martinez,94553,Male,Yes,Yes,No
+4192-GORJT,Fremont,94555,Male,No,Yes,No
+6496-SLWHQ,Moraga,94556,Male,Yes,No,No
+9912-GVSEQ,Napa,94558,Female,Yes,Yes,No
+5383-MMTWC,Oakley,94561,Female,Yes,Yes,No
+7240-ETPTR,Pope Valley,94567,Female,No,Yes,No
+2202-CUYXZ,Dublin,94568,Male,No,No,No
+5995-OIGLP,Port Costa,94569,Male,No,No,No
+3640-PHQXK,Union City,94587,Female,No,No,No
+6877-LGWXO,Pleasanton,94588,Male,Yes,Yes,No
+8019-ENHXU,Oakland,94601,Male,No,Yes,No
+5167-GBFRE,Oakland,94602,Male,Yes,No,No
+1324-NLTJE,Emeryville,94608,Female,Yes,No,No
+1522-VVDMG,Oakland,94611,Male,No,Yes,No
+9185-TQCVP,Albany,94706,Male,No,Yes,No
+5567-WSELE,Richmond,94801,Male,Yes,Yes,No
+8063-RJYNF,Richmond,94804,Male,No,No,No
+9661-ACXBS,San Rafael,94901,Female,No,No,No
+3727-RJMEO,Rohnert Park,94928,Male,No,Yes,No
+6646-VRFOL,Larkspur,94939,Male,Yes,Yes,No
+5685-IIXLY,Novato,94945,Female,No,Yes,No
+5095-AESKG,Sausalito,94965,Female,No,Yes,No
+1871-MOWRM,Woodacre,94973,Male,No,Yes,No
+2027-OAQQC,Aptos,95003,Female,No,No,No
+9090-SGQXL,Ben Lomond,95005,Male,Yes,Yes,No
+6595-YGXIT,Boulder Creek,95006,Male,Yes,No,No
+5649-TJHOV,Davenport,95017,Male,Yes,Yes,No
+0519-XUZJU,Felton,95018,Female,No,No,No
+6338-AVWCY,Hollister,95023,Male,No,No,No
+9253-QXKBE,Morgan Hill,95037,Male,Yes,Yes,No
+9445-SZLCH,Santa Clara,95050,Female,No,Yes,No
+7568-PODML,Watsonville,95076,Male,No,No,No
+5349-IECLD,San Jose,95111,Male,No,No,No
+3945-GFWQL,San Jose,95113,Female,No,No,Yes
+3797-VTIDR,San Jose,95121,Male,No,Yes,No
+9526-BIHHD,San Jose,95127,Male,No,No,No
+4523-WXCEF,San Jose,95129,Female,No,Yes,No
+8364-TRMMK,San Jose,95132,Female,No,No,No
+3063-QFSZL,San Jose,95135,Female,No,No,No
+8775-LHDJH,San Jose,95136,Female,Yes,Yes,No
+3097-NQYSN,San Jose,95139,Male,Yes,Yes,No
+3565-UNOCC,Stockton,95209,Female,Yes,Yes,No
+5493-SDRDQ,Angels Camp,95222,Male,No,No,No
+0871-URUWO,Sheep Ranch,95250,Male,No,Yes,No
+9190-MFJLN,Vallecito,95251,Male,Yes,No,No
+1095-JUDTC,Woodbridge,95258,Female,Yes,No,No
+0870-VEMYL,Columbia,95310,Female,No,No,No
+5385-SUIRI,Delhi,95315,Male,Yes,Yes,No
+3982-XWFZQ,Denair,95316,Female,No,Yes,No
+4009-ALQFH,Groveland,95321,Female,No,No,No
+3627-FCRDW,Hughson,95326,Female,No,No,No
+7562-GSUHK,Jamestown,95327,Female,No,No,No
+4903-UYAVB,Lathrop,95330,Male,No,Yes,No
+6776-TLWOI,Livingston,95334,Male,No,No,No
+4077-CROMM,Modesto,95350,Female,No,Yes,No
+2868-MZAGQ,Modesto,95354,Male,No,No,No
+4847-QNOKA,Modesto,95355,Female,No,No,No
+6379-RXJRQ,Modesto,95358,Male,No,Yes,No
+8650-RHRKE,Oakdale,95361,Male,No,No,No
+0475-RIJEP,Pinecrest,95364,Male,No,No,No
+1260-TTRXI,Planada,95365,Male,No,No,No
+6328-ZPBGN,Riverbank,95367,Female,Yes,No,No
+2867-UIMSS,Vernalis,95385,Male,No,No,No
+8111-RKSPX,Santa Rosa,95401,Male,No,No,No
+1585-MQSSU,Santa Rosa,95404,Male,No,No,No
+2856-NNASM,Santa Rosa,95407,Male,Yes,No,No
+7547-EKNFS,Caspar,95420,Male,No,Yes,No
+6769-DYBQN,Clearlake,95422,Male,Yes,No,No
+4439-JMPMT,Comptche,95427,Female,No,Yes,No
+2446-BEGGB,Eldridge,95431,Female,Yes,No,No
+1496-GGSUK,Fulton,95439,Female,Yes,No,No
+2575-GFSOE,Graton,95444,Female,No,Yes,No
+2842-JTCCU,Hopland,95449,Male,No,No,No
+3296-SILRA,Lakeport,95453,Female,Yes,Yes,No
+9681-OXGVC,Laytonville,95454,Female,No,No,No
+5180-UCIIQ,Lucerne,95458,Male,Yes,Yes,Yes
+7153-OANIO,Mendocino,95460,Male,No,No,No
+6521-YYTYI,Navarro,95463,Male,No,No,No
+8878-HMWBV,Nice,95464,Male,No,No,No
+3751-KTZEL,Yorkville,95494,Female,No,No,No
+1977-STDKI,The Sea Ranch,95497,Female,Yes,No,No
+5813-UECBU,Bridgeville,95526,Male,Yes,No,No
+0328-GRPMV,Burnt Ranch,95527,Female,No,No,No
+4342-HENTK,Garberville,95542,Female,Yes,No,No
+4195-SMMNX,Hydesville,95547,Male,No,No,No
+6956-SMUCM,Miranda,95553,Female,No,No,No
+3223-WZWJM,Petrolia,95558,Male,No,No,No
+6615-ZGEDR,Smith River,95567,Male,No,No,No
+9250-WYPLL,Whitethorn,95589,Female,No,No,No
+2754-XBHTB,Amador City,95601,Female,No,No,No
+1597-LHYNC,Auburn,95602,Female,Yes,No,No
+0754-UKWQP,Cool,95614,Male,No,No,No
+7493-TPUWZ,Diamond Springs,95619,Male,No,No,No
+1577-HKTFG,Elk Grove,95624,Female,No,Yes,No
+8752-STIVR,Elmira,95625,Female,No,No,No
+4558-FANTW,Fair Oaks,95628,Female,No,Yes,No
+7623-TRNQN,Jackson,95642,Male,No,No,Yes
+9330-IJWIO,Kirkwood,95646,Female,No,No,No
+9286-DOJGF,Lotus,95651,Female,Yes,Yes,No
+9661-MHUMO,Mather,95655,Male,Yes,Yes,Yes
+1842-EZJMK,Orangevale,95662,Male,No,Yes,No
+8073-IJDCM,Rescue,95672,Female,No,No,No
+8884-ADFVN,Roseville,95678,Male,Yes,Yes,No
+2720-WGKHP,Sloughhouse,95683,Male,Yes,No,No
+2869-ADAWR,Sutter Creek,95685,Female,No,No,No
+9894-EZEWG,Walnut Grove,95690,Female,No,No,No
+7851-FLGGQ,Wheatland,95692,Male,No,No,No
+0637-UBJRP,Wilton,95693,Male,No,Yes,No
+0940-OUQEC,Winters,95694,Male,No,No,No
+0702-PGIBZ,Dutch Flat,95714,Male,No,No,No
+1963-VAUKV,Kyburz,95720,Female,No,No,No
+0807-ZABDG,Woodland,95776,Female,No,No,Yes
+7739-LAXOG,Sacramento,95825,Female,No,Yes,No
+9776-CLUJA,Sacramento,95829,Female,Yes,Yes,No
+2079-FBMZK,Antelope,95843,Female,No,No,No
+6608-QQLVK,Bangor,95914,Male,No,No,No
+3551-HUAZH,Brownsville,95919,Male,Yes,No,No
+8634-MPHTR,Forbestown,95941,Male,Yes,Yes,No
+8761-NSOBC,Gridley,95948,Male,No,No,No
+8413-VONUO,Grimes,95950,Male,No,No,No
+9223-UCPVT,Orland,95963,Female,No,No,No
+4351-QLCSU,Quincy,95971,Female,No,No,No
+5419-JPRRN,Rough And Ready,95975,Male,No,No,No
+2100-BDNSN,Strawberry Valley,95981,Female,No,Yes,No
+0488-GSLFR,Taylorsville,95983,Female,No,No,No
+9318-NKNFC,Twain,95984,Male,No,No,No
+9728-FTTVZ,Williams,95987,Female,No,No,No
+7254-IQWOZ,Redding,96001,Male,No,No,No
+2474-BRUCM,Redding,96002,Male,Yes,Yes,No
+0742-NXBGR,Adin,96006,Female,No,No,No
+6110-OHIHY,Burney,96013,Male,No,No,No
+5889-LFOLL,Canby,96015,Female,No,No,No
+5708-EVONK,Cassel,96016,Female,No,Yes,No
+8708-XPXHZ,Castella,96017,Female,No,Yes,No
+0616-ATFGB,Shasta Lake,96019,Male,Yes,Yes,No
+7016-BPGEU,Dunsmuir,96025,Female,No,No,No
+6876-ADESB,Etna,96027,Male,No,No,Yes
+1963-SVUCV,Flournoy,96029,Male,No,No,No
+0220-EBGCE,Fort Jones,96032,Male,No,No,No
+2754-VDLTR,Greenview,96037,Male,No,No,No
+7551-DACSP,Hat Creek,96040,Male,No,Yes,Yes
+7235-NXZCP,Hornbrook,96044,Male,Yes,No,No
+5712-PTIWW,Mcarthur,96056,Male,No,No,No
+3315-TOTBP,Mill Creek,96061,Male,No,No,No
+6661-HBGWL,Mineral,96063,Female,Yes,No,No
+1518-VOWAV,Montague,96064,Female,No,No,No
+5909-ECHUI,Oak Run,96069,Female,No,No,No
+1309-BXVOQ,Old Station,96071,Male,No,Yes,No
+9317-WZPGV,Paskenta,96074,Female,Yes,No,No
+2856-HYAPG,Platina,96076,Female,No,No,No
+4488-PSYCG,Seiad Valley,96086,Male,No,No,No
+3621-CEOVK,Trinity Center,96091,Female,Yes,Yes,No
+6906-ANDWJ,Vina,96092,Male,No,Yes,No
+1031-IIDEO,Sierra City,96125,Female,No,No,No
+5832-XKAES,Sierraville,96126,Male,No,No,No
+4701-AHWMW,Susanville,96130,Male,No,Yes,No
+9210-IAHGH,Wendel,96136,Female,No,No,No
+0023-XUOPT,Carnelian Bay,96140,Female,No,Yes,No
+4592-IWTJI,Homewood,96141,Female,No,Yes,Yes
+6518-LGAOV,South Lake Tahoe,96150,Female,No,Yes,No
+7242-QZLXF,Truckee,96161,Male,No,No,Yes
+1000-AJSLD,Los Angeles,90002,Male,No,No,No
+1062-LHZOD,Los Angeles,90005,Male,No,Yes,No
+9600-NAXZN,Los Angeles,90010,Male,No,No,No
+6457-USBER,Los Angeles,90014,Male,No,No,No
+4662-EKDPQ,Los Angeles,90016,Male,No,No,No
+9248-OJYKK,Los Angeles,90017,Male,Yes,No,No
+3398-FSHON,Los Angeles,90019,Female,Yes,No,No
+3319-DWOEP,Los Angeles,90020,Male,Yes,Yes,No
+9259-PACGQ,Los Angeles,90026,Female,No,Yes,No
+4415-IJZTP,Los Angeles,90027,Female,No,No,No
+1465-VINDH,Los Angeles,90028,Female,No,Yes,No
+2810-FTLEM,Los Angeles,90036,Female,No,No,No
+1925-TIBLE,Los Angeles,90049,Female,No,Yes,No
+0818-OCPZO,Los Angeles,90059,Male,Yes,No,No
+1447-GIQMR,Los Angeles,90062,Male,No,Yes,No
+0872-NXJYS,West Hollywood,90069,Female,No,No,No
+1389-CXMLU,Downey,90242,Male,Yes,No,No
+5561-NWEVX,Hermosa Beach,90254,Female,Yes,Yes,No
+2737-WFVYW,Marina Del Rey,90292,Female,No,No,No
+2272-QAGFO,Inglewood,90304,Female,Yes,No,No
+9850-OWRHQ,Torrance,90502,Female,No,Yes,No
+3768-NLUBH,Torrance,90503,Male,Yes,Yes,No
+8676-TRMJS,Torrance,90504,Male,No,No,No
+0685-MLYYM,Buena Park,90620,Female,Yes,No,No
+8182-PNAGI,Pico Rivera,90660,Male,No,No,No
+7957-RYHQD,Bellflower,90706,Female,Yes,No,No
+2180-DXNEG,Harbor City,90710,Female,No,No,No
+5515-AKOAJ,Hawaiian Gardens,90716,Female,No,No,No
+8976-OQHGT,Lomita,90717,Female,No,Yes,Yes
+6230-BSUXY,Paramount,90723,Female,Yes,No,No
+5295-PCJOO,Long Beach,90805,Male,No,No,Yes
+9863-JZAIC,Long Beach,90807,Male,No,No,No
+7660-HDPJV,Long Beach,90810,Female,No,No,No
+3990-QYKBE,La Canada Flintridge,91011,Male,Yes,Yes,No
+4919-MOAVT,Pasadena,91103,Male,No,No,No
+9820-RMCQV,San Marino,91108,Female,No,No,No
+7839-QRKXN,Glendale,91203,Female,No,No,No
+5204-QZXPU,Glendale,91205,Male,No,No,No
+8450-JOVAH,Agoura Hills,91301,Male,No,Yes,Yes
+9274-CNFMO,Pacoima,91331,Male,Yes,Yes,No
+7758-XKCBS,Reseda,91335,Male,No,No,No
+8992-JQYUN,San Fernando,91340,Male,No,Yes,No
+2446-PLQVO,Santa Clarita,91350,Male,No,No,No
+3005-NFMTA,Valencia,91354,Male,Yes,No,No
+8784-CGILN,Tarzana,91356,Female,No,No,No
+5389-FFVKB,Thousand Oaks,91360,Male,Yes,Yes,No
+8444-WRIDW,Thousand Oaks,91362,Female,Yes,No,No
+9451-LPGOO,Panorama City,91402,Male,No,No,No
+5868-YWPDW,Sherman Oaks,91423,Male,Yes,Yes,No
+2025-JKFWI,Burbank,91501,Male,No,No,No
+4078-SAYYN,Burbank,91502,Female,No,No,No
+9940-HPQPG,North Hollywood,91601,Female,No,Yes,No
+6618-RYATB,North Hollywood,91605,Female,No,No,No
+9079-YEXQJ,Chino,91710,Female,No,No,No
+2685-SREOM,Rancho Cucamonga,91730,Female,No,Yes,No
+0402-CQAJN,El Monte,91732,Female,No,No,No
+6692-UDPJC,South El Monte,91733,Female,No,Yes,Yes
+1273-MTETI,Rancho Cucamonga,91737,Female,Yes,No,No
+5480-HPRRX,Glendora,91740,Female,Yes,No,No
+0295-PPHDO,La Puente,91744,Male,No,No,No
+1195-OIYEJ,La Puente,91746,Male,No,No,No
+4501-EQDRN,Montclair,91763,Female,No,No,No
+2990-HWIML,Ontario,91764,Female,No,No,No
+7384-GHBPI,San Dimas,91773,Male,No,Yes,No
+7603-USHJS,San Gabriel,91775,Male,No,No,Yes
+7234-FECYN,San Gabriel,91776,Female,Yes,No,No
+5876-HZVZM,West Covina,91792,Female,No,Yes,Yes
+1400-MMYXY,Alhambra,91801,Male,Yes,Yes,No
+3085-QUOZK,Alpine,91901,Female,No,No,No
+3926-CUQZX,Campo,91906,Male,No,No,No
+1041-RXHRA,Guatay,91931,Female,No,No,No
+1750-CSKKM,Imperial Beach,91932,Male,No,No,Yes
+7142-HVGBG,Mount Laguna,91948,Male,Yes,Yes,No
+6457-GIRWB,Carlsbad,92008,Male,No,No,No
+1450-SKCVI,Del Mar,92014,Female,No,No,No
+5570-PTWEH,Encinitas,92024,Female,No,Yes,No
+6502-MJQAE,Escondido,92027,Male,No,No,No
+7693-LCKZL,Julian,92036,Male,No,Yes,Yes
+0032-PGELS,Palomar Mountain,92060,Female,No,Yes,Yes
+6394-MFYNG,Solana Beach,92075,Female,No,No,No
+1564-NTYXF,San Marcos,92078,Female,Yes,No,No
+8155-IBNHG,San Diego,92103,Female,No,Yes,No
+0886-QGENL,San Diego,92104,Female,Yes,Yes,No
+8739-WWKDU,San Diego,92109,Male,Yes,No,No
+8685-WHQPW,San Diego,92110,Female,Yes,No,No
+4745-LSPLO,San Diego,92111,Male,No,No,No
+8083-YTZES,San Diego,92113,Male,No,No,No
+7240-FQLHE,San Diego,92114,Female,Yes,Yes,No
+0786-VSSUD,San Diego,92123,Male,Yes,No,No
+3976-BWUCK,San Diego,92130,Female,No,Yes,No
+3585-ISXZP,Indio,92201,Female,No,No,No
+6583-QGCSI,Indian Wells,92210,Female,Yes,Yes,No
+2108-XWMPY,Cabazon,92230,Male,No,No,No
+6304-IJFSQ,Calipatria,92233,Male,No,No,No
+0093-XWZFY,Desert Hot Springs,92241,Male,No,No,No
+1980-KXVPM,El Centro,92243,Female,Yes,No,No
+7703-ZEKEF,Heber,92249,Male,No,No,No
+0723-DRCLG,Holtville,92250,Female,Yes,Yes,No
+5482-NUPNA,Imperial,92251,Female,No,No,No
+1122-JWTJW,Ocotillo,92259,Male,No,Yes,Yes
+8775-CEBBJ,Seeley,92273,Female,No,No,No
+6894-LFHLY,Vidal,92280,Male,Yes,No,No
+0639-TSIQW,White Water,92282,Female,No,No,No
+8361-LTMKD,Apple Valley,92307,Male,Yes,Yes,No
+7590-VHVEG,Los Angeles,90001,Female,No,Yes,No
+1452-KIOVK,Los Angeles,90007,Male,No,No,Yes
+6713-OKOMC,Los Angeles,90008,Female,No,No,No
+9763-GRSKD,Los Angeles,90012,Male,No,Yes,Yes
+5129-JLPIS,Los Angeles,90016,Male,No,No,No
+4183-MYFRB,Los Angeles,90021,Female,No,No,No
+6322-HRPFA,Los Angeles,90026,Male,No,Yes,Yes
+6865-JZNKO,Los Angeles,90027,Female,No,No,No
+4929-XIHVW,Los Angeles,90034,Male,Yes,Yes,No
+7310-EGVHZ,Los Angeles,90036,Male,No,No,No
+3413-BMNZE,Los Angeles,90037,Male,Yes,No,No
+6572-ADKRS,Los Angeles,90040,Female,No,No,No
+4080-IIARD,Los Angeles,90047,Female,No,Yes,No
+3714-NTNFO,Los Angeles,90048,Female,No,No,No
+5948-UJZLF,Los Angeles,90049,Male,No,No,No
+8012-SOUDQ,Los Angeles,90059,Female,Yes,No,No
+6575-SUVOI,Los Angeles,90062,Female,Yes,Yes,No
+0434-CSFON,Los Angeles,90071,Female,No,Yes,No
+1215-FIGMP,Los Angeles,90077,Male,No,No,No
+5122-CYFXA,Beverly Hills,90212,Female,No,No,No
+7410-OIEDU,Culver City,90230,Male,No,No,No
+2273-QCKXA,Culver City,90232,Male,No,No,No
+5630-AHZIL,El Segundo,90245,Female,No,No,Yes
+5590-ZSKRV,Gardena,90249,Female,No,Yes,Yes
+0191-ZHSKZ,Hawthorne,90250,Male,Yes,No,No
+8108-UXRQN,Lawndale,90260,Female,No,Yes,Yes
+9919-YLNNG,Malibu,90263,Female,No,No,No
+4445-ZJNMU,Manhattan Beach,90266,Male,No,No,No
+3016-KSVCP,Rancho Palos Verdes,90275,Male,No,Yes,No
+4767-HZZHQ,Redondo Beach,90277,Male,No,Yes,Yes
+2424-WVHPL,Redondo Beach,90278,Male,Yes,No,No
+6067-NGCEU,Topanga,90290,Female,No,No,No
+6380-ARCEH,Inglewood,90304,Male,No,No,No
+3679-XASPY,Inglewood,90305,Female,No,Yes,Yes
+6180-YBIQI,Santa Monica,90404,Male,No,No,No
+5712-AHQNN,Whittier,90601,Female,No,No,No
+3071-VBYPO,Whittier,90604,Male,No,Yes,Yes
+9445-ZUEQE,Buena Park,90621,Male,No,Yes,Yes
+2928-HLDBA,Cypress,90630,Female,No,No,No
+6497-TILVL,La Mirada,90638,Female,No,Yes,Yes
+7219-TLZHO,Montebello,90640,Female,No,Yes,Yes
+3930-ZGWVE,Stanton,90680,Male,No,No,No
+2876-GZYZC,Cerritos,90703,Female,No,No,No
+7850-VWJUU,Lakewood,90715,Female,No,No,No
+3466-BYAVD,Long Beach,90802,Male,No,Yes,Yes
+3780-YVMFA,Long Beach,90803,Female,No,Yes,Yes
+3077-RSNTJ,Long Beach,90807,Female,No,Yes,Yes
+6551-GNYDG,Long Beach,90808,Female,No,Yes,Yes
+9167-APMXZ,Long Beach,90810,Female,No,No,No
+8992-VONJD,Long Beach,90822,Female,No,No,Yes
+4482-EWFMI,Arcadia,91006,Female,No,No,No
+1159-WFSGR,South Pasadena,91030,Female,No,Yes,Yes
+1744-JHKYS,Pasadena,91105,Female,No,Yes,No
+5947-SGKCL,San Marino,91108,Female,No,Yes,Yes
+6582-OIVSP,Glendale,91203,Female,No,No,No
+4827-USJHP,Glendale,91208,Male,No,No,No
+8167-GJLRN,La Crescenta,91214,Male,No,No,No
+8017-UVSZU,Calabasas,91302,Female,No,Yes,No
+2604-IJPDU,Encino,91316,Female,No,Yes,No
+6168-YBYNP,Newhall,91321,Male,No,No,No
+3645-DEYGF,Northridge,91325,Male,No,No,Yes
+8544-GOQSH,Pacoima,91331,Female,No,No,No
+7018-WBJNK,San Fernando,91340,Male,No,No,Yes
+9142-KZXOP,Sylmar,91342,Male,No,No,No
+4195-NZGTA,Valencia,91354,Female,No,No,No
+2504-DSHIH,Thousand Oaks,91360,Male,Yes,Yes,No
+0699-NDKJM,Westlake Village,91361,Female,No,Yes,No
+6496-JDSSB,Oak Park,91377,Female,No,No,No
+4811-JBUVU,Sherman Oaks,91423,Male,No,No,No
+3316-UWXUY,Burbank,91502,Male,No,No,No
+1984-GPTEH,Burbank,91506,Female,No,No,No
+9903-LYSAB,Studio City,91604,Male,No,Yes,No
+9058-HRZSV,Baldwin Park,91706,Female,Yes,Yes,No
+4522-AKYLR,Chino Hills,91709,Female,Yes,No,No
+0221-WMXNQ,Chino,91710,Male,Yes,No,No
+3675-YDUPJ,Rancho Cucamonga,91737,Male,No,No,No
+5046-NUHWD,Hacienda Heights,91745,Female,Yes,Yes,No
+7529-ZDFXI,La Verne,91750,Male,Yes,Yes,No
+3197-ARFOY,Ontario,91761,Female,Yes,No,No
+4716-HHKQH,Pomona,91767,Male,Yes,Yes,No
+3179-GBRWV,San Gabriel,91775,Male,Yes,Yes,No
+8645-KWHJO,San Gabriel,91776,Male,No,No,No
+4130-MZLCC,Temple City,91780,Female,No,No,No
+0314-TKOSI,Upland,91784,Female,No,No,No
+8229-MYEJZ,Upland,91786,Female,No,No,No
+2080-SRCDE,Walnut,91789,Female,No,No,Yes
+9577-WJVCQ,West Covina,91790,Female,No,No,No
+3808-HFKDE,Alhambra,91801,Female,No,No,No
+4847-TAJYI,Chula Vista,91911,Female,Yes,No,No
+1563-IWQEX,Chula Vista,91913,Female,No,No,No
+8203-XJZRC,Chula Vista,91914,Male,No,No,No
+6851-WEFYX,Descanso,91916,Male,Yes,Yes,No
+2985-JUUBZ,Dulzura,91917,Male,No,Yes,Yes
+8266-VBFQL,Jamul,91935,Male,No,No,No
+2240-HSJQD,La Mesa,91942,Male,No,No,Yes
+3167-SNQPL,Pine Valley,91962,Male,Yes,Yes,Yes
+1098-TDVUQ,Spring Valley,91977,Female,No,No,No
+7277-OZCGZ,Spring Valley,91978,Female,No,No,No
+2799-ARNLO,Bonsall,92003,Female,Yes,Yes,No
+6745-JEFZB,El Cajon,92019,Male,No,Yes,No
+8705-WZCYL,Encinitas,92024,Male,No,No,No
+4983-CLMLV,Escondido,92027,Female,No,Yes,No
+5701-YVSVF,Fallbrook,92028,Female,Yes,Yes,No
+5697-GOMBF,Julian,92036,Female,Yes,Yes,Yes
+2739-CACDQ,La Jolla,92037,Female,Yes,No,No
+7982-VCELR,Ramona,92065,Female,No,No,No
+6035-BXTTY,Rancho Santa Fe,92067,Female,Yes,No,No
+7520-HQWJU,Santa Ysabel,92070,Female,No,Yes,Yes
+0021-IKXGC,San Marcos,92078,Female,Yes,No,No
+6243-OZGFH,Vista,92084,Female,No,No,No
+4115-NZRKS,San Diego,92102,Female,Yes,No,No
+3351-NGXYI,San Diego,92106,Female,Yes,No,No
+9294-TDIPC,San Diego,92110,Male,No,No,Yes
+3583-KRKMD,San Diego,92115,Male,No,No,No
+9069-LGEUL,San Diego,92117,Male,No,Yes,No
+7302-ZHMHP,Coronado,92118,Female,No,No,No
+6862-CQUMB,San Diego,92126,Male,No,No,No
+6158-HDPXZ,San Diego,92128,Male,No,No,No
+8782-LKFPK,Beaumont,92223,Male,No,No,No
+5522-JBWMO,Blythe,92225,Male,No,No,Yes
+3597-MVHJT,Brawley,92227,Female,No,No,No
+9774-NRNAU,Cabazon,92230,Male,Yes,Yes,No
+0224-RLWWD,Calexico,92231,Female,Yes,No,No
+9967-ATRFS,Calipatria,92233,Female,No,No,No
+3951-NJCVI,Cathedral City,92234,Female,Yes,Yes,No
+0177-PXBAT,Desert Center,92239,Male,Yes,Yes,No
+2519-ERQOJ,Desert Hot Springs,92241,Male,Yes,No,No
+0111-KLBQG,Morongo Valley,92256,Male,Yes,Yes,Yes
+5233-AOZUF,Palm Springs,92262,Female,No,Yes,No
+5973-EJGDP,Palm Springs,92264,Male,No,No,No
+1996-DBMUS,Palo Verde,92266,Female,Yes,Yes,No
+7916-VCCPB,Parker Dam,92267,Female,No,Yes,Yes
+2233-FAGXV,Salton City,92275,Female,No,Yes,Yes
+5605-IYGFG,Thousand Palms,92276,Female,No,No,No
+8111-BKVDS,Vidal,92280,Female,No,No,No
+2055-SIFSS,Westmorland,92281,Female,Yes,Yes,No
+8734-DKSTZ,Winterhaven,92283,Female,No,Yes,Yes
+4360-PNRQB,Yucca Valley,92284,Male,No,No,No
+2181-UAESM,Angelus Oaks,92305,Male,No,No,No
+2320-SLKMB,Baker,92309,Female,No,No,No
+5886-VLQVU,Grand Terrace,92313,Male,No,Yes,No
+3577-AMVUX,Big Bear City,92314,Male,No,No,No
+0771-WLCLA,Big Bear Lake,92315,Female,No,Yes,Yes
+5628-RKIFK,Bloomington,92316,Female,Yes,No,No
+2937-FTHUR,Cedar Glen,92321,Female,No,No,Yes
+1910-FMXJM,Colton,92324,Female,No,Yes,No
+5168-MSWXT,Essex,92332,Male,No,Yes,Yes
+5760-WRAHC,Fontana,92336,Female,Yes,No,No
+8847-GEOOQ,Fontana,92337,Male,No,Yes,No
+8313-NDOIA,Green Valley Lake,92341,Female,No,No,No
+4237-CLSMM,Highland,92346,Male,No,Yes,No
+1452-VOQCH,Hinkley,92347,Male,No,No,No
+4719-UMSIY,Lake Arrowhead,92352,Male,No,No,Yes
+6614-VBEGU,Loma Linda,92354,Female,No,Yes,No
+1304-BCCFO,Redlands,92374,Male,No,Yes,No
+4104-PVRPS,Rialto,92376,Male,No,Yes,No
+3780-DDGSE,Shoshone,92384,Male,Yes,Yes,Yes
+4431-EDMIQ,Sugarloaf,92386,Female,No,Yes,Yes
+4612-SSVHJ,Yermo,92398,Female,Yes,No,No
+9094-AZPHK,San Bernardino,92405,Female,No,No,No
+6778-YSNIH,Riverside,92501,Female,No,No,No
+6579-JPICP,Riverside,92505,Male,No,No,No
+4134-BSXLX,Riverside,92507,Male,No,Yes,No
+7803-XOCCZ,Anza,92539,Female,No,Yes,Yes
+8981-FJGLA,Hemet,92545,Male,No,No,Yes
+1135-LMECX,Moreno Valley,92551,Female,No,No,No
+8535-SFUTN,Moreno Valley,92555,Male,No,No,No
+8677-HDZEE,Mountain Center,92561,Female,No,No,No
+2475-MROZF,Murrieta,92562,Male,No,No,No
+6705-LXORM,Perris,92570,Female,Yes,Yes,No
+7531-GQHME,San Jacinto,92582,Male,No,No,No
+4109-CYRBD,Menifee,92584,Male,Yes,Yes,No
+0913-XWSCN,Sun City,92585,Male,No,Yes,Yes
+4234-XTNEA,Irvine,92606,Male,No,No,No
+5348-CAGXB,Irvine,92614,Male,No,No,No
+0621-HJWXJ,Irvine,92618,Female,No,Yes,No
+2782-LFZVW,Costa Mesa,92627,Female,No,No,No
+2866-IKBTM,Dana Point,92629,Female,No,No,No
+8138-EALND,Laguna Hills,92653,Male,No,No,No
+2654-VBVPB,Newport Beach,92663,Female,No,No,No
+2501-XWWTZ,San Clemente,92673,Male,No,No,No
+3716-UVSPD,San Juan Capistrano,92675,Male,No,No,No
+7343-EOBEU,Laguna Niguel,92677,Male,No,Yes,No
+3701-SFMUH,Trabuco Canyon,92679,Male,No,Yes,Yes
+7319-VENRZ,Rancho Santa Margarita,92688,Male,No,No,No
+6030-REHUX,Fountain Valley,92708,Female,Yes,Yes,No
+8270-RKSAP,Anaheim,92801,Male,No,No,No
+6522-YRBXD,Anaheim,92802,Male,Yes,Yes,No
+2640-LYMOV,Anaheim,92804,Male,No,No,No
+1423-BMPBQ,Anaheim,92808,Female,No,Yes,Yes
+2393-DIVAI,Brea,92821,Female,No,No,No
+0215-BQKGS,Garden Grove,92844,Male,No,No,No
+9244-ZVAPM,Garden Grove,92845,Male,No,No,No
+5172-MIGPM,Orange,92865,Male,No,No,No
+5839-SUYVZ,Orange,92868,Male,No,No,No
+9396-ZSFLL,Carpinteria,93013,Female,No,No,No
+6464-KEXXH,Fillmore,93015,Male,No,No,No
+5240-CAOYT,Oak View,93022,Female,No,No,No
+4059-IIEBK,Ojai,93023,Female,No,No,No
+4881-JVQOD,Oxnard,93030,Male,Yes,Yes,Yes
+3003-CMDUU,Santa Paula,93060,Female,No,Yes,No
+5016-IBERQ,Simi Valley,93063,Male,No,Yes,No
+9931-KGHOA,Santa Barbara,93103,Female,No,Yes,No
+8404-VLQFB,California Hot Springs,93207,Female,No,Yes,Yes
+3509-GWQGF,Ducor,93218,Male,Yes,No,No
+1140-UKVZG,Farmersville,93223,Female,No,No,No
+5183-SNMJQ,Frazier Park,93225,Male,No,No,No
+2085-JVGAD,Ivanhoe,93235,Male,No,Yes,No
+8095-WANWK,Kettleman City,93239,Female,No,No,No
+3030-ZKIWL,Lake Isabella,93240,Male,No,No,No
+2800-VEQXM,Lebec,93243,Female,No,No,No
+5533-RJFTJ,Lemoore,93245,Male,No,No,No
+9092-GDZKO,New Cuyama,93254,Male,No,No,No
+5760-IFJOZ,Richgrove,93261,Male,No,No,No
+2826-UWHIS,Sequoia National Park,93262,Male,No,Yes,No
+4957-TREIR,Stratford,93266,Male,No,No,No
+8040-MNRTF,Taft,93268,Female,No,No,No
+1536-HBSWP,Terra Bella,93270,Female,No,No,No
+5076-YVXCM,Tupman,93276,Male,No,No,No
+8262-COGGB,Visalia,93277,Male,No,No,No
+2480-JZOSN,Woody,93287,Female,No,Yes,No
+9450-TRJUU,Bakersfield,93306,Male,No,No,No
+1766-GKNMI,Bakersfield,93307,Male,No,No,No
+6942-LBFDP,Bakersfield,93308,Female,No,No,No
+1456-TWCGB,Bakersfield,93309,Male,No,No,No
+3014-WJKSM,San Luis Obispo,93401,Male,No,Yes,No
+3347-YJZZE,Los Osos,93402,Male,No,Yes,Yes
+7929-DMBCV,Arroyo Grande,93420,Female,No,Yes,No
+5433-KYGHE,Avila Beach,93424,Female,No,No,Yes
+5575-TPIZQ,Buellton,93427,Male,No,No,No
+9944-AEXBM,Casmalia,93429,Male,No,No,No
+1853-ARAAQ,Cayucos,93430,Female,No,No,No
+6952-OMNWB,Creston,93432,Male,Yes,Yes,No
+6549-YMFAW,Los Olivos,93441,Male,Yes,Yes,No
+6786-OBWQR,Nipomo,93444,Female,No,Yes,Yes
+6621-YOBKI,San Ardo,93450,Male,No,No,No
+1216-JWVUX,San Miguel,93451,Male,No,Yes,Yes
+1173-NOEYG,Santa Margarita,93453,Female,No,Yes,No
+7595-EHCDL,Santa Maria,93454,Male,No,Yes,Yes
+1307-TVUFB,Santa Ynez,93460,Male,Yes,No,No
+6923-JHPMP,Templeton,93465,Female,No,No,No
+1635-FJFCC,Acton,93510,Female,No,No,No
+3966-HRMZA,Bishop,93514,Female,Yes,No,No
+8224-IVVPA,Caliente,93518,Female,No,No,No
+1410-RSCMR,Edwards,93523,Male,No,Yes,Yes
+0139-IVFJG,Inyokern,93527,Female,No,Yes,No
+0030-FNXPP,Keeler,93530,Female,No,No,No
+4013-GUXND,Lancaster,93534,Male,No,No,No
+4718-DHSMV,Llano,93544,Female,No,No,No
+5175-WLYXL,Lone Pine,93545,Male,No,No,No
+8728-SKJLR,Olancha,93549,Male,No,No,No
+7706-DZNKK,Palmdale,93551,Male,No,No,No
+9505-SQFSW,Tehachapi,93561,Female,No,Yes,Yes
+7521-AFHAB,Auberry,93602,Female,No,Yes,Yes
+0285-INHLN,Badger,93603,Male,No,Yes,Yes
+2202-OUTMO,Caruthers,93609,Female,No,Yes,No
+4257-GAESD,Dinuba,93618,Female,No,No,No
+5173-WXOQV,Dos Palos,93620,Male,No,Yes,No
+6286-ZHAOK,Firebaugh,93622,Female,No,Yes,Yes
+3807-XHCJH,Fish Camp,93623,Female,No,Yes,Yes
+7382-DFJTU,Lakeshore,93634,Male,No,No,No
+4785-NKHCX,O Neals,93645,Male,Yes,No,No
+3196-NVXLZ,Orange Cove,93646,Female,No,No,No
+4220-TINQT,Raisin City,93652,Female,No,Yes,No
+0295-QVKPB,Riverdale,93656,Male,No,No,No
+9146-JRIOX,Shaver Lake,93664,Female,No,Yes,Yes
+5337-IIWKZ,Sultana,93666,Male,No,Yes,Yes
+2672-TGEFF,Traver,93673,Female,No,Yes,Yes
+4250-WAROZ,Fresno,93701,Male,Yes,Yes,Yes
+6092-QZVPP,Fresno,93704,Male,No,No,No
+6549-NNDYT,Fresno,93720,Female,No,No,No
+8713-IGZSO,Salinas,93906,Male,No,No,No
+7905-TVXTA,Salinas,93907,Female,No,No,No
+2732-ISEZX,Pacific Grove,93950,Female,No,No,No
+3050-GBUSH,Burlingame,94010,Female,No,No,No
+9342-VNIMQ,La Honda,94020,Male,No,No,No
+4661-NJEUX,Portola Valley,94028,Male,No,No,No
+2123-AGEEN,Millbrae,94030,Female,Yes,No,No
+5898-IGSLP,Mountain View,94041,Male,No,Yes,Yes
+6259-WJQLC,Pacifica,94044,Male,Yes,No,No
+0730-KOAVE,Redwood City,94062,Male,No,No,No
+2267-FPIMA,San Carlos,94070,Male,No,Yes,No
+1051-GEJLJ,San Gregorio,94074,Female,No,No,No
+5543-QDCRY,San Francisco,94103,Male,No,No,No
+4694-PHWFW,San Francisco,94105,Female,No,No,Yes
+7508-SMHXL,San Francisco,94109,Female,Yes,No,No
+3956-CJUST,San Francisco,94115,Female,Yes,No,No
+6103-BOCOU,San Francisco,94117,Female,No,No,No
+8942-DBMHZ,San Francisco,94122,Male,No,No,No
+4301-VVZKA,San Francisco,94123,Male,No,Yes,No
+4824-GUCBY,San Francisco,94127,Female,Yes,No,No
+5393-HJZSM,San Francisco,94129,Female,No,Yes,Yes
+5146-CBVOE,San Francisco,94134,Female,No,No,No
+6630-UJZMY,Palo Alto,94306,Female,Yes,Yes,No
+0347-UBKUZ,San Mateo,94404,Female,No,No,No
+0811-GSDTP,Alameda,94502,Female,No,No,Yes
+7567-ECMCM,Danville,94506,Male,No,No,No
+6353-BRMMA,Angwin,94508,Female,No,Yes,Yes
+6231-WFGFH,Benicia,94510,Male,No,Yes,Yes
+9904-EHEVJ,Bethel Island,94511,Female,Yes,Yes,Yes
+8584-KMVXD,Calistoga,94515,Female,No,No,No
+8467-WYNSR,Clayton,94517,Male,No,No,No
+0851-DFJKB,Concord,94518,Female,No,No,No
+5382-SOYZL,Concord,94519,Male,No,No,No
+8388-FYNPZ,Pleasant Hill,94523,Male,No,No,No
+4002-BQWPQ,Crockett,94525,Male,No,No,No
+5651-YLPRD,Danville,94526,Female,No,Yes,Yes
+2826-DXLQO,El Cerrito,94530,Male,Yes,Yes,No
+9489-UTFKA,Travis Afb,94535,Male,Yes,Yes,No
+7764-BDPEE,Hayward,94542,Male,No,No,Yes
+5002-GCQFH,Hercules,94547,Male,No,Yes,No
+5879-SESNB,Moraga,94556,Female,No,No,No
+3318-ISQFQ,Newark,94560,Female,No,No,No
+2604-XVDAM,Pope Valley,94567,Female,No,No,No
+3717-OFRTN,Dublin,94568,Male,No,No,No
+9046-JBFWA,Port Costa,94569,Male,No,No,Yes
+3234-VKACU,Sunol,94586,Male,No,No,No
+8120-JDCAM,Vallejo,94589,Male,No,Yes,Yes
+7047-YXDMZ,Vallejo,94591,Male,No,No,No
+0929-HYQEW,Oakland,94601,Male,No,No,No
+7426-RHZGU,Oakland,94603,Male,No,No,No
+4065-JJAVA,Oakland,94605,Female,No,No,No
+3748-FVMZZ,Oakland,94610,Male,No,No,No
+9391-TTOYH,Oakland,94611,Female,No,No,No
+1452-XRSJV,Oakland,94612,Female,No,Yes,Yes
+8242-SOQUO,Oakland,94619,Female,Yes,No,No
+7460-ITWWP,Oakland,94621,Female,Yes,Yes,No
+7147-AYBAA,Berkeley,94702,Male,No,No,No
+8329-GWVPJ,Berkeley,94708,Female,No,Yes,Yes
+1352-VHKAJ,Berkeley,94709,Male,No,Yes,Yes
+4581-LNWUM,San Pablo,94806,Female,No,No,No
+7296-PIXQY,Bodega,94922,Female,No,Yes,Yes
+3524-WQDSG,Corte Madera,94925,Female,No,Yes,Yes
+4026-SKKHW,Dillon Beach,94929,Male,No,No,No
+3845-JHAMY,Inverness,94937,Female,No,Yes,Yes
+1730-VFMWO,Petaluma,94952,Female,No,Yes,No
+7143-BQIBA,Petaluma,94954,Male,No,No,No
+7030-NJVDP,San Quentin,94964,Male,No,Yes,No
+2111-DWYHN,Aptos,95003,Male,No,No,No
+4194-WHFCB,Aromas,95004,Female,No,Yes,Yes
+0455-XFASS,Campbell,95008,Female,No,Yes,Yes
+1751-NCDLI,Castroville,95012,Male,Yes,Yes,No
+7241-AJHFS,Hollister,95023,Male,No,No,No
+4546-FOKWR,Los Gatos,95032,Female,No,No,No
+7439-DKZTW,Paicines,95043,Male,No,No,No
+4646-QZXTF,San Juan Bautista,95045,Female,No,Yes,No
+6921-OZMFH,Santa Clara,95051,Male,No,Yes,Yes
+9578-FOMUK,Santa Clara,95054,Male,No,No,Yes
+4712-UYOOI,Santa Cruz,95060,Female,No,Yes,Yes
+7363-QTBIW,Scotts Valley,95066,Female,No,Yes,No
+3391-JSQEW,San Jose,95110,Male,No,Yes,No
+3312-UUMZW,San Jose,95117,Male,No,Yes,No
+6891-JPYFF,San Jose,95121,Female,No,Yes,Yes
+1047-NNCBF,San Jose,95123,Male,No,No,No
+8791-GFXLZ,San Jose,95127,Male,No,No,No
+0098-BOWSO,San Jose,95131,Male,No,No,No
+3452-ABWRL,San Jose,95132,Male,Yes,No,No
+3156-QLHBO,San Jose,95136,Male,No,No,Yes
+2208-NQBCT,San Jose,95138,Female,No,Yes,Yes
+0774-IFUVM,Stockton,95202,Male,No,Yes,Yes
+1641-BYBTK,Stockton,95205,Male,No,No,Yes
+2460-NGXBJ,Stockton,95206,Male,Yes,Yes,Yes
+2446-ZKVAF,Stockton,95207,Male,No,Yes,No
+3522-CDKHF,Stockton,95210,Female,No,Yes,No
+0411-EZJZE,Stockton,95215,Female,No,No,No
+8807-ARQET,Angels Camp,95222,Female,No,No,No
+8992-CEUEN,Arnold,95223,Female,No,No,No
+4320-QMLLA,Avery,95224,Male,No,No,No
+5334-JLAXU,French Camp,95231,Female,No,Yes,No
+6242-MBHPK,Hathaway Pines,95233,Female,Yes,Yes,No
+7129-ACFOG,Mountain Ranch,95246,Female,No,No,No
+1641-RQDAY,Wallace,95254,Female,Yes,Yes,Yes
+1346-UFHAX,Woodbridge,95258,Female,No,No,No
+5461-QKNTN,Catheys Valley,95306,Male,Yes,Yes,No
+3164-YAXFY,Coulterville,95311,Male,No,No,No
+4660-IRIBM,Crows Landing,95313,Male,No,Yes,Yes
+3916-NRPAP,Escalon,95320,Male,No,No,No
+8967-SZQAS,Hornitos,95325,Female,No,No,No
+4468-KAZHE,Hughson,95326,Female,Yes,Yes,No
+8944-AILEF,Keyes,95328,Male,No,Yes,No
+7126-RBHSD,Lathrop,95330,Female,No,Yes,No
+6789-HJBWG,Livingston,95334,Female,No,No,No
+6791-YBNAK,Manteca,95337,Male,No,Yes,Yes
+6077-BDPXA,Merced,95340,Female,No,No,No
+0013-MHZWF,Midpines,95345,Female,No,No,Yes
+4291-SHSBH,Modesto,95354,Male,No,No,No
+2294-DMMUS,Patterson,95363,Female,No,Yes,Yes
+0872-JCPIB,Pinecrest,95364,Male,No,No,No
+3055-MJDSB,Planada,95365,Male,No,No,No
+2040-VZIKE,Stevinson,95374,Female,No,Yes,No
+0178-SZBHO,Tuolumne,95379,Male,No,Yes,Yes
+0384-RVBPI,Turlock,95380,Male,No,No,No
+0319-QZTCO,Santa Rosa,95401,Female,No,Yes,Yes
+2120-SMPEX,Santa Rosa,95403,Male,No,No,No
+0096-FCPUF,Santa Rosa,95404,Male,No,No,No
+0668-OGMHD,Santa Rosa,95405,Female,No,Yes,No
+6507-ZJSUR,Albion,95410,Male,Yes,Yes,No
+9408-HRXRK,Annapolis,95412,Female,No,Yes,Yes
+7617-EYGLW,Clearlake Oaks,95423,Male,No,No,No
+9992-UJOEL,Elk,95432,Male,No,No,No
+4741-WWJQZ,Forestville,95436,Female,No,Yes,No
+6625-UTXEW,Fort Bragg,95437,Female,No,Yes,No
+1251-STYSZ,Glenhaven,95443,Female,Yes,No,No
+1257-SXUXQ,Jenner,95450,Male,No,Yes,Yes
+9681-KYGYB,Kelseyville,95451,Male,Yes,Yes,No
+6260-ONULR,Middletown,95461,Male,No,No,No
+8800-ZKRFW,Philo,95466,Female,No,Yes,Yes
+6729-GDNGC,Westport,95488,Female,Yes,No,No
+6198-ZFIOJ,Willits,95490,Female,No,No,No
+4945-RVMTE,Blocksburg,95514,Female,No,No,No
+9788-YTFGE,Fortuna,95540,Male,No,No,No
+9277-JOOMO,Garberville,95542,Female,No,No,No
+1907-YLNYW,Gasquet,95543,Male,No,No,No
+0114-RSRRW,Klamath,95548,Female,No,Yes,No
+6475-VHUIZ,Myers Flat,95554,Female,No,Yes,No
+7537-RBWEA,Petrolia,95558,Female,No,No,No
+3733-LSYCE,Samoa,95564,Female,No,Yes,No
+0536-BGFMZ,Leggett,95585,Female,No,Yes,No
+2625-TRCZQ,Auburn,95602,Female,No,Yes,No
+7266-GSSJX,West Sacramento,95605,Male,No,Yes,Yes
+5624-RYAMH,Citrus Heights,95610,Female,No,No,No
+0196-JTUQI,Clarksburg,95612,Female,No,No,No
+7130-YXBRO,Cool,95614,Male,No,Yes,No
+9272-LSVYH,Courtland,95615,Male,No,No,No
+4238-HFHSN,Elverta,95626,Male,Yes,Yes,No
+5478-JJVZK,Fair Oaks,95628,Female,No,No,No
+9793-WECQC,Foresthill,95631,Male,No,No,No
+4291-HPAXL,Galt,95632,Male,No,No,Yes
+1697-BCSHV,Guinda,95637,Female,No,Yes,Yes
+3717-OEAUQ,Ione,95640,Male,No,No,No
+9089-UOWJG,Lotus,95651,Female,No,Yes,Yes
+9885-AIBVB,Newcastle,95658,Male,No,Yes,No
+2592-YKDIF,North Highlands,95660,Female,No,No,No
+8714-CTZJW,Pilot Hill,95664,Female,No,No,No
+3569-EDBPQ,Pine Grove,95665,Female,No,No,No
+7521-YXVZY,Placerville,95667,Male,No,No,Yes
+2373-NTKOD,Rancho Cordova,95670,Male,No,No,No
+5977-CKHON,Roseville,95678,Female,No,Yes,Yes
+2692-BUCFV,Shingle Springs,95682,Male,Yes,No,No
+5302-BDJNT,Sutter Creek,95685,Male,No,No,No
+5651-WYIPH,Vacaville,95688,Female,Yes,No,No
+9350-VLHMB,Volcano,95689,Male,No,Yes,Yes
+8785-CJSHH,West Sacramento,95691,Female,No,Yes,No
+7077-XJMET,Alta,95701,Male,No,Yes,No
+6896-SRVYQ,Camino,95709,Male,Yes,No,No
+9046-DQMTP,Kyburz,95720,Male,No,No,No
+6439-LAJXL,Echo Lake,95721,Male,No,Yes,No
+9052-VKDUW,Pollock Pines,95726,Female,Yes,Yes,No
+1666-JZPZT,Twin Bridges,95735,Male,No,No,No
+7055-HNEOJ,El Dorado Hills,95762,Male,No,Yes,No
+3211-AAPKX,Woodland,95776,Male,No,No,No
+8445-DNBAE,Sacramento,95814,Male,No,No,Yes
+2958-NHPPS,Sacramento,95816,Male,No,No,No
+6806-YDEUL,Sacramento,95817,Female,Yes,No,No
+1735-XMJVH,Sacramento,95818,Male,No,Yes,Yes
+6890-PFRQX,Sacramento,95819,Male,No,No,No
+0222-CNVPT,Sacramento,95820,Male,Yes,No,No
+5899-OUVKV,Sacramento,95821,Male,No,No,No
+8681-ICONS,Sacramento,95822,Male,No,Yes,Yes
+6234-PFPXL,Sacramento,95829,Male,No,Yes,No
+4283-IVYCI,Sacramento,95832,Male,No,No,No
+1866-OBPNR,Sacramento,95833,Male,No,Yes,Yes
+8205-MQUGY,Sacramento,95834,Male,No,Yes,Yes
+6979-TNDEU,Sacramento,95841,Female,No,No,No
+9777-WJJPR,Sacramento,95842,Male,No,Yes,No
+9495-SKLKD,Marysville,95901,Male,No,Yes,Yes
+5067-DGXLL,Alleghany,95910,Male,No,No,No
+9290-SHCMB,Brownsville,95919,Female,Yes,No,No
+8695-WDYEA,Chico,95928,Male,No,No,No
+8605-ITULD,Crescent Mills,95934,Female,No,No,No
+6416-YJTTB,Downieville,95936,Male,No,No,No
+4472-VESGY,Durham,95938,Female,No,Yes,Yes
+3195-TQDZX,Elk Creek,95939,Male,No,No,No
+3128-YOVTD,Forbestown,95941,Female,No,Yes,Yes
+1728-CXQBE,Glenn,95943,Male,Yes,Yes,No
+7041-TXQJH,Goodyears Bar,95944,Female,No,No,No
+1769-GRUIK,Gridley,95948,Female,No,No,No
+2811-POVEX,Live Oak,95953,Female,Yes,Yes,Yes
+9314-IJWSQ,Meridian,95957,Female,No,Yes,Yes
+6198-RTPMF,Oregon House,95962,Female,No,Yes,No
+1925-GMVBW,Oroville,95965,Female,No,No,No
+6184-DYUOB,Palermo,95968,Female,No,Yes,No
+9327-QSDED,Quincy,95971,Male,No,No,No
+1656-DRSMG,Chico,95973,Female,No,No,No
+3012-VFFMN,Richvale,95974,Female,No,Yes,Yes
+2984-AFWNC,Rough And Ready,95975,Female,No,No,No
+8096-LOIST,Stirling City,95978,Female,No,No,No
+7107-UBYKY,Sutter,95982,Female,No,Yes,Yes
+4881-GQJTW,Taylorsville,95983,Male,No,No,No
+7905-NJMXS,Williams,95987,Male,Yes,Yes,No
+5071-FBJFS,Redding,96001,Female,No,Yes,Yes
+2796-UUZZO,Redding,96002,Male,No,Yes,Yes
+3794-NFNCH,Bella Vista,96008,Male,No,Yes,No
+5522-NYKPB,Burney,96013,Male,No,Yes,Yes
+9957-YODKZ,Canby,96015,Male,Yes,Yes,No
+7776-QGYJC,Shasta Lake,96019,Female,No,Yes,Yes
+9313-QOLTZ,Chester,96020,Male,No,No,No
+4672-FOTSD,Dorris,96023,Male,No,No,No
+9818-XQCUV,Dunsmuir,96025,Female,No,No,No
+8259-NFJTV,Flournoy,96029,Female,No,Yes,Yes
+3223-DWFIO,Forks Of Salmon,96031,Male,Yes,No,No
+6968-GMKPR,French Gulch,96033,Female,No,No,No
+1436-ZMJAN,Gerber,96035,Female,No,Yes,No
+3292-PBZEJ,Greenview,96037,Male,Yes,No,No
+0799-DDIHE,Grenada,96038,Female,No,Yes,Yes
+2812-SFXMJ,Hat Creek,96040,Male,No,No,Yes
+2782-JEEBU,Los Molinos,96055,Male,No,No,No
+2720-FVBQP,Mccloud,96057,Female,No,Yes,Yes
+7351-KYHQH,Montague,96064,Female,Yes,No,No
+8246-SHFGA,Mount Shasta,96067,Male,No,No,No
+0620-XEFWH,Oak Run,96069,Male,No,Yes,Yes
+7321-VGNKU,Paskenta,96074,Female,No,Yes,No
+3374-PZLXD,Blairsden Graeagle,96103,Male,No,No,No
+4939-KYYPY,Coleville,96107,Male,No,No,No
+6022-KOUQO,Eagleville,96110,Female,No,Yes,Yes
+9504-DSHWM,Litchfield,96117,Male,No,No,No
+5035-BVCXS,Loyalton,96118,Male,No,No,No
+6267-DCFFZ,Madeline,96119,Female,Yes,Yes,No
+2439-LYPMQ,Milford,96121,Male,Yes,Yes,No
+1478-VPOAD,Calpine,96124,Female,No,No,No
+1498-DQNRX,Westwood,96137,Female,No,Yes,No
+9469-WEJBT,Carnelian Bay,96140,Male,No,Yes,No
+7426-WEIJX,Olympic Valley,96146,Male,Yes,Yes,Yes
+2851-MMUTZ,Tahoe Vista,96148,Female,No,No,No
+3307-TLCUD,Los Angeles,90001,Male,No,Yes,No
+8189-HBVRW,Los Angeles,90005,Female,No,No,No
+4163-KIUHY,Los Angeles,90006,Male,No,No,No
+1171-TYKUR,Los Angeles,90010,Male,No,Yes,No
+3761-FLYZI,Los Angeles,90011,Female,Yes,Yes,No
+1219-NNDDO,Los Angeles,90015,Female,No,No,No
+9659-QEQSY,Los Angeles,90018,Female,No,No,No
+5405-ZMYXQ,Los Angeles,90019,Female,No,No,No
+0793-TWELN,Los Angeles,90026,Female,No,No,No
+0999-QXNSA,Los Angeles,90029,Male,Yes,No,Yes
+4422-QVIJA,Los Angeles,90035,Female,No,No,Yes
+9365-SRSZE,Los Angeles,90036,Male,Yes,Yes,No
+0274-JKUJR,Los Angeles,90040,Male,No,Yes,Yes
+5740-YHGTW,Los Angeles,90041,Male,No,Yes,Yes
+8158-WPEZG,Los Angeles,90061,Male,No,No,No
+4918-FYJNT,Los Angeles,90063,Female,Yes,Yes,No
+4854-CIDCF,Los Angeles,90065,Female,Yes,No,No
+6435-SRWBJ,Los Angeles,90068,Female,No,No,No
+1702-CCFNJ,Los Angeles,90077,Male,No,Yes,No
+5515-RUGKN,Beverly Hills,90211,Male,No,No,No
+2081-VEYEH,Compton,90221,Male,No,No,No
+6407-UTSLV,Compton,90222,Female,Yes,No,No
+7398-SKNQZ,Downey,90241,Female,No,Yes,No
+5935-FCCNB,Downey,90242,Female,Yes,No,No
+1958-RNRKS,El Segundo,90245,Male,No,Yes,No
+5136-RGMZO,Gardena,90247,Male,No,No,No
+1015-OWJKI,Lawndale,90260,Male,No,No,No
+8887-IPQNC,Manhattan Beach,90266,Female,No,Yes,No
+1222-KJNZD,Palos Verdes Peninsula,90274,Male,No,Yes,Yes
+0106-GHRQR,Rancho Palos Verdes,90275,Male,No,No,No
+1320-REHCS,Inglewood,90301,Male,Yes,No,No
+1803-BGNBD,Santa Monica,90402,Female,No,No,No
+2243-FNMMI,Torrance,90501,Male,No,No,No
+9470-XCCEM,Torrance,90504,Male,No,Yes,Yes
+6519-CFDBX,Torrance,90505,Female,No,No,No
+3144-KMTWZ,Whittier,90606,Male,No,Yes,No
+5207-PLSTK,La Habra,90631,Male,No,Yes,Yes
+2155-AMQRX,Norwalk,90650,Female,No,No,No
+5091-HFAZW,Santa Fe Springs,90670,Female,No,No,No
+8623-ULFNQ,Cerritos,90703,Female,Yes,No,No
+2586-CWXVV,Hawaiian Gardens,90716,Male,No,Yes,No
+8401-EMUWF,Paramount,90723,Male,No,Yes,Yes
+2474-LCNUE,Sunset Beach,90742,Female,No,Yes,No
+6650-VJONK,Carson,90746,Male,No,No,No
+2178-PMGCJ,Long Beach,90802,Male,No,No,No
+6016-LVTJQ,Long Beach,90805,Female,No,Yes,Yes
+2070-XYMFH,Long Beach,90815,Female,Yes,No,No
+0817-HSUSE,Altadena,91001,Male,No,No,No
+1663-MHLHE,Duarte,91010,Male,No,No,No
+4450-MDZFX,Monrovia,91016,Male,No,Yes,Yes
+7554-AKDQF,Sierra Madre,91024,Female,No,Yes,No
+5423-BHIXO,Pasadena,91103,Female,No,No,No
+6908-VVYHM,Pasadena,91104,Male,No,Yes,No
+2959-EEXWB,Pasadena,91105,Female,No,Yes,Yes
+3030-YDNRM,Pasadena,91107,Male,No,No,No
+3402-XRIUO,Glendale,91201,Female,Yes,Yes,No
+8286-AFUYI,Glendale,91203,Male,No,No,No
+8356-WUAOJ,Glendale,91205,Female,No,Yes,No
+8058-DMYRU,Glendale,91208,Male,Yes,No,No
+6959-GQEGV,Canoga Park,91303,Male,No,No,No
+3537-RYBHH,Northridge,91324,Female,Yes,Yes,No
+0523-VNGTF,Sun Valley,91352,Female,Yes,No,No
+3961-SXAXY,Thousand Oaks,91362,Male,No,No,No
+3566-HJGPK,Woodland Hills,91367,Male,No,No,No
+3062-ICYZQ,Oak Park,91377,Female,No,Yes,Yes
+0463-WZZKO,Van Nuys,91406,Male,No,No,No
+4524-QCSSM,Encino,91436,Male,No,No,No
+5832-EXGTT,Burbank,91501,Male,No,Yes,Yes
+7217-JYHOQ,Burbank,91505,Male,No,Yes,Yes
+8069-YQQAJ,Studio City,91604,Male,No,No,No
+1636-NTNCO,Valley Village,91607,Male,Yes,No,No
+3466-WAESX,Rancho Cucamonga,91701,Male,No,No,Yes
+9281-PKKZE,Azusa,91702,Female,No,Yes,No
+7459-IMVYU,Chino Hills,91709,Male,No,No,No
+8563-OYMQY,Covina,91722,Male,No,No,No
+3318-NMQXL,El Monte,91731,Male,No,No,No
+2272-UOINI,Rancho Cucamonga,91739,Female,No,No,No
+6637-KYRCV,La Puente,91744,Female,No,Yes,Yes
+5356-CSVSQ,La Verne,91750,Female,No,No,No
+3221-CJMSG,Mira Loma,91752,Male,No,No,No
+2801-NISEI,Mt Baldy,91759,Male,No,No,No
+4623-ZKHLY,Ontario,91762,Male,No,Yes,No
+8201-AAXCB,Ontario,91764,Male,No,Yes,Yes
+1845-CSBRZ,Pomona,91766,Female,Yes,Yes,Yes
+2018-QKYGT,San Gabriel,91775,Male,No,Yes,Yes
+2792-VPPET,San Gabriel,91776,Male,No,No,No
+3247-MHJKM,Upland,91784,Male,No,No,No
+7243-LCGGZ,Alhambra,91801,Female,No,No,No
+8267-KFGYD,Alhambra,91803,Male,No,No,Yes
+9261-WDCAF,Bonita,91902,Male,No,No,No
+7442-YGZFK,Campo,91906,Male,No,No,No
+7449-HVPIV,Chula Vista,91913,Male,No,Yes,Yes
+8735-IJJEG,Guatay,91931,Male,No,Yes,No
+0564-MUUQK,Imperial Beach,91932,Female,No,Yes,Yes
+0701-RFGFI,La Mesa,91941,Female,No,Yes,Yes
+5619-PTMIK,Lemon Grove,91945,Female,No,Yes,No
+3737-XBQDD,Mount Laguna,91948,Male,No,No,No
+5882-CMAZQ,National City,91950,Female,No,Yes,Yes
+5846-QFDFI,Pine Valley,91962,Female,No,Yes,Yes
+7967-HYCDE,Spring Valley,91978,Male,No,No,No
+3723-BFBGR,Borrego Springs,92004,Male,Yes,No,No
+7892-QVYKW,El Cajon,92020,Female,No,Yes,Yes
+5692-ICXLW,Escondido,92027,Male,Yes,No,No
+1960-UYCNN,Julian,92036,Male,No,No,No
+3190-FZATL,Lakeside,92040,Male,No,No,Yes
+3365-SAIGS,Rancho Santa Fe,92067,Female,No,No,No
+7020-OZKXZ,Vista,92084,Female,Yes,No,No
+3977-QCRSL,Warner Springs,92086,Female,No,No,No
+1492-QGCLU,San Diego,92109,Male,No,Yes,Yes
+4418-LZMSV,San Diego,92113,Male,No,Yes,Yes
+5155-AZQPB,San Diego,92114,Female,No,Yes,Yes
+5989-PGKJB,San Diego,92121,Female,No,No,No
+3090-LETTY,San Diego,92130,Male,No,No,Yes
+5349-AZPEW,San Diego,92131,Female,No,Yes,Yes
+8100-HZZLJ,Indio,92201,Female,No,No,Yes
+8775-ERLNB,Indio,92203,Male,Yes,Yes,No
+8309-IEYJD,Indian Wells,92210,Female,Yes,No,No
+7361-YPXFS,Brawley,92227,Female,Yes,No,No
+6557-BZXLQ,Cabazon,92230,Male,Yes,No,No
+2538-OIMXF,Cathedral City,92234,Female,No,No,Yes
+8543-MSDMF,Coachella,92236,Male,No,No,No
+1170-SASML,Desert Hot Springs,92240,Female,No,Yes,No
+2038-LLMLM,El Centro,92243,Female,No,No,No
+1216-BGTSP,Imperial,92251,Male,No,No,No
+4138-NAXED,Joshua Tree,92252,Male,No,No,No
+7483-IQWIB,Morongo Valley,92256,Male,No,Yes,Yes
+5153-RTHKF,Palm Springs,92264,Female,No,No,No
+9079-LWTFD,Pioneertown,92268,Male,No,No,No
+3061-BCKYI,Thousand Palms,92276,Male,No,No,No
+7901-TBKJX,Twentynine Palms,92278,Male,Yes,No,No
+5804-HYIEZ,Winterhaven,92283,Male,No,Yes,Yes
+5934-TSSAU,Landers,92285,Female,No,Yes,Yes
+3486-KHMLI,Adelanto,92301,Male,No,No,Yes
+6661-EIPZC,Grand Terrace,92313,Female,No,Yes,Yes
+5555-RNPGT,Bloomington,92316,Male,No,No,Yes
+1057-FOGLZ,Calimesa,92320,Female,No,No,No
+8087-LGYHQ,Crestline,92325,Male,No,No,No
+4137-BTIKL,Daggett,92327,Male,No,No,No
+2190-BCXEC,Death Valley,92328,Female,No,Yes,No
+2911-WDXMV,Fontana,92335,Male,No,No,Yes
+7206-PQBBZ,Fontana,92336,Male,Yes,Yes,No
+7422-WNBTY,Green Valley Lake,92341,Male,No,Yes,No
+0842-IWYCP,Helendale,92342,Female,No,No,No
+3744-ZBHON,Highland,92346,Female,No,No,No
+7707-PYBBH,Lucerne Valley,92356,Male,No,No,No
+9779-DPNEJ,Nipton,92364,Female,No,Yes,Yes
+0673-IGUQO,Phelan,92371,Male,No,No,No
+8819-IMISP,Redlands,92373,Male,No,No,No
+5858-EAFCZ,Rialto,92377,Male,No,No,No
+1163-ONYEY,Shoshone,92384,Male,No,Yes,Yes
+8974-OVACP,Yermo,92398,Female,No,No,No
+4010-YLMVT,Yucaipa,92399,Female,No,No,No
+1379-FRVEB,San Bernardino,92401,Male,No,No,Yes
+8160-HOWOX,San Bernardino,92407,Female,No,No,No
+6648-INWPS,San Bernardino,92410,Male,No,Yes,Yes
+1763-WQFUK,Riverside,92503,Male,No,No,No
+1391-UBDAR,Riverside,92504,Male,No,No,No
+2023-VQFDL,Riverside,92506,Male,No,No,No
+1345-GKDZZ,Riverside,92507,Male,No,No,Yes
+5628-FCGYG,Riverside,92509,Male,No,No,No
+0248-IPDFW,Lake Elsinore,92530,Female,No,No,No
+7978-DKUQH,Lake Elsinore,92532,Female,No,Yes,No
+6635-CPNUN,Moreno Valley,92553,Male,No,Yes,No
+3995-WFCSM,San Jacinto,92582,Female,No,No,No
+1895-QTKDO,San Jacinto,92583,Female,No,No,No
+2038-OEQZH,Menifee,92584,Male,No,No,No
+6844-DZKRF,Irvine,92604,Male,No,No,No
+3689-MOZGR,Irvine,92618,Female,No,No,No
+6131-IUNXN,Huntington Beach,92646,Female,No,Yes,Yes
+8548-AWOFC,Huntington Beach,92647,Male,No,Yes,No
+4365-MSDYN,San Clemente,92672,Male,No,Yes,No
+8495-LJDFO,Rancho Santa Margarita,92688,Female,Yes,No,No
+1302-UHBDD,Ladera Ranch,92694,Male,Yes,No,No
+8378-LKJAF,Santa Ana,92704,Male,No,Yes,Yes
+3496-LFSZU,Anaheim,92801,Male,No,Yes,No
+8097-VBQTZ,Anaheim,92806,Male,No,No,No
+3420-ZDBMA,Brea,92821,Male,Yes,No,No
+1393-IMKZG,Fullerton,92831,Female,No,No,No
+1013-QCWAM,Garden Grove,92841,Female,Yes,Yes,No
+9554-DFKIC,Villa Park,92861,Male,No,Yes,Yes
+5527-ACHSO,Orange,92865,Female,No,No,No
+1399-UBQIU,Orange,92867,Male,No,No,No
+9537-VHDTA,Corona,92879,Female,No,No,Yes
+3126-WQMGH,Yorba Linda,92887,Female,No,Yes,No
+0093-EXYQL,Ojai,93023,Female,Yes,No,No
+8064-RAVOH,Oxnard,93030,Male,No,No,Yes
+9168-INPSZ,Port Hueneme,93041,Female,Yes,Yes,No
+0015-UOCOJ,Simi Valley,93063,Female,Yes,No,No
+2754-SDJRD,Somis,93066,Female,Yes,No,No
+8963-JLGJT,Santa Barbara,93105,Male,No,No,Yes
+1465-LNTLJ,Santa Barbara,93109,Male,Yes,Yes,No
+2135-DQWAQ,Santa Barbara,93111,Female,No,No,No
+4706-DGAHW,California Hot Springs,93207,Male,Yes,No,No
+4813-HQMGZ,Ducor,93218,Female,No,Yes,No
+4947-DSMXK,Farmersville,93223,Male,No,Yes,Yes
+7245-NIIWQ,Fellows,93224,Female,No,No,No
+8552-OBVRU,Ivanhoe,93235,Female,Yes,Yes,Yes
+9367-OIUXP,Laton,93242,Male,No,No,No
+7928-VJYAB,Lemoore,93245,Male,No,Yes,Yes
+9776-OJUZI,Lost Hills,93249,Female,Yes,No,No
+3097-PYWXL,New Cuyama,93254,Female,No,Yes,Yes
+0869-PAPRP,Pixley,93256,Female,Yes,Yes,No
+4238-JSSWH,Porterville,93257,Female,Yes,Yes,No
+1104-FEJAM,Richgrove,93261,Male,No,Yes,Yes
+4981-FLTMF,Springville,93265,Female,No,Yes,Yes
+9121-PHQSR,Stratford,93266,Male,Yes,Yes,No
+3113-IWHLC,Strathmore,93267,Male,No,No,No
+1552-AAGRX,Visalia,93277,Female,No,No,No
+2637-FKFSY,Wasco,93280,Female,No,Yes,No
+7874-ECPQJ,Wofford Heights,93285,Female,No,No,Yes
+2683-JXWQQ,Visalia,93291,Male,No,Yes,Yes
+8739-XNIKG,Bakersfield,93301,Female,No,No,No
+3981-QSVQI,Bakersfield,93305,Male,No,No,No
+2789-HQBOU,Bakersfield,93306,Male,No,No,No
+3450-WXOAT,Bakersfield,93309,Male,No,No,No
+2616-UUTFK,Bakersfield,93313,Male,No,Yes,No
+7989-AWGEH,San Luis Obispo,93405,Male,No,Yes,Yes
+4373-VVHQL,Arroyo Grande,93420,Male,No,No,No
+4559-UWIHT,Atascadero,93422,Male,No,Yes,No
+7268-IGMFD,Avila Beach,93424,Male,Yes,No,No
+2712-SYWAY,Creston,93432,Female,No,No,No
+9101-NTIXF,Lompoc,93436,Male,No,No,No
+9308-ANMVE,Los Olivos,93441,Male,No,No,Yes
+3413-DHLPB,Oceano,93445,Male,No,Yes,Yes
+3787-TRIAL,San Ardo,93450,Male,No,Yes,Yes
+2573-GYRUU,San Miguel,93451,Male,Yes,Yes,No
+5156-UMKOW,San Simeon,93452,Female,No,No,Yes
+1247-QBVSH,Santa Margarita,93453,Female,No,Yes,Yes
+6734-GMPVK,Santa Maria,93454,Male,No,No,No
+9822-OAOVB,Santa Maria,93455,Female,No,No,No
+7318-EIVKO,Shandon,93461,Male,No,No,No
+3771-PZOBW,Solvang,93463,Male,No,No,No
+7389-KBFIT,Big Pine,93513,Female,No,Yes,Yes
+7176-WIONM,Bishop,93514,Female,No,Yes,No
+5141-ZUVBH,Boron,93516,Female,No,No,Yes
+1089-HDMKP,Bridgeport,93517,Male,Yes,No,Yes
+7623-HKYRK,Caliente,93518,Male,No,No,Yes
+3503-TYDAY,Keene,93531,Female,No,Yes,No
+4307-KWMXE,Llano,93544,Male,No,No,No
+0141-YEAYS,Lone Pine,93545,Female,Yes,No,No
+3694-DELSO,Olancha,93549,Male,No,Yes,Yes
+3893-JRNFS,Palmdale,93550,Male,No,No,No
+9603-OAIHC,Palmdale,93551,Male,Yes,No,No
+0142-GVYSN,Randsburg,93554,Male,No,No,No
+1049-FYSYG,Ridgecrest,93555,Female,No,Yes,No
+1465-WCZVT,Badger,93603,Female,No,Yes,Yes
+9481-SFCQY,Bass Lake,93604,Female,No,No,Yes
+6360-SVNWV,Big Creek,93605,Female,Yes,No,No
+0567-GGCAC,Biola,93606,Female,No,No,No
+2171-UDMFD,Chowchilla,93610,Male,No,Yes,Yes
+9050-IKDZA,Clovis,93611,Female,Yes,No,No
+0187-WZNAB,Del Rey,93616,Female,No,Yes,Yes
+1475-VWVDO,Dos Palos,93620,Male,No,No,No
+1357-MVDOZ,Firebaugh,93622,Male,No,Yes,Yes
+1197-BVMVG,Friant,93626,Female,Yes,No,No
+7140-ADSMJ,Los Banos,93635,Male,No,No,No
+2585-KTFRE,Mendota,93640,Male,No,No,Yes
+7994-UYIVZ,Miramonte,93641,Male,No,Yes,No
+6164-HXUGH,Raymond,93653,Female,No,Yes,Yes
+5630-IXDXV,Reedley,93654,Female,No,No,No
+1212-GLHMD,San Joaquin,93660,Male,No,No,No
+7878-JGDKK,Selma,93662,Male,No,No,No
+9588-OZDMQ,Tollhouse,93667,Female,No,Yes,No
+6476-EPYZR,Wishon,93669,Male,No,Yes,Yes
+6620-HVDUJ,Fresno,93701,Male,No,No,No
+1552-TKMXS,Fresno,93705,Female,No,Yes,No
+8622-ZLFKO,Fresno,93710,Female,No,Yes,No
+5702-SKUOB,Fresno,93722,Female,No,Yes,No
+1134-YWTYF,Fresno,93725,Male,No,Yes,No
+0447-RXSGD,Monterey,93940,Male,No,No,No
+4927-WWOOZ,Pacific Grove,93950,Male,No,Yes,No
+0722-SVSFK,Half Moon Bay,94019,Female,No,No,No
+7175-NTIXE,Redwood City,94061,Female,No,No,No
+9796-BPKIW,Redwood City,94063,Male,Yes,No,No
+0188-GWFLE,Redwood City,94065,Male,No,No,No
+2882-DDZPG,San Carlos,94070,Female,No,No,No
+9137-NOQKA,South San Francisco,94080,Male,Yes,No,No
+5843-TTHGI,Sunnyvale,94086,Female,No,No,No
+1849-RJYIG,Sunnyvale,94087,Female,No,No,No
+8868-GAGIO,Sunnyvale,94089,Male,No,Yes,No
+4061-UKJWL,San Francisco,94102,Male,No,No,No
+5186-PEIZU,San Francisco,94124,Female,No,No,No
+1074-AMIOH,San Francisco,94127,Female,No,Yes,Yes
+7748-UMTRK,San Francisco,94132,Female,Yes,No,Yes
+0380-ZCSBI,San Francisco,94133,Male,No,No,No
+7145-FEJWU,San Francisco,94134,Female,No,No,Yes
+3969-JQABI,Palo Alto,94303,Female,No,Yes,No
+1051-EQPZR,Stanford,94305,Female,No,Yes,Yes
+5780-INQIK,San Mateo,94401,Female,No,No,No
+4526-ZJJTM,San Mateo,94403,Female,Yes,Yes,No
+8384-FZBJK,San Mateo,94404,Female,No,Yes,Yes
+3750-RNQKR,Alameda,94501,Female,No,No,No
+8325-QRPZR,Benicia,94510,Female,No,No,No
+2262-SLNVK,Birds Landing,94512,Female,No,No,No
+6481-ESCNL,Clayton,94517,Female,No,No,No
+1550-EENBN,Concord,94519,Female,No,No,No
+8198-RKSZG,El Cerrito,94530,Female,No,Yes,Yes
+7799-DSEWS,Hayward,94544,Male,No,No,No
+3130-ICDUP,Hercules,94547,Female,No,No,Yes
+0820-FNRNX,Lafayette,94549,Male,No,Yes,Yes
+0880-FVFWF,Livermore,94550,Male,No,No,No
+2792-LSHWX,Fremont,94555,Female,No,No,No
+4391-LNRXK,Port Costa,94569,Male,No,No,No
+8250-ZNGGW,Rio Vista,94571,Female,Yes,No,No
+8562-GHPPI,San Leandro,94577,Female,No,No,No
+4986-MXSFP,San Leandro,94579,Female,No,No,No
+6131-FOYAS,San Lorenzo,94580,Male,No,No,No
+5609-IMCGG,Suisun City,94585,Female,No,No,No
+4727-MCYZG,Union City,94587,Male,No,No,No
+3301-LSLWQ,Vallejo,94592,Female,No,No,No
+5639-NTUPK,Walnut Creek,94598,Male,No,No,Yes
+4191-XOVOM,Oakland,94611,Male,No,No,No
+1855-CFULU,Oakland,94619,Female,Yes,No,No
+5213-TWWJU,Richmond,94804,Male,No,No,No
+5445-GLVOT,Greenbrae,94904,Female,No,No,No
+2466-NEJOJ,Bodega,94922,Male,No,Yes,Yes
+8150-QUDFX,Rohnert Park,94928,Male,No,No,No
+9508-ILZDG,Dillon Beach,94929,Female,Yes,No,No
+2346-DJQTB,Fairfax,94930,Female,No,No,No
+1942-OQFRW,Forest Knolls,94933,Male,No,No,No
+6128-AQBMT,Nicasio,94946,Male,Yes,Yes,No
+5133-VRSAB,Olema,94950,Male,No,No,No
+5996-DAOQL,Penngrove,94951,Male,No,No,No
+0484-JPBRU,Petaluma,94954,Male,No,No,No
+7883-ROJOC,Point Reyes Station,94956,Female,No,Yes,No
+1866-ZSLJM,Valley Ford,94972,Male,No,No,No
+4236-UJPWO,Alviso,95002,Female,No,No,No
+1110-KYLGQ,Campbell,95008,Female,No,No,No
+9929-PLVPA,Capitola,95010,Female,No,No,Yes
+3518-PZXZQ,Castroville,95012,Female,No,Yes,No
+2371-JUNGC,Cupertino,95014,Male,No,No,No
+7693-QPEFS,Davenport,95017,Male,Yes,No,No
+0924-BJCRC,Felton,95018,Female,Yes,Yes,No
+8295-FHIVV,Paicines,95043,Male,No,No,No
+7909-FIOIY,Santa Clara,95051,Female,No,Yes,Yes
+6351-SCJKT,Santa Cruz,95062,Male,No,No,No
+5468-BPMMO,Santa Cruz,95064,Male,No,Yes,No
+2439-QKJUL,Saratoga,95070,Male,No,No,No
+1194-SPVSP,Soquel,95073,Male,No,No,No
+2250-IVBWA,San Jose,95112,Male,No,Yes,Yes
+1810-MVMAI,San Jose,95113,Male,No,Yes,Yes
+9506-UXUSK,San Jose,95116,Male,No,No,No
+3572-UOLYZ,San Jose,95118,Female,No,No,Yes
+6366-XIVKZ,San Jose,95122,Female,No,Yes,Yes
+2770-NSVDG,San Jose,95124,Male,No,Yes,No
+9375-MHRRS,San Jose,95125,Male,No,No,No
+4860-YZGZM,San Jose,95128,Male,No,No,No
+5533-NHFRF,San Jose,95132,Male,Yes,No,No
+4760-THGOT,San Jose,95134,Female,No,Yes,No
+0581-MDMPW,San Jose,95148,Female,No,No,No
+9163-GHAYE,Stockton,95204,Female,No,No,No
+3904-UKFRE,Stockton,95205,Male,No,No,No
+5353-WILCI,Stockton,95206,Female,No,No,No
+0058-EVZWM,Stockton,95209,Female,No,Yes,No
+0519-DRGTI,Stockton,95219,Female,No,Yes,Yes
+6645-MXQJT,Copperopolis,95228,Male,No,Yes,Yes
+4360-QRAVE,Farmington,95230,Male,Yes,No,No
+1575-KRZZE,Murphys,95247,Female,No,No,No
+7610-TVOPG,West Point,95255,Male,No,No,No
+1845-ZLLIG,Woodbridge,95258,Male,No,No,No
+6988-CJEYV,Crows Landing,95313,Male,No,No,No
+7299-GNVPL,El Portal,95318,Female,No,Yes,Yes
+9743-DQKQW,Escalon,95320,Male,No,No,No
+1215-VFYVK,Groveland,95321,Female,No,No,No
+9093-FPDLG,Hilmar,95324,Female,No,No,No
+0541-FITGH,Hornitos,95325,Female,No,Yes,No
+6985-HAYWX,Hughson,95326,Female,No,Yes,No
+6838-HVLXG,Keyes,95328,Female,No,No,No
+2277-DJJDL,La Grange,95329,Male,Yes,Yes,No
+2740-TVLFN,Manteca,95337,Male,No,No,No
+9512-PHSMG,Merced,95340,Female,No,Yes,No
+2452-KDRRH,Mi Wuk Village,95346,Male,Yes,No,No
+4146-SVFUD,Modesto,95351,Male,No,No,No
+1564-HJUVY,Modesto,95354,Male,No,No,No
+7517-LDMPS,Modesto,95356,Female,No,No,No
+5226-NOZFC,Modesto,95358,Male,No,No,No
+0428-IKYCP,Sonora,95370,Male,No,Yes,No
+2187-PKZAY,Stevinson,95374,Male,No,No,No
+6652-YFFJO,Tuolumne,95379,Female,No,No,No
+3170-GWYKC,Vernalis,95385,Female,No,No,No
+2668-TZSPS,Santa Rosa,95403,Male,No,No,No
+1658-TJVOA,Cazadero,95421,Female,Yes,No,No
+0953-LGOVU,Clearlake,95422,Male,No,Yes,Yes
+7742-MYPGI,Cobb,95426,Female,No,Yes,Yes
+0674-DGMAQ,Elk,95432,Male,Yes,Yes,No
+4139-JPIAM,Geyserville,95441,Male,No,No,No
+2761-XECQW,Glenhaven,95443,Male,Yes,Yes,No
+4402-FTBXC,Hopland,95449,Male,No,No,No
+5542-TBBWB,Lakeport,95453,Male,No,No,No
+8059-UDZFY,Lucerne,95458,Female,Yes,No,Yes
+0208-BPQEJ,Middletown,95461,Female,No,Yes,Yes
+3352-ALMCK,Navarro,95463,Male,No,No,No
+5311-IHLEI,Sebastopol,95472,Male,No,No,No
+3987-KQDDU,Sonoma,95476,Male,No,No,No
+3404-JNXAX,Ukiah,95482,Female,No,Yes,Yes
+5131-PONJI,Upper Lake,95485,Male,No,Yes,Yes
+3345-JHUEO,Windsor,95492,Male,No,No,No
+5260-UMPWX,Yorkville,95494,Female,No,Yes,Yes
+5649-RXQTV,Alderpoint,95511,Male,No,No,No
+2674-MIAHT,Blocksburg,95514,Female,No,No,No
+2576-HXMPA,Mckinleyville,95519,Female,No,No,No
+7587-AOVVU,Arcata,95521,Male,No,Yes,Yes
+6898-MDLZW,Blue Lake,95525,Male,No,No,No
+8648-PFRMP,Ferndale,95536,Female,Yes,No,No
+0258-NOKBL,Fortuna,95540,Male,No,No,No
+3043-TYBNO,Kneeland,95549,Male,No,No,No
+4830-FAXFM,Korbel,95550,Male,No,No,Yes
+5906-BFOZT,Loleta,95551,Male,No,No,No
+2960-NKRSO,Mad River,95552,Male,No,No,No
+3308-MHOOC,Scotia,95565,Male,No,No,Yes
+2207-QPJED,Somes Bar,95568,Female,Yes,Yes,No
+4177-JPDFU,Redcrest,95569,Male,No,No,No
+2209-XADXF,Willow Creek,95573,Female,No,No,No
+6620-JDYNW,Leggett,95585,Female,No,No,No
+4770-UEZOX,Whitethorn,95589,Male,No,No,No
+1038-RQOST,Zenia,95595,Male,No,Yes,Yes
+4568-TTZRT,Auburn,95602,Male,No,No,No
+0516-QREYC,Capay,95607,Female,Yes,No,No
+8896-BQTTI,Cool,95614,Male,No,No,No
+3865-QBWSJ,Courtland,95615,Male,Yes,No,Yes
+5857-TYBCJ,Dixon,95620,Male,Yes,Yes,No
+6377-KSLXC,Fair Oaks,95628,Male,No,No,No
+1796-JANOW,Fiddletown,95629,Female,No,No,No
+8735-NBLWT,Foresthill,95631,Male,No,No,Yes
+1614-JBEBI,Georgetown,95634,Female,No,No,No
+7924-GJZFI,Jackson,95642,Female,Yes,Yes,No
+1406-PUQVY,Madison,95653,Male,No,No,Yes
+1728-BQDMA,Penryn,95663,Female,No,No,No
+5151-HQRDG,Placerville,95667,Male,No,Yes,No
+8070-AAWZP,Sheridan,95681,Male,Yes,Yes,No
+1666-JXLKU,Shingle Springs,95682,Female,No,No,No
+7855-DIWPO,Sloughhouse,95683,Female,No,No,No
+5133-POWUA,Somerset,95684,Male,No,No,No
+5652-MSDEY,Sutter Creek,95685,Female,No,No,No
+1784-BXEFA,Vacaville,95688,Female,No,No,No
+7351-MHQVU,Volcano,95689,Female,No,No,No
+4504-YOULA,Wilton,95693,Female,No,Yes,Yes
+1777-JYQPJ,Colfax,95713,Male,No,No,No
+3853-LYGAM,Meadow Vista,95722,Male,No,No,No
+0315-LVCRK,El Dorado Hills,95762,Male,No,No,No
+2410-CIYFZ,Woodland,95776,Male,No,No,Yes
+7271-AJDTL,Sacramento,95816,Female,No,Yes,No
+1867-TJHTS,Sacramento,95817,Female,No,No,No
+6860-YRJZP,Sacramento,95820,Male,Yes,No,No
+4429-WYGFR,Sacramento,95821,Male,No,No,No
+6569-KTMDU,Sacramento,95826,Female,No,No,No
+0396-YCHWO,Sacramento,95829,Male,No,Yes,No
+0867-LDTTC,Sacramento,95830,Male,No,No,No
+6692-YQHXC,Sacramento,95842,Male,No,No,No
+5222-JCXZT,Sacramento,95864,Male,No,No,No
+9754-CLVZW,Marysville,95901,Female,No,Yes,Yes
+2739-CCZMB,Alleghany,95910,Male,No,No,Yes
+2468-SJFLM,Biggs,95917,Male,No,No,No
+7168-HDQHG,Brownsville,95919,Female,No,Yes,Yes
+7901-HXJVA,Chico,95928,Male,No,No,No
+5924-IFQTT,Crescent Mills,95934,Male,No,Yes,Yes
+7968-QUXNS,Dobbins,95935,Male,No,No,No
+8903-WMRNW,Durham,95938,Female,No,Yes,No
+2452-SNHFZ,Elk Creek,95939,Female,No,No,No
+3629-WEAAM,Forbestown,95941,Female,No,No,No
+6029-CSMJE,Forest Ranch,95942,Male,No,No,No
+7993-NQLJE,Glenn,95943,Male,No,Yes,Yes
+9099-FTUHS,Grass Valley,95945,Female,No,No,No
+0581-BXBUB,Penn Valley,95946,Female,Yes,No,No
+9467-ROOLM,Gridley,95948,Female,No,No,No
+5150-ITWWB,Hamilton City,95951,Male,Yes,No,No
+6429-SHBCB,Maxwell,95955,Male,No,No,No
+9281-OFDMF,Meadow Valley,95956,Male,Yes,No,No
+2603-HVKCG,Meridian,95957,Male,No,No,No
+9097-ZUBYC,North San Juan,95960,Male,No,Yes,No
+6734-CKRSM,Stirling City,95978,Female,No,No,No
+7682-AZNDK,Williams,95987,Male,No,Yes,Yes
+5384-ZTTWP,Yuba City,95991,Female,No,Yes,Yes
+7636-OWBPG,Redding,96001,Male,Yes,No,No
+0570-BFQHT,Anderson,96007,Female,No,No,No
+5501-TVMGM,Canby,96015,Male,No,No,No
+6972-SNKKW,Chester,96020,Female,No,No,No
+3694-GLTJM,Corning,96021,Female,No,No,No
+0585-EGDDA,Etna,96027,Male,No,Yes,No
+3481-JHUZH,Forks Of Salmon,96031,Male,No,Yes,No
+3594-IVHJZ,French Gulch,96033,Female,No,No,No
+5960-MVTUK,Grenada,96038,Male,No,No,No
+6817-WTYHE,Happy Camp,96039,Male,No,No,No
+3082-VQXNH,Hat Creek,96040,Male,No,Yes,No
+4931-TRZWN,Hornbrook,96044,Female,No,No,No
+0750-EKNGL,Hyampom,96046,Male,No,No,No
+7669-LCRSD,Igo,96047,Male,No,Yes,Yes
+9938-EKRGF,Lewiston,96052,Female,No,No,No
+0928-JMXNP,Los Molinos,96055,Male,Yes,Yes,No
+5402-HTOTQ,Macdoel,96058,Male,No,No,No
+3890-RTCMS,Millville,96062,Male,No,No,No
+3665-JATSN,Mount Shasta,96067,Female,No,No,No
+7966-YOTQW,Nubieber,96068,Male,No,No,No
+4324-BZCKL,Paynes Creek,96075,Female,No,Yes,Yes
+8123-QBNAZ,Scott Bar,96085,Female,No,Yes,Yes
+3629-ZNKXA,Seiad Valley,96086,Male,Yes,No,No
+5482-VXSXJ,Tehama,96090,Male,No,No,No
+7365-BVCJH,Trinity Center,96091,Male,No,No,No
+9620-ENEJV,Vina,96092,Female,No,No,No
+0689-DSXGL,Yreka,96097,Female,No,Yes,Yes
+6818-DJXAA,Alturas,96101,Female,No,No,Yes
+4132-KALRO,Davis Creek,96108,Female,No,No,No
+2874-YXVVA,Herlong,96113,Female,No,No,No
+7586-ZATGZ,Ravendale,96123,Male,No,No,No
+9626-VFRGG,Susanville,96130,Female,No,No,Yes
+7075-BNDVQ,Termo,96132,Female,No,No,No
+9143-CANJF,Topaz,96133,Female,No,Yes,Yes
+7284-BUYEC,Tulelake,96134,Female,No,No,No
+2041-JIJCI,Wendel,96136,Female,No,No,No
+2229-VWQJH,Homewood,96141,Female,No,No,No
+1336-EZFZY,Kings Beach,96143,Female,No,No,No
+5144-TVGLP,Los Angeles,90002,Male,Yes,No,No
+9643-AVVWI,Los Angeles,90003,Female,No,Yes,Yes
+6137-MFAJN,Los Angeles,90008,Female,No,No,No
+9122-UMROB,Los Angeles,90010,Male,No,No,No
+4232-JGKIY,Los Angeles,90011,Male,No,No,No
+2195-VVRJF,Los Angeles,90018,Male,Yes,Yes,No
+4203-QGNZA,Los Angeles,90021,Female,No,No,Yes
+5043-TRZWM,Los Angeles,90022,Female,No,No,No
+1640-PLFMP,Los Angeles,90026,Female,No,No,No
+5366-OBVMR,Los Angeles,90027,Female,No,Yes,No
+9817-APLHW,Los Angeles,90034,Male,No,No,No
+0840-DFEZH,Los Angeles,90036,Female,No,No,No
+1125-SNVCK,Los Angeles,90040,Female,Yes,No,No
+2545-EBUPK,Los Angeles,90045,Female,Yes,No,No
+4536-PLEQY,Los Angeles,90058,Male,No,Yes,No
+5447-VYTKW,Los Angeles,90064,Male,No,No,No
+3623-FQBOX,Los Angeles,90065,Male,No,No,No
+8659-HDIYE,Los Angeles,90067,Female,Yes,No,No
+4680-KUTAJ,Beverly Hills,90212,Female,Yes,No,No
+5307-UVGNB,Compton,90220,Female,No,Yes,Yes
+2883-ILGWO,Compton,90222,Male,Yes,No,No
+9629-NHXFW,Downey,90241,Female,No,Yes,Yes
+0396-HUJBP,Gardena,90247,Female,No,No,No
+3530-CRZSB,Malibu,90263,Female,No,No,No
+8498-XXGWA,Malibu,90265,Female,No,Yes,No
+9617-INGJY,Manhattan Beach,90266,Male,No,No,No
+7234-KMNRQ,Pacific Palisades,90272,Male,No,No,No
+6794-HKIAJ,Redondo Beach,90278,Male,No,No,No
+5950-AAAGJ,Playa Del Rey,90293,Male,No,No,No
+9618-LFJRU,Inglewood,90303,Female,No,No,No
+0744-GKNGE,Inglewood,90305,Female,No,Yes,Yes
+5294-DMSFH,Torrance,90503,Female,No,Yes,Yes
+0603-OLQDC,Whittier,90601,Male,No,No,Yes
+3272-VUHPV,Whittier,90602,Female,No,Yes,Yes
+4176-FXYBO,Whittier,90603,Male,No,Yes,No
+8663-UPDGF,Whittier,90605,Female,No,No,No
+9919-KNPOO,La Mirada,90638,Female,No,Yes,No
+4450-DLLMH,Avalon,90704,Male,No,No,No
+0468-YRPXN,Lomita,90717,Male,No,No,No
+8950-MTZNV,Carson,90746,Male,No,No,No
+6773-LQTVT,Long Beach,90803,Female,Yes,Yes,Yes
+8566-YPRGL,Long Beach,90806,Female,No,No,No
+2669-OIDSD,Long Beach,90810,Female,No,Yes,No
+8400-WZICQ,Long Beach,90813,Female,No,Yes,Yes
+9576-SYUHJ,Long Beach,90815,Male,No,No,No
+0410-IPFTY,Long Beach,90822,Female,No,Yes,No
+2831-EBWRN,Altadena,91001,Male,No,No,No
+0247-SLUJI,Duarte,91010,Male,No,Yes,Yes
+9402-ORRAH,La Canada Flintridge,91011,Female,Yes,No,No
+6483-OATDN,Monrovia,91016,Male,No,Yes,Yes
+4840-ORQXB,Sierra Madre,91024,Female,Yes,No,No
+3982-DQLUS,Sunland,91040,Male,Yes,Yes,Yes
+7801-KICAO,Pasadena,91103,Female,No,No,No
+7339-POGZN,Pasadena,91107,Female,No,No,No
+2828-SLQPF,San Marino,91108,Male,No,No,No
+4465-VDKIQ,Glendale,91201,Female,No,No,No
+2921-XWDJH,Glendale,91202,Female,Yes,Yes,No
+0003-MKNFE,Glendale,91206,Male,No,No,No
+0975-VOOVL,Agoura Hills,91301,Female,No,No,No
+5968-VXZLG,Calabasas,91302,Male,No,No,No
+5201-FRKKS,Winnetka,91306,Male,No,No,No
+9799-CAYJJ,West Hills,91307,Female,Yes,Yes,No
+1335-NTIUC,Pacoima,91331,Male,No,No,No
+2916-BQZLN,Reseda,91335,Male,No,No,No
+4558-CGYCZ,San Fernando,91340,Male,No,No,No
+8710-YGLWG,North Hills,91343,Male,No,No,No
+3199-XGZCY,Granada Hills,91344,Female,No,No,No
+4063-EIKNQ,Canyon Country,91351,Male,No,Yes,Yes
+5206-HPJKM,Valencia,91354,Male,No,No,No
+8393-JMVMB,Thousand Oaks,91360,Male,No,No,No
+5019-GQVCR,Westlake Village,91361,Male,Yes,No,No
+6036-TTFYU,Thousand Oaks,91362,Female,No,Yes,No
+2880-FPNAE,Van Nuys,91405,Male,Yes,Yes,No
+1703-MGIAB,Van Nuys,91406,Female,No,No,No
+2254-DLXRI,Burbank,91504,Female,No,No,No
+1530-ZTDOZ,Studio City,91604,Female,No,Yes,No
+6212-ATMLK,Rancho Cucamonga,91701,Female,No,No,No
+1077-HUUJM,Rancho Cucamonga,91730,Female,No,No,Yes
+2045-BMBTJ,South El Monte,91733,Female,Yes,No,No
+4452-QIIEB,Glendora,91740,Male,No,No,No
+6741-EGCBI,Hacienda Heights,91745,Male,Yes,No,No
+2227-JRSJX,Monterey Park,91754,Female,No,No,No
+8980-WQFWL,Ontario,91761,Female,No,No,No
+1730-ZMAME,Ontario,91762,Female,Yes,No,No
+6506-EYCNH,Montclair,91763,Female,No,Yes,Yes
+4634-JLRJT,Ontario,91764,Female,No,No,No
+9501-UKKNL,Diamond Bar,91765,Male,No,No,No
+4795-WRNVT,Pomona,91768,Female,No,No,No
+6080-TCMYC,Rosemead,91770,Male,No,Yes,Yes
+6357-JJPQT,San Gabriel,91776,Female,No,No,No
+9552-TGUZV,Upland,91784,Male,No,Yes,No
+9643-YBLUR,West Covina,91791,Male,No,Yes,No
+8734-FNWVH,West Covina,91792,Male,No,Yes,Yes
+9026-LHEVG,Boulevard,91905,Female,No,No,No
+7011-CVEUC,Chula Vista,91911,Male,No,Yes,No
+6185-TASNN,Chula Vista,91913,Male,Yes,No,No
+7925-PNRGI,Chula Vista,91914,Female,No,Yes,Yes
+1552-CZCLL,Descanso,91916,Female,No,Yes,Yes
+3038-PQIUY,Dulzura,91917,Female,No,No,No
+9313-CDOGY,Imperial Beach,91932,Male,No,Yes,Yes
+8148-BPLZQ,Jacumba,91934,Male,No,No,No
+0491-KAPQG,Pine Valley,91962,Male,No,No,No
+3209-ZPKFI,Borrego Springs,92004,Male,No,Yes,Yes
+9373-WSLOY,Carlsbad,92008,Male,Yes,Yes,No
+9819-FBNSV,El Cajon,92019,Male,Yes,Yes,No
+9544-PYPSJ,El Cajon,92020,Female,Yes,Yes,Yes
+0396-UKGAI,Encinitas,92024,Male,No,No,Yes
+5186-EJEGL,Escondido,92026,Male,No,No,No
+2203-GHNWN,Julian,92036,Female,No,Yes,No
+3878-AVSOQ,La Jolla,92037,Female,Yes,No,No
+6319-QSUSR,Oceanside,92056,Female,No,No,Yes
+2107-FBPTK,Ramona,92065,Female,Yes,No,No
+1991-VOPLL,San Marcos,92069,Female,No,No,No
+1016-DJTSV,Santee,92071,Male,Yes,No,No
+8751-EDEKA,Rancho Santa Fe,92091,Female,No,Yes,No
+6878-GGDWG,San Diego,92101,Female,No,Yes,No
+3604-WLABM,San Diego,92104,Female,No,No,No
+4633-MKHYU,San Diego,92109,Female,No,No,No
+6257-RJOHI,San Diego,92110,Male,No,No,No
+2587-EKXTS,San Diego,92116,Male,No,No,No
+5442-BXVND,San Diego,92117,Female,No,Yes,Yes
+9753-OYLBX,San Diego,92122,Female,No,No,No
+6656-JWRQX,San Diego,92124,Female,No,No,No
+6473-ULUHT,San Diego,92126,Male,No,Yes,Yes
+2842-BCQGE,San Diego,92139,Male,No,No,No
+5312-UXESG,Indio,92203,Female,No,No,No
+7159-FVYPK,Beaumont,92223,Female,No,Yes,Yes
+6088-BXMRG,Cabazon,92230,Female,No,Yes,Yes
+4821-SJHJV,Calipatria,92233,Female,No,Yes,Yes
+7346-MEDWM,Cathedral City,92234,Female,No,No,No
+4993-JCRGJ,Holtville,92250,Male,No,No,No
+2103-ZRXFN,La Quinta,92253,Male,No,No,No
+5288-AHOUP,Palm Desert,92260,Male,Yes,No,No
+0655-YDGFJ,Palm Springs,92264,Male,No,No,No
+8468-EHYJA,Palo Verde,92266,Female,No,Yes,No
+1097-FSPVW,Pioneertown,92268,Female,No,No,No
+7010-ZMVBF,Thermal,92274,Female,No,Yes,Yes
+2897-DOVND,Winterhaven,92283,Male,No,No,No
+3489-HHPFY,Amboy,92304,Female,No,Yes,No
+4950-BDEUX,Apple Valley,92308,Male,No,No,No
+0508-OOLTO,Fort Irwin,92310,Female,No,Yes,Yes
+9822-WMWVG,Grand Terrace,92313,Female,No,No,No
+1548-ARAGG,Cedar Glen,92321,Female,No,Yes,Yes
+2522-AHJXR,Death Valley,92328,Male,No,Yes,No
+1816-FLZDK,Fawnskin,92333,Male,No,No,No
+7096-UCLNH,Fontana,92335,Male,No,No,No
+8885-QSQBX,Forest Falls,92339,Female,No,No,No
+8617-ENBDS,Helendale,92342,Male,No,No,No
+0430-IHCDJ,Highland,92346,Male,No,No,No
+1814-DKOLC,Loma Linda,92354,Female,No,No,No
+3537-HPKQT,Mentone,92359,Female,No,Yes,No
+2129-ALKBS,Needles,92363,Female,No,Yes,Yes
+9631-XEYKE,Rialto,92377,Male,No,No,No
+8800-JOOCF,Tecopa,92389,Female,No,No,Yes
+1469-LBJQJ,Victorville,92392,Female,No,Yes,No
+0064-YIJGF,Yermo,92398,Male,No,Yes,Yes
+2386-OWURY,Yucaipa,92399,Female,No,No,No
+0310-VQXAM,San Bernardino,92404,Male,No,No,No
+3453-RTHJQ,San Bernardino,92407,Male,No,No,No
+6278-FEPBZ,San Bernardino,92410,Female,No,No,No
+4280-DLSHD,San Bernardino,92411,Male,No,Yes,No
+1508-DFXCU,Riverside,92501,Male,No,No,No
+2800-QQUSO,Riverside,92505,Male,No,No,No
+7698-YFGEZ,Riverside,92509,Male,No,No,No
+9773-PEQBZ,Lake Elsinore,92530,Male,No,No,No
+0650-BWOZN,Aguanga,92536,Female,Yes,No,No
+7785-RDVIG,Hemet,92543,Female,No,Yes,Yes
+2903-YYTBW,Hemet,92545,Male,No,Yes,Yes
+3620-MWJNE,Homeland,92548,Male,No,No,No
+9481-IEBZY,Nuevo,92567,Male,Yes,Yes,No
+6137-NICCO,Perris,92571,Female,No,Yes,Yes
+6402-EJMWF,San Jacinto,92583,Male,No,No,No
+9169-BSVIN,Winchester,92596,Male,No,No,No
+7714-YXSMB,Irvine,92612,Female,No,No,No
+8387-UGUSU,Irvine,92614,Female,No,Yes,Yes
+1194-HVAIF,Capistrano Beach,92624,Female,No,Yes,No
+1767-TGTKO,Dana Point,92629,Female,No,Yes,Yes
+8439-LTUGF,Lake Forest,92630,Male,No,No,No
+8805-JNRAZ,Huntington Beach,92646,Female,No,No,No
+7291-CDTMJ,Laguna Beach,92651,Male,No,No,No
+7128-GGCNO,Laguna Hills,92653,Male,No,No,No
+0237-YFUTL,Midway City,92655,Female,No,Yes,No
+7691-KGKGP,Aliso Viejo,92656,Male,No,Yes,Yes
+6710-HSJRD,Newport Coast,92657,Male,No,Yes,No
+3675-EQOZA,Newport Beach,92660,Male,No,No,No
+9862-KJTYK,Newport Beach,92663,Male,No,No,Yes
+0365-BZUWY,San Juan Capistrano,92675,Male,No,Yes,No
+5701-SVCWR,Laguna Niguel,92677,Female,No,No,Yes
+2018-PZKMU,Santa Ana,92701,Male,No,Yes,Yes
+4570-QHXHL,Santa Ana,92704,Female,No,No,No
+7392-YYPYJ,Santa Ana,92706,Male,No,No,No
+9348-YVOMK,Anaheim,92802,Male,No,No,No
+8104-OSKWT,Anaheim,92804,Female,No,No,No
+4521-YEEHE,Anaheim,92805,Female,No,Yes,No
+4090-KPJIP,Anaheim,92806,Female,No,No,No
+3824-RHKVR,Fullerton,92833,Female,No,No,No
+5816-SCGFC,Fullerton,92835,Female,Yes,No,No
+9278-VZKCD,Norco,92860,Female,Yes,Yes,No
+5999-LCXAO,Orange,92866,Female,No,No,No
+5206-XZZQI,Orange,92867,Male,No,No,No
+4803-LBYPN,Orange,92868,Male,No,Yes,Yes
+2139-FQHLM,Corona,92879,Male,No,No,No
+5600-KTXFM,Ventura,93004,Male,No,Yes,Yes
+7964-YESJC,Moorpark,93021,Female,No,Yes,No
+6173-GOLSU,Oak View,93022,Male,Yes,Yes,No
+7950-XWOVN,Oxnard,93035,Male,No,No,No
+4647-MUZON,Port Hueneme,93041,Female,No,Yes,No
+8851-RAGOV,Simi Valley,93065,Female,No,Yes,No
+5396-IZEPB,Summerland,93067,Male,No,No,No
+0701-TJSEF,Santa Barbara,93105,Male,No,No,No
+5712-VBOXD,Santa Barbara,93108,Female,No,No,No
+6629-LADHQ,Santa Barbara,93109,Female,No,No,No
+1559-DTODC,Santa Barbara,93111,Male,No,No,No
+4797-MIWUM,Goleta,93117,Male,No,Yes,Yes
+8720-RQSBJ,Armona,93202,Male,Yes,No,No
+4324-AHJKS,Buttonwillow,93206,Female,No,No,No
+4495-LHSSK,Camp Nelson,93208,Female,No,No,Yes
+7225-CBZPL,Earlimart,93219,Male,Yes,Yes,No
+6704-UTUKK,Exeter,93221,Male,No,Yes,No
+7404-JLKQG,Glennville,93226,Female,No,No,No
+7421-ZLUPA,Hanford,93230,Female,No,No,No
+2920-RNCEZ,Lebec,93243,Male,No,Yes,Yes
+5382-TEMLV,Lindsay,93247,Male,No,No,No
+0432-CAJZV,Onyx,93255,Male,No,No,No
+1200-TUZHR,Posey,93260,Female,Yes,No,No
+7130-CTCUS,Springville,93265,Male,Yes,Yes,No
+7634-WSWDB,Terra Bella,93270,Female,No,No,Yes
+6986-IXNDM,Three Rivers,93271,Male,No,No,No
+6752-APNJL,Woodlake,93286,Male,No,Yes,Yes
+0420-HLGXF,Visalia,93291,Female,Yes,No,No
+3727-JEZTU,Bakersfield,93312,Female,No,No,No
+9667-TKTVZ,Los Osos,93402,Female,No,No,No
+3657-COGMW,San Luis Obispo,93405,Female,Yes,No,No
+7754-IXRMC,Atascadero,93422,Female,No,No,No
+5863-OOKCL,Cayucos,93430,Female,No,No,No
+1329-VHWNP,Grover Beach,93433,Female,No,No,No
+4256-ZWTZI,Morro Bay,93442,Female,No,No,Yes
+4098-NAUKP,Oceano,93445,Male,Yes,Yes,Yes
+4608-LCIMN,Pismo Beach,93449,Male,No,Yes,Yes
+1485-YDHMM,San Ardo,93450,Male,No,Yes,Yes
+4054-CUMIA,San Miguel,93451,Female,No,Yes,Yes
+8161-QYMTT,Santa Maria,93454,Male,No,No,No
+5404-GGUKR,Santa Ynez,93460,Male,No,No,No
+0440-QEXBZ,Mojave,93501,Female,No,No,No
+2675-DHUTR,Big Pine,93513,Male,Yes,Yes,No
+7446-YPODE,Bridgeport,93517,Male,Yes,No,No
+9522-BNTHX,Caliente,93518,Female,Yes,No,No
+1629-DQQVB,Keeler,93530,Female,No,No,No
+0374-AACSZ,Lancaster,93534,Female,No,No,No
+0531-ZZJWQ,Lone Pine,93545,Male,Yes,Yes,No
+6537-QLGEX,Mammoth Lakes,93546,Female,No,No,No
+2688-BHGOG,Olancha,93549,Male,Yes,No,No
+3160-TYXLT,Palmdale,93552,Male,No,No,No
+0916-QOFDP,Randsburg,93554,Female,Yes,Yes,Yes
+5606-AMZBO,Rosamond,93560,Female,No,Yes,No
+3847-BAERP,Bass Lake,93604,Female,No,No,No
+1453-RZFON,Cantua Creek,93608,Female,No,No,Yes
+8263-OKETD,Caruthers,93609,Female,No,No,No
+0670-KDOMA,Chowchilla,93610,Female,No,No,No
+2476-YGEFM,Clovis,93611,Female,No,No,No
+8687-BAFGU,Clovis,93612,Male,No,No,No
+0641-EVBOJ,Coarsegold,93614,Male,No,No,No
+0829-XXPLX,Cutler,93615,Female,No,No,No
+9974-JFBHQ,Del Rey,93616,Male,No,No,Yes
+6624-JDRDS,Dos Palos,93620,Female,No,No,No
+9780-FKVVF,Firebaugh,93622,Male,No,No,No
+1919-RTPQD,Fish Camp,93623,Male,No,Yes,Yes
+3345-PBBFH,Fowler,93625,Male,No,Yes,No
+6627-CFOSN,Madera,93637,Female,No,No,No
+4826-TZEVA,O Neals,93645,Female,No,No,No
+8910-LEDAG,Prather,93651,Male,Yes,Yes,No
+3452-GWUIN,Raisin City,93652,Female,Yes,Yes,No
+2716-GFZOR,Raymond,93653,Male,No,Yes,No
+3724-UCSHY,Reedley,93654,Male,No,Yes,Yes
+3192-LNKRK,San Joaquin,93660,Male,No,Yes,Yes
+4439-YRNVD,Selma,93662,Female,No,No,No
+2208-UGTGR,Sultana,93666,Male,No,No,No
+3005-TYFRD,Tollhouse,93667,Female,No,Yes,No
+7777-UNYHB,Traver,93673,Female,No,Yes,Yes
+7278-CKDNC,Fresno,93701,Male,Yes,No,No
+8450-UYIBU,Fresno,93703,Female,Yes,No,No
+7181-OQCUT,Fresno,93706,Male,No,No,No
+8474-UMLNT,Fresno,93710,Female,No,No,No
+9142-XMYJH,Fresno,93721,Female,No,No,No
+0187-QSXOE,Fresno,93725,Male,Yes,Yes,No
+7733-UDMTP,Fresno,93726,Female,Yes,No,No
+2465-BLLEU,Salinas,93906,Male,No,No,No
+1685-VAYJF,Salinas,93907,Male,No,No,No
+6917-YACBP,Big Sur,93920,Female,Yes,No,No
+4223-WOZCM,Carmel,93923,Male,Yes,No,No
+9741-YLNTD,Greenfield,93927,Male,No,No,No
+1905-OEILC,Pebble Beach,93953,Female,No,No,No
+7858-GTZSP,San Lucas,93954,Female,No,No,No
+3470-BTGQO,Belmont,94002,Male,No,No,Yes
+8224-DWCKX,Burlingame,94010,Male,Yes,No,No
+4553-DVPZG,Daly City,94015,Female,No,Yes,No
+6917-IAYHD,La Honda,94020,Male,No,No,Yes
+8620-RJPZN,Los Altos,94022,Female,No,No,No
+2027-WKXMW,Montara,94037,Female,No,Yes,No
+2428-ZMCTB,Mountain View,94040,Male,No,No,No
+1768-HNVGJ,Mountain View,94043,Female,Yes,No,No
+5934-RMPOV,Pescadero,94060,Female,No,No,Yes
+4395-PZMSN,San Gregorio,94074,Male,Yes,No,No
+8706-HRADD,Sunnyvale,94087,Male,No,No,No
+4385-ZKVNW,San Francisco,94102,Male,No,Yes,Yes
+8107-KNCIM,San Francisco,94111,Male,Yes,Yes,No
+9027-YFHQJ,San Francisco,94112,Male,No,No,No
+7926-IJOOU,San Francisco,94116,Male,No,No,No
+4029-HPFVY,San Francisco,94118,Male,No,No,No
+5345-BMKWB,San Francisco,94122,Male,No,Yes,No
+2542-HYGIQ,Palo Alto,94303,Female,No,No,No
+6124-ACRHJ,San Mateo,94403,Female,No,No,No
+9362-MWODR,San Mateo,94404,Female,No,No,Yes
+1020-JPQOW,Angwin,94508,Female,No,Yes,No
+5939-XAIXZ,Birds Landing,94512,Female,No,No,No
+9054-FOWNV,Brentwood,94513,Male,No,Yes,Yes
+9732-EQMWY,Concord,94518,Female,No,Yes,No
+8818-DOPVL,El Cerrito,94530,Female,Yes,No,No
+2692-PFYTJ,Hercules,94547,Female,No,No,No
+5955-EPOAZ,Livermore,94550,Female,No,No,No
+8815-LMFLX,Martinez,94553,Male,No,Yes,Yes
+8582-KRHPJ,Moraga,94556,Male,No,No,No
+7044-YAACC,Napa,94559,Male,Yes,Yes,No
+8189-XRIKE,Newark,94560,Female,Yes,No,No
+4123-DVHPH,Orinda,94563,Male,No,Yes,No
+5651-CPDND,San Leandro,94578,Male,No,No,No
+2186-QZEYA,San Leandro,94579,Female,Yes,No,No
+2931-SVLTV,Vallejo,94589,Male,No,Yes,Yes
+7504-UWHNB,Vallejo,94591,Male,No,No,No
+2582-FFFZR,Vallejo,94592,Female,No,No,No
+6288-LBEAR,Yountville,94599,Female,No,No,No
+5599-HVLTW,Oakland,94609,Female,Yes,No,No
+7394-LWLYN,Oakland,94610,Female,No,No,No
+6873-UDNLD,Oakland,94612,Male,No,No,No
+2700-LUEVA,Oakland,94618,Male,No,No,No
+0958-YHXGP,Oakland,94621,Female,No,No,No
+1101-SSWAG,Berkeley,94702,Female,No,Yes,No
+5325-UWTWJ,Berkeley,94707,Male,No,Yes,No
+3969-GYXEL,Berkeley,94708,Female,No,No,No
+9208-OLGAQ,Berkeley,94709,Female,Yes,No,No
+2674-MLXMN,Richmond,94801,Female,Yes,No,No
+9708-HPXWZ,El Sobrante,94803,Male,Yes,No,No
+4468-YDOVK,Richmond,94805,Male,No,No,Yes
+9351-LZYGF,Bodega,94922,Female,No,Yes,No
+1518-OMDIK,Rohnert Park,94928,Male,No,Yes,No
+6671-NGWON,Dillon Beach,94929,Female,No,No,No
+0595-ITUDF,Fairfax,94930,Male,No,Yes,Yes
+0096-BXERS,Inverness,94937,Female,No,Yes,No
+3806-YAZOV,Lagunitas,94938,Female,No,No,No
+7998-ZLXWN,Larkspur,94939,Female,No,Yes,No
+9133-AYJZG,Mill Valley,94941,Female,No,No,No
+2675-OTVVJ,Novato,94945,Male,Yes,Yes,No
+5018-GWURO,Novato,94949,Female,No,Yes,No
+0537-QYZZN,Petaluma,94952,Male,Yes,Yes,Yes
+4781-ZXYGU,Sausalito,94965,Male,No,Yes,Yes
+8212-CRQXP,Alviso,95002,Female,No,Yes,No
+2277-VWCNI,Brookdale,95007,Female,Yes,No,No
+5868-YTYKS,Davenport,95017,Male,No,No,Yes
+1482-OXZSY,Freedom,95019,Male,No,No,No
+0377-JBKKT,Gilroy,95020,Male,No,Yes,Yes
+5778-BVOFB,Hollister,95023,Female,No,No,No
+3373-YZZYM,Los Gatos,95030,Male,No,Yes,Yes
+0228-MAUWC,Los Gatos,95033,Male,No,No,No
+3086-RUCRN,Paicines,95043,Female,No,No,No
+5215-LNLDJ,San Juan Bautista,95045,Female,No,Yes,Yes
+7576-JMYWV,San Martin,95046,Female,Yes,Yes,Yes
+0257-KXZGU,Santa Clara,95051,Female,No,Yes,Yes
+1307-ATKGB,Santa Clara,95054,Male,No,No,No
+3714-XPXBW,Santa Cruz,95062,Female,No,No,No
+1850-AKQEP,Santa Cruz,95064,Male,No,No,Yes
+0848-ZGQIJ,Saratoga,95070,Female,No,Yes,No
+3621-CHYVB,Soquel,95073,Female,No,Yes,No
+5372-FBKBN,San Jose,95111,Female,No,No,Yes
+6217-TOWGS,San Jose,95113,Female,No,Yes,No
+1045-LTCYT,San Jose,95118,Female,No,Yes,Yes
+4636-JGAAI,San Jose,95120,Male,No,Yes,No
+5951-AOFIH,San Jose,95122,Male,No,No,No
+3059-NGMXB,San Jose,95124,Male,No,Yes,Yes
+5061-PBXFW,San Jose,95129,Female,No,Yes,Yes
+8630-FJLIB,San Jose,95130,Female,No,No,No
+4749-OJKQU,San Jose,95132,Female,No,No,No
+0577-WHMEV,San Jose,95133,Female,No,Yes,No
+5453-AXEPF,San Jose,95134,Male,No,Yes,No
+3639-XJHKQ,San Jose,95135,Female,No,No,Yes
+2672-OJQZP,Stockton,95203,Female,No,No,No
+7821-DPRQE,Stockton,95207,Male,No,Yes,No
+1608-GMEWB,Stockton,95215,Male,Yes,No,No
+8410-BGQXN,Angels Camp,95222,Male,No,No,No
+7611-YKYTC,Burson,95225,Male,No,Yes,Yes
+0365-GXEZS,Copperopolis,95228,Male,No,Yes,No
+0082-OQIQY,Farmington,95230,Male,No,No,No
+8242-JSVBO,Mountain Ranch,95246,Male,No,No,No
+2665-NPTGL,Sheep Ranch,95250,Female,Yes,Yes,No
+4693-VWVBO,Valley Springs,95252,Female,No,No,No
+0988-JRWWP,Wilseyville,95257,Female,No,No,No
+8644-XYTSV,Ballico,95303,Male,No,Yes,No
+7465-ZZRVX,Ceres,95307,Male,No,No,No
+7251-XFOIL,Coulterville,95311,Female,No,No,No
+7853-WNZSY,El Nido,95317,Male,No,No,No
+0225-ZORZP,Groveland,95321,Male,No,No,No
+7797-EJMDP,Manteca,95336,Female,No,No,No
+3530-VWVGU,Manteca,95337,Female,No,Yes,Yes
+6368-NWMCE,Merced,95340,Female,No,No,No
+3956-MGXOG,Modesto,95350,Female,No,No,No
+9274-UARKJ,Modesto,95351,Female,No,No,No
+8671-KKKOS,Newman,95360,Female,No,Yes,No
+9518-XXBXE,Patterson,95363,Male,Yes,Yes,No
+6578-KRMAW,Planada,95365,Male,No,No,No
+4860-IJUDE,Ripon,95366,Male,No,No,No
+9688-YGXVR,Salida,95368,Female,No,No,No
+0423-UDIJQ,Snelling,95369,Male,Yes,No,No
+2607-FBDFF,Tuolumne,95379,Male,No,No,No
+1100-DDVRV,Twain Harte,95383,Male,No,Yes,No
+6728-WYQBC,Westley,95387,Male,No,No,No
+9029-FEGVJ,Yosemite National Park,95389,Female,Yes,Yes,No
+6145-NNPNO,Santa Rosa,95404,Female,No,No,No
+5339-TJFEK,Santa Rosa,95407,Male,No,Yes,Yes
+2074-GUHPQ,Albion,95410,Female,No,No,Yes
+5827-MWCZK,Boonville,95415,Male,No,Yes,Yes
+1385-TQOZW,Branscomb,95417,Female,No,No,No
+4329-YPDDQ,Cazadero,95421,Male,No,No,No
+7787-BNTZM,Comptche,95427,Male,No,No,No
+9415-TPKRV,Dos Rios,95429,Female,No,Yes,Yes
+2697-NQBPF,Fulton,95439,Male,No,No,No
+1386-ZIKUV,Glenhaven,95443,Male,No,No,No
+0599-XNYDO,Graton,95444,Female,No,Yes,No
+6377-WHAOX,Gualala,95445,Female,No,Yes,No
+8746-OQQRW,Hopland,95449,Male,No,No,No
+3181-MIZBN,Jenner,95450,Male,No,Yes,Yes
+7766-CLTIC,Kenwood,95452,Female,No,No,No
+5650-YLIBA,Lakeport,95453,Male,No,No,No
+5201-USSQZ,Monte Rio,95462,Female,No,Yes,No
+2105-PHWON,Navarro,95463,Female,No,Yes,No
+8003-EWNDZ,Philo,95466,Female,No,No,No
+9256-JTBNZ,Potter Valley,95469,Female,No,No,No
+4929-ROART,Ukiah,95482,Male,No,No,No
+3932-IJWDZ,Willits,95490,Male,No,No,No
+3594-KADLU,Witter Springs,95493,Male,No,Yes,No
+8065-BVEPF,Yorkville,95494,Male,Yes,No,No
+2853-CWQFQ,Eureka,95503,Male,No,No,Yes
+4732-RRJZC,Bridgeville,95526,Male,No,Yes,Yes
+4338-EYCER,Carlotta,95528,Male,No,Yes,No
+3007-FDPEA,Crescent City,95531,Female,No,No,No
+6350-XFYGW,Ferndale,95536,Male,Yes,No,No
+0311-QYWSS,Garberville,95542,Female,No,No,No
+8705-DWKTI,Gasquet,95543,Male,No,No,No
+8755-IWJHN,Honeydew,95545,Male,Yes,Yes,No
+4480-QQRHC,Hydesville,95547,Female,Yes,No,No
+0929-PECLO,Klamath,95548,Female,Yes,No,No
+1202-KKGFU,Korbel,95550,Female,No,Yes,No
+6112-KTHFQ,Loleta,95551,Female,No,No,No
+1852-XEMDW,Mad River,95552,Male,No,No,No
+9426-SXNHE,Orleans,95556,Female,No,No,No
+7402-EYFXX,Salyer,95563,Male,Yes,No,No
+9895-VFOXH,Scotia,95565,Female,No,No,No
+1230-QAJDW,Somes Bar,95568,Male,No,No,No
+5701-ZIKJE,Redcrest,95569,Male,No,No,No
+5032-MIYKT,Weott,95571,Female,No,No,No
+7396-VJUZB,Willow Creek,95573,Male,No,Yes,Yes
+9717-QEBGU,Leggett,95585,Male,No,No,No
+6509-TSGWN,Whitethorn,95589,Female,No,Yes,Yes
+9800-ONTFE,Brooks,95606,Female,No,Yes,Yes
+6743-HHQPF,Capay,95607,Male,No,Yes,No
+8455-HIRAQ,Carmichael,95608,Female,No,No,No
+4018-KJYUY,Courtland,95615,Male,No,No,Yes
+8780-RSYYU,Dixon,95620,Female,No,No,No
+5537-UXXVS,Citrus Heights,95621,Female,No,Yes,No
+1791-PQHBB,El Dorado,95623,Female,No,No,Yes
+8741-LQOBK,Elmira,95625,Female,No,Yes,Yes
+8082-GHXOP,Esparto,95627,Male,No,No,Yes
+3011-WQKSZ,Foresthill,95631,Male,No,No,Yes
+1986-PHGZF,Greenwood,95635,Male,Yes,No,No
+9360-OMDZZ,Herald,95638,Male,No,No,No
+2988-GBIVW,Knights Landing,95645,Female,Yes,Yes,No
+2832-SCUCO,Kirkwood,95646,Female,No,No,No
+7036-ZZKBD,Lincoln,95648,Male,No,Yes,No
+0265-PSUAE,Lotus,95651,Female,No,Yes,Yes
+0594-UFTUL,Mather,95655,Male,No,Yes,Yes
+0129-KPTWJ,North Highlands,95660,Male,No,Yes,No
+5365-LLFYV,Penryn,95663,Female,No,No,No
+5956-YHHRX,Pilot Hill,95664,Male,Yes,No,No
+1928-BXYIV,Placerville,95667,Male,No,No,No
+5760-FXFVO,Pleasant Grove,95668,Male,No,No,No
+4007-NHVHI,Rio Linda,95673,Female,Yes,No,No
+7813-ZGGAW,Applegate,95703,Male,Yes,No,No
+1319-YLZJG,Dutch Flat,95714,Male,No,Yes,No
+3088-LHEFH,Pollock Pines,95726,Female,No,No,No
+6583-KQJLK,Twin Bridges,95735,Female,Yes,Yes,No
+6116-RFVHN,Roseville,95747,Female,No,Yes,No
+8849-AYPTR,Sacramento,95819,Male,No,Yes,No
+9518-IMLHK,Sacramento,95820,Male,No,No,No
+7594-LZNWR,Sacramento,95826,Male,Yes,No,No
+4001-TSBTV,Sacramento,95827,Female,No,Yes,Yes
+0018-NYROU,Antelope,95843,Female,No,Yes,No
+7501-VTYLJ,Sacramento,95864,Female,No,No,Yes
+0480-BIXDE,Beale Afb,95903,Female,No,Yes,No
+5895-QSXOD,Alleghany,95910,Male,No,No,No
+6175-IRFIT,Bangor,95914,Male,No,No,No
+1622-HSHSF,Biggs,95917,Female,No,No,No
+5542-DHSXL,Butte City,95920,Female,No,Yes,No
+5216-WASFJ,Challenge,95925,Female,Yes,Yes,No
+7808-DVWEP,Chico,95926,Male,No,Yes,No
+0366-NQSHS,Colusa,95932,Male,No,No,No
+4948-WBBKL,Dunnigan,95937,Female,Yes,No,No
+4182-BGSIQ,Durham,95938,Female,No,Yes,Yes
+9972-NKTFD,Forest Ranch,95942,Female,No,No,No
+3717-LNXKW,Glenn,95943,Male,No,Yes,No
+7814-LEEVE,Grass Valley,95949,Female,No,Yes,No
+8631-WUXGY,Magalia,95954,Female,No,No,Yes
+6654-QGBZZ,Nevada City,95959,Female,No,No,No
+0921-OHLVP,Paradise,95969,Male,No,No,No
+8350-NYMVI,Chico,95973,Female,No,No,No
+1600-DILPE,Richvale,95974,Female,No,No,No
+2360-RDGRO,Sutter,95982,Male,No,Yes,No
+0584-BJQGZ,Taylorsville,95983,Female,No,No,No
+5730-RIITO,Willows,95988,Female,Yes,No,No
+9058-MJLZC,Yuba City,95991,Female,No,No,No
+8993-IZEUX,Adin,96006,Male,No,No,No
+6344-SFJVH,Shasta Lake,96019,Female,No,No,No
+1355-KUSBG,Fall River Mills,96028,Female,No,Yes,Yes
+3688-FTHLT,Flournoy,96029,Female,No,No,No
+0899-LIIBW,Forks Of Salmon,96031,Male,No,Yes,No
+1384-RCUXW,French Gulch,96033,Male,No,No,No
+2320-YKQBO,Grenada,96038,Female,No,No,No
+7869-ZYDST,Hyampom,96046,Male,No,Yes,No
+2305-MRGLV,Klamath River,96050,Male,No,Yes,No
+2359-KLTEK,Lookout,96054,Female,No,Yes,Yes
+9184-GALIL,Mccloud,96057,Female,No,Yes,Yes
+3162-ZJZFU,Mill Creek,96061,Male,No,Yes,Yes
+8404-GFGCZ,Millville,96062,Male,No,Yes,No
+8875-AKBYH,Mineral,96063,Male,Yes,No,No
+1394-SUIUH,Mount Shasta,96067,Female,Yes,Yes,No
+3521-MNKLV,Nubieber,96068,Male,No,No,No
+2533-TIBIX,Oak Run,96069,Male,No,Yes,Yes
+5092-STPKP,Platina,96076,Female,No,No,No
+0114-PEGZZ,Round Mountain,96084,Female,No,No,No
+2436-QBZFP,Yreka,96097,Female,No,Yes,Yes
+3420-YJLQT,Alturas,96101,Female,No,No,No
+6040-CGACY,Blairsden Graeagle,96103,Female,No,No,No
+0089-IIQKO,Coleville,96107,Female,No,Yes,Yes
+7839-NUIAA,Davis Creek,96108,Female,No,Yes,Yes
+6075-QMNRR,Doyle,96109,Female,No,No,No
+8180-AKMJV,Litchfield,96117,Female,No,No,No
+4298-OYIFC,Loyalton,96118,Male,No,Yes,No
+9842-EFSYY,Markleeville,96120,Female,No,No,Yes
+3898-GUYTS,Ravendale,96123,Female,Yes,No,No
+9975-SKRNR,Sierraville,96126,Male,No,No,No
+3703-KBKZP,Standish,96128,Male,Yes,No,No
+3682-YEUWS,Tulelake,96134,Male,No,Yes,Yes
+3446-QDSZF,Homewood,96141,Female,No,No,No
+5117-IFGPS,Tahoe City,96145,Male,Yes,Yes,No
+7379-FNIUJ,Olympic Valley,96146,Male,No,No,No
+4486-EFAEB,Los Angeles,90002,Male,No,No,No
+0060-FUALY,Los Angeles,90003,Female,No,Yes,No
+6954-OOYZZ,Los Angeles,90006,Male,No,Yes,No
+7088-FBAWU,Los Angeles,90007,Female,No,Yes,Yes
+3097-IDVPU,Los Angeles,90012,Male,No,Yes,Yes
+2303-PJYHN,Los Angeles,90015,Female,No,Yes,No
+1237-WIYYZ,Los Angeles,90017,Female,No,No,No
+7852-LECYP,Los Angeles,90019,Male,Yes,Yes,No
+5236-XMZJY,Los Angeles,90031,Female,No,No,No
+2694-CIUMO,Los Angeles,90033,Female,No,No,No
+0909-SDHNU,Los Angeles,90036,Female,No,No,Yes
+4647-XXZAM,Los Angeles,90037,Female,No,Yes,Yes
+7740-KKCXF,Los Angeles,90039,Male,No,Yes,No
+5600-PDUJF,Los Angeles,90047,Male,No,No,No
+2067-QYTCF,Los Angeles,90057,Female,No,Yes,No
+7407-SUJIZ,Los Angeles,90061,Male,No,No,No
+9699-UBQFS,Los Angeles,90065,Female,Yes,Yes,No
+9367-TCUYN,Los Angeles,90066,Female,No,No,No
+1261-FWTTE,Los Angeles,90067,Male,Yes,No,No
+3528-HFRIQ,Los Angeles,90068,Male,Yes,Yes,No
+0708-SJDIS,West Hollywood,90069,Female,No,No,No
+3320-VEOYC,Beverly Hills,90210,Male,Yes,No,No
+7326-RIGQZ,Culver City,90230,Male,No,Yes,Yes
+1848-LBZHY,Downey,90242,Female,No,Yes,No
+8118-TJAFG,Gardena,90247,Male,No,Yes,Yes
+5429-LWCMV,Gardena,90248,Female,No,No,No
+7298-IZWLY,Gardena,90249,Female,No,No,No
+3955-JBZZM,Hermosa Beach,90254,Male,No,No,No
+9909-IDLEK,Malibu,90265,Male,No,Yes,Yes
+9927-DSWDF,Palos Verdes Peninsula,90274,Male,No,Yes,No
+9500-LTVBP,Rancho Palos Verdes,90275,Female,No,No,No
+7252-NTGSS,Redondo Beach,90277,Female,No,No,No
+8149-AIQCG,Redondo Beach,90278,Male,No,No,No
+0899-WZRSD,Marina Del Rey,90292,Male,No,No,No
+3255-GRXMG,Playa Del Rey,90293,Male,No,No,Yes
+4828-FAZPK,Inglewood,90301,Female,No,Yes,Yes
+7354-OIJLX,Inglewood,90305,Male,No,No,No
+1376-HHBDV,Santa Monica,90401,Female,No,No,No
+6133-OZILE,Santa Monica,90403,Female,No,No,No
+5018-LXQQG,Torrance,90505,Female,No,Yes,Yes
+1746-TGTWV,Whittier,90604,Male,No,Yes,No
+5995-SNNEW,Whittier,90605,Male,Yes,Yes,No
+4879-GZLFH,Buena Park,90621,Female,No,Yes,Yes
+2507-QZPQS,La Mirada,90638,Male,No,No,No
+7136-IHZJA,Santa Fe Springs,90670,Female,No,Yes,Yes
+7074-STDCN,Artesia,90701,Male,No,No,No
+8739-QOTTN,Avalon,90704,Female,No,Yes,No
+0277-BKSQP,Harbor City,90710,Male,No,Yes,Yes
+5774-XZTQC,Lakewood,90715,Female,No,Yes,Yes
+8547-NSBBO,San Pedro,90731,Male,No,No,No
+6591-QGOYB,Surfside,90743,Male,No,No,No
+8878-RYUKI,Long Beach,90803,Female,No,No,No
+9633-DENPU,Long Beach,90804,Female,No,Yes,No
+7811-JIVPF,Long Beach,90805,Female,No,No,No
+8541-QVFKM,Long Beach,90807,Female,No,No,No
+5371-VYLSX,Long Beach,90814,Female,Yes,No,No
+7621-VPNET,Arcadia,91006,Female,No,Yes,No
+6034-YMTOB,Arcadia,91007,Female,No,No,No
+4353-HYOJD,Monrovia,91016,Female,No,Yes,Yes
+4188-FRABG,Sunland,91040,Male,No,Yes,No
+4128-ETESU,Pasadena,91101,Female,Yes,Yes,No
+0620-DLSLK,Pasadena,91103,Female,No,No,No
+1156-ZFYDO,Glendale,91201,Female,No,No,No
+3295-YVUSR,Glendale,91202,Male,Yes,No,No
+8016-NCFVO,Glendale,91203,Male,Yes,No,No
+7577-SWIFR,Glendale,91206,Male,No,No,No
+0303-WMMRN,Glendale,91207,Male,No,No,No
+1078-TDCRN,Agoura Hills,91301,Female,Yes,Yes,No
+3797-FKOGQ,Canoga Park,91303,Male,No,No,Yes
+7622-NXQZR,Canoga Park,91304,Male,No,No,No
+7017-VFULY,Chatsworth,91311,Female,No,Yes,No
+5562-YJQGT,Encino,91316,Female,No,No,No
+5439-WIKXB,Newhall,91321,Male,Yes,Yes,No
+5928-QLDHB,San Fernando,91340,Male,No,No,No
+9840-EFJQB,Sylmar,91342,Female,No,No,No
+0696-UKTOX,North Hills,91343,Male,No,No,Yes
+4801-KFYKL,Granada Hills,91344,Male,No,No,Yes
+3472-OAOOR,Mission Hills,91345,Male,No,Yes,Yes
+6135-OZQVA,Santa Clarita,91350,Female,No,No,No
+7721-DVEKZ,Thousand Oaks,91360,Female,No,No,No
+3566-VVORZ,Westlake Village,91361,Female,No,Yes,No
+2480-SQIOB,Woodland Hills,91364,Male,No,Yes,Yes
+0128-MKWSG,Stevenson Ranch,91381,Female,No,No,Yes
+2080-CAZNM,Burbank,91502,Female,Yes,No,No
+1028-FFNJK,Burbank,91504,Male,Yes,Yes,No
+6907-FLBER,Burbank,91505,Male,No,No,No
+3001-UNBTL,Burbank,91506,Male,Yes,Yes,Yes
+0734-OXWBT,Covina,91722,Male,No,No,Yes
+4282-ACRXS,Covina,91723,Male,Yes,Yes,No
+0365-TRTPY,Covina,91724,Female,No,No,No
+6502-KUGLL,El Monte,91732,Female,No,Yes,Yes
+7668-XCFYV,Glendora,91741,Female,Yes,Yes,No
+5018-HEKFO,Rowland Heights,91748,Female,No,No,No
+3976-NLDEZ,Mira Loma,91752,Male,No,No,No
+6854-EXGSF,Mt Baldy,91759,Female,No,No,No
+8044-BGWPI,Ontario,91764,Male,No,Yes,Yes
+4060-LDNLU,Diamond Bar,91765,Male,No,No,No
+3589-PPVKW,Pomona,91766,Male,No,No,No
+1755-RMCXH,San Dimas,91773,Male,No,Yes,Yes
+4299-SIMNS,Temple City,91780,Male,No,No,No
+6261-LHRTG,Upland,91786,Female,No,No,No
+6233-HXJMX,Alpine,91901,Female,No,No,No
+3338-CVVEH,Chula Vista,91913,Male,No,No,No
+2615-YVMYX,Chula Vista,91915,Male,Yes,Yes,No
+8486-AYEQH,Guatay,91931,Female,No,No,No
+5419-JKZNQ,La Mesa,91941,Male,Yes,Yes,No
+2495-KZNFB,La Mesa,91942,Female,No,No,No
+9591-YVTEB,National City,91950,Male,Yes,No,No
+5424-RLQLC,Bonsall,92003,Male,No,No,No
+6507-DTJZV,Cardiff By The Sea,92007,Male,No,No,Yes
+1061-PNTHC,Encinitas,92024,Female,No,Yes,Yes
+0997-YTLNY,Escondido,92029,Female,No,No,Yes
+9708-KFDBY,Oceanside,92054,Male,No,No,No
+2144-BFDSO,Ranchita,92066,Female,Yes,Yes,No
+5647-FXOTP,Santa Ysabel,92070,Female,Yes,Yes,No
+9700-ISPUP,Valley Center,92082,Female,No,Yes,Yes
+9839-ETQOE,Vista,92083,Male,No,No,Yes
+6078-VESFR,Vista,92084,Male,Yes,Yes,No
+1941-HOSAM,San Diego,92101,Male,No,Yes,Yes
+6171-ZTVYB,San Diego,92104,Male,No,Yes,No
+1935-IMVBB,San Diego,92107,Male,No,Yes,No
+8731-WBBMB,San Diego,92117,Female,No,Yes,No
+9441-QHEVC,San Diego,92139,Male,No,No,No
+6705-LNMDD,San Diego,92154,Male,No,No,No
+3370-GQEAL,Indio,92201,Male,No,Yes,Yes
+6559-PDZLR,Desert Center,92239,Male,No,No,No
+8992-OBVDG,Desert Hot Springs,92240,Male,No,No,No
+4273-MBHYA,Desert Hot Springs,92241,Female,No,No,Yes
+4724-WXVWF,Earp,92242,Male,No,No,No
+6082-GLJIX,Holtville,92250,Male,No,No,No
+9860-LISIZ,Palm Springs,92264,Female,No,No,No
+0112-QAWRZ,Palo Verde,92266,Male,No,Yes,Yes
+2786-GCDPI,Pioneertown,92268,Female,Yes,No,No
+8313-KTIHG,Thousand Palms,92276,Male,No,No,No
+3137-LUPIX,Yucca Valley,92284,Female,No,No,No
+6143-JQKEA,Adelanto,92301,Male,No,No,No
+8676-OOQEJ,Amboy,92304,Male,No,No,No
+9701-CDXHR,Apple Valley,92307,Female,No,Yes,No
+5118-MUEYH,Grand Terrace,92313,Female,No,Yes,No
+3936-QQFLL,Calimesa,92320,Male,No,No,No
+4067-HLYQI,Colton,92324,Female,No,No,No
+0292-WEGCH,Death Valley,92328,Female,No,Yes,Yes
+6833-JMZYP,Hesperia,92345,Female,No,No,No
+1310-QRITU,Hinkley,92347,Female,No,No,No
+8490-BXHEO,Lucerne Valley,92356,Male,Yes,No,No
+4998-IKFSE,Phelan,92371,Female,No,No,No
+2455-USLMV,Redlands,92373,Female,No,No,No
+9921-EZKBY,Tecopa,92389,Male,No,No,Yes
+7246-ZGQDF,Victorville,92394,Female,No,No,Yes
+4456-RHSNB,San Bernardino,92401,Female,No,Yes,Yes
+7109-MFBYV,San Bernardino,92407,Male,No,No,No
+1833-TCXKK,San Bernardino,92408,Male,No,Yes,No
+8660-BUETV,Riverside,92501,Female,No,No,No
+9970-QBCDA,March Air Reserve Base,92518,Female,No,No,No
+9496-IVVRP,Lake Elsinore,92532,Female,No,Yes,Yes
+2657-VPXTA,Anza,92539,Female,No,Yes,Yes
+6538-POCHL,Mountain Center,92561,Male,No,No,No
+3002-WQZWT,Murrieta,92563,Female,No,No,No
+4277-UDIEF,Nuevo,92567,Male,No,Yes,Yes
+1208-NBVFH,Perris,92570,Male,No,Yes,Yes
+4912-PIGUY,Perris,92571,Female,No,No,No
+8990-ZXLSU,Sun City,92586,Female,No,No,No
+2275-RBYQS,Sun City,92587,Female,No,No,No
+7794-JASDG,Winchester,92596,Male,No,No,No
+0804-XBFBV,Foothill Ranch,92610,Female,No,No,Yes
+2676-OXPPQ,Irvine,92612,Male,No,No,No
+3703-TTEPD,Irvine,92614,Male,No,No,No
+4987-GQWPO,Huntington Beach,92647,Male,No,No,No
+8048-DSDFQ,Midway City,92655,Male,No,No,No
+6693-FRIRW,Newport Beach,92661,Male,No,No,No
+3173-NVMPX,Newport Beach,92663,Female,No,Yes,Yes
+0623-GDISB,San Clemente,92673,Female,No,No,No
+2043-WVTQJ,Westminster,92683,Male,No,Yes,No
+3863-QSTYI,Mission Viejo,92691,Male,No,No,No
+5044-LRQAQ,Ladera Ranch,92694,Female,No,Yes,No
+5919-VCZYM,Santa Ana,92707,Male,No,No,No
+9279-CJEOJ,Anaheim,92801,Female,Yes,No,No
+7964-VEXDG,Anaheim,92802,Male,No,No,Yes
+6646-JPPHA,Fullerton,92832,Female,Yes,No,No
+7658-UYUQS,Fullerton,92835,Male,Yes,Yes,No
+7880-XSOJX,Garden Grove,92840,Male,No,No,No
+8457-XIGKN,Norco,92860,Male,No,No,No
+6918-UMQCG,Orange,92869,Female,No,No,No
+6339-DKLMK,Corona,92879,Female,No,No,No
+1346-PJWTK,Corona,92880,Male,No,Yes,No
+5088-QZLRL,Corona,92881,Male,No,No,No
+8023-QHAIO,Corona,92882,Female,Yes,Yes,No
+4397-FRLTA,Corona,92883,Female,No,No,No
+2270-CHBFN,Ventura,93004,Female,No,Yes,No
+5982-FPVQN,Camarillo,93012,Female,No,Yes,Yes
+5546-BYZSM,Oak View,93022,Female,No,No,No
+0487-VVUVK,Santa Barbara,93109,Male,No,Yes,Yes
+0027-KWYKW,Alpaugh,93201,Female,No,Yes,Yes
+2308-STERM,Armona,93202,Female,No,No,No
+9432-VOFYX,Delano,93215,Male,No,No,No
+8049-WJCLQ,Ducor,93218,Male,No,Yes,Yes
+6847-KJLTS,Frazier Park,93225,Female,Yes,Yes,No
+9555-SAHUZ,Kernville,93238,Female,No,Yes,Yes
+0816-TSPHQ,Kettleman City,93239,Male,No,No,No
+9932-WBWIK,Lake Isabella,93240,Male,No,No,No
+9115-YQHGA,Lemoore,93245,Male,No,No,No
+4462-CYWMH,Lindsay,93247,Male,Yes,Yes,No
+8963-MQVYN,Lost Hills,93249,Female,No,No,Yes
+2458-EOMRE,Mc Farland,93250,Female,No,No,No
+9334-GWGOW,Mc Kittrick,93251,Male,Yes,Yes,No
+6542-LWGXJ,Pixley,93256,Male,No,Yes,No
+1222-LRYKO,Posey,93260,Male,No,No,Yes
+2087-QAREY,Sequoia National Park,93262,Female,No,Yes,No
+6490-FGZAT,Strathmore,93267,Male,No,No,No
+7502-BNYGS,Wasco,93280,Female,No,Yes,No
+6147-CBCRA,Wofford Heights,93285,Female,No,Yes,No
+9752-ZNQUT,Visalia,93291,Female,No,No,No
+7312-XSBAT,Bakersfield,93305,Male,No,No,No
+3096-GKWEB,Bakersfield,93306,Male,No,Yes,No
+2371-JQHZZ,Bakersfield,93307,Male,No,Yes,No
+4396-KLSEH,Bakersfield,93311,Male,No,No,No
+2824-MYYBN,Bakersfield,93313,Female,No,Yes,Yes
+6345-HOVES,Los Osos,93402,Male,No,No,No
+6469-QJKZW,Arroyo Grande,93420,Female,No,Yes,No
+0147-ESWWR,Atascadero,93422,Female,Yes,Yes,No
+4983-CCWMC,Creston,93432,Male,No,No,No
+9103-CXVOK,Grover Beach,93433,Male,No,Yes,Yes
+3841-CONLJ,Morro Bay,93442,Female,No,Yes,No
+5399-ZIMKF,San Simeon,93452,Male,No,No,No
+3948-FVVRP,Santa Maria,93455,Male,No,Yes,Yes
+6719-OXYBR,California City,93505,Male,No,No,No
+3312-ZWLGF,Acton,93510,Male,Yes,Yes,No
+6476-YHMGA,Benton,93512,Female,No,Yes,Yes
+0168-XZKBB,Boron,93516,Female,No,Yes,No
+3785-NRHYR,Bridgeport,93517,Male,No,No,No
+4537-DKTAL,Darwin,93522,Female,No,No,No
+7072-MBHEV,Edwards,93523,Female,Yes,Yes,Yes
+8204-TIFGJ,June Lake,93529,Female,No,No,No
+8903-XEBGX,Lancaster,93534,Male,No,No,Yes
+7824-PANSQ,Mammoth Lakes,93546,Male,No,No,No
+4072-IPYLT,Randsburg,93554,Female,No,Yes,Yes
+4936-YPJNK,Rosamond,93560,Female,No,No,No
+1580-BMCMR,Tehachapi,93561,Male,Yes,No,No
+8749-CLJXC,Ahwahnee,93601,Male,No,No,No
+7989-VCQOH,Auberry,93602,Male,No,Yes,Yes
+4686-UXDML,Cutler,93615,Female,No,No,No
+7636-XUHWW,Firebaugh,93622,Male,No,No,No
+1431-CYWMH,Fish Camp,93623,Female,No,Yes,Yes
+5937-EORGB,Five Points,93624,Male,Yes,Yes,No
+5539-HIVAK,Friant,93626,Female,Yes,Yes,No
+4583-PARNH,Kerman,93630,Male,Yes,Yes,No
+1421-HCERK,Lakeshore,93634,Male,Yes,Yes,No
+9633-XQABV,Los Banos,93635,Female,No,No,No
+1539-LNKHM,Orange Cove,93646,Female,No,No,No
+0289-IVARM,Parlier,93648,Female,No,No,No
+9761-XUJWD,Fresno,93650,Male,No,No,No
+3090-QFUVD,Reedley,93654,Female,No,No,No
+1818-ESQMW,San Joaquin,93660,Female,No,No,No
+7401-RUBNK,South Dos Palos,93665,Female,No,Yes,No
+4815-GBTCD,Wishon,93669,Female,No,Yes,No
+0980-PVMRC,Squaw Valley,93675,Female,No,Yes,Yes
+7233-DRTRF,Fresno,93701,Male,No,Yes,No
+3873-NFTGI,Fresno,93703,Male,No,No,No
+7048-GXDAY,Fresno,93705,Male,No,No,No
+1169-WCVAK,Fresno,93710,Male,No,Yes,No
+7129-CAKJW,Fresno,93721,Female,No,No,No
+8695-ARGXZ,Fresno,93722,Male,Yes,Yes,No
+3570-YUEKJ,Fresno,93725,Female,No,No,No
+1697-NVVGY,Fresno,93728,Male,Yes,Yes,No
+8132-YPVBX,Salinas,93907,Female,No,No,No
+0787-LHDYT,Carmel Valley,93924,Male,No,No,No
+0374-IOEGQ,Gonzales,93926,Female,No,No,No
+9112-WSNPU,Monterey,93940,Female,Yes,No,No
+9867-NNXLC,Pacific Grove,93950,Female,No,No,No
+3161-GETRM,Soledad,93960,Male,No,Yes,Yes
+4976-LNFVV,Daly City,94015,Male,Yes,Yes,No
+5055-MGMGF,Half Moon Bay,94019,Female,No,Yes,No
+2969-QWUBZ,Los Altos,94022,Female,No,No,No
+9822-BIIGN,Los Altos,94024,Male,No,Yes,Yes
+2077-MPJQO,Menlo Park,94025,Male,Yes,Yes,No
+2971-SGAFL,Millbrae,94030,Female,No,No,No
+2905-KFQUV,Moss Beach,94038,Female,No,Yes,No
+3370-HXOPH,Mountain View,94041,Female,No,No,No
+7876-BEUTG,San Bruno,94066,Female,No,No,No
+2338-BQEZT,San Carlos,94070,Female,No,No,No
+9873-MNDKV,San Gregorio,94074,Female,No,No,No
+9584-EXCDZ,San Francisco,94103,Female,No,No,No
+2621-UDNLU,San Francisco,94107,Female,No,Yes,No
+7526-IVLYU,San Francisco,94108,Male,No,No,No
+9214-EKVXR,San Francisco,94110,Female,No,No,No
+2122-YWVYA,San Francisco,94116,Female,No,No,No
+6131-JLWZM,San Francisco,94131,Female,No,No,No
+4316-XCSLJ,Palo Alto,94301,Male,No,No,Yes
+9693-XMUOB,Palo Alto,94304,Male,Yes,Yes,No
+2709-UQGNP,San Mateo,94401,Male,No,No,No
+8033-ATFAS,San Mateo,94404,Female,No,Yes,Yes
+9943-VSZUV,Alamo,94507,Male,Yes,No,No
+7054-ENNGU,Benicia,94510,Female,No,Yes,No
+1628-BIZYP,Brentwood,94513,Male,No,No,No
+0082-LDZUE,Calistoga,94515,Male,No,No,No
+0856-NAOES,Concord,94519,Male,No,No,No
+1976-AZZPJ,Concord,94520,Male,No,Yes,No
+3099-OONVS,Crockett,94525,Male,No,Yes,Yes
+5144-PQCDZ,Fairfield,94533,Male,No,No,No
+9355-NPPFS,Fremont,94538,Female,Yes,No,No
+8035-PWSEV,Hayward,94542,Female,No,No,No
+1356-MKYSK,Castro Valley,94546,Male,No,No,No
+5828-DWPIL,Livermore,94550,Male,Yes,Yes,No
+2931-FSOHN,Napa,94559,Male,Yes,No,No
+9971-ZWPBF,Orinda,94563,Male,Yes,Yes,Yes
+4712-AUQZO,Pinole,94564,Male,No,No,No
+2908-ZTPNF,Pleasanton,94566,Female,No,No,No
+8421-WZOOW,Rio Vista,94571,Female,Yes,Yes,Yes
+8756-RDDLT,San Leandro,94577,Female,No,No,No
+2862-PFNIK,San Leandro,94578,Male,No,No,Yes
+5816-QVHRX,San Leandro,94579,Female,No,No,No
+4430-YHXGG,San Lorenzo,94580,Female,No,No,Yes
+6888-SBYAI,San Ramon,94583,Male,No,No,No
+7395-XWZOY,Suisun City,94585,Male,No,No,No
+6859-RKMZJ,Vallejo,94589,Male,No,Yes,No
+2049-BAFNW,Vallejo,94592,Female,No,No,No
+3842-QTGDL,Walnut Creek,94595,Male,No,Yes,No
+9782-LGXMC,Walnut Creek,94598,Female,No,Yes,Yes
+4673-KKSLS,Oakland,94605,Female,No,No,No
+4853-OITSN,Oakland,94606,Male,No,Yes,No
+7094-MSZAO,Oakland,94610,Male,No,Yes,Yes
+6907-CQGPN,Oakland,94612,Male,No,No,No
+0239-OXEXL,Oakland,94619,Female,No,No,No
+0212-ISBBF,Berkeley,94705,Female,No,No,No
+5271-DBYSJ,Berkeley,94708,Male,Yes,No,No
+1472-TNCWL,El Sobrante,94803,Male,No,No,Yes
+2080-GKCWQ,San Pablo,94806,Male,No,No,No
+3462-BJQQA,Belvedere Tiburon,94920,Female,No,No,No
+4367-NHWMM,Corte Madera,94925,Female,No,No,No
+1360-RCYRT,Forest Knolls,94933,Male,No,Yes,Yes
+5917-HBSDW,Mill Valley,94941,Female,No,Yes,Yes
+2325-NBPZG,Novato,94949,Female,No,No,No
+4482-FTFFX,Penngrove,94951,Male,No,No,No
+3752-CQSJI,San Anselmo,94960,Female,No,Yes,Yes
+5025-GOOKI,San Geronimo,94963,Female,No,No,No
+2887-JPYLU,Stinson Beach,94970,Female,No,No,Yes
+4770-QAZXN,Tomales,94971,Female,No,No,No
+9714-EDSUC,Alviso,95002,Male,No,No,No
+0282-NVSJS,Aromas,95004,Female,Yes,Yes,Yes
+7537-CBQUZ,Castroville,95012,Male,Yes,No,No
+3363-EWLGO,Freedom,95019,Female,No,No,No
+1689-YQBYY,Los Gatos,95030,Female,No,No,Yes
+2959-FENLU,Los Gatos,95033,Female,No,No,No
+0708-LGSMF,Milpitas,95035,Male,No,Yes,No
+0487-RPVUM,Mount Hermon,95041,Male,No,Yes,No
+4079-ULGFR,Paicines,95043,Male,No,No,No
+6599-SFQVE,Santa Clara,95051,Female,No,No,No
+4003-FUSHP,Santa Cruz,95060,Male,No,No,No
+0356-ERHVT,Santa Cruz,95062,Male,No,Yes,No
+4884-ZTHVF,Santa Cruz,95065,Female,Yes,No,No
+3920-HIHMQ,Scotts Valley,95066,Female,No,No,Yes
+3055-OYMSE,Saratoga,95070,Female,Yes,No,No
+3387-PLKUI,San Jose,95119,Female,No,Yes,Yes
+9881-VCZEP,San Jose,95126,Female,No,Yes,No
+8757-TFHHJ,San Jose,95128,Male,No,No,No
+5119-KEPFY,San Jose,95131,Male,No,Yes,No
+0690-SRQID,Stockton,95203,Male,No,No,No
+9605-WGJVW,Stockton,95204,Female,Yes,No,No
+8573-CGOCC,Stockton,95215,Male,No,No,No
+6286-SUUWT,Arnold,95223,Male,No,No,No
+4819-HJPIW,Avery,95224,Male,No,No,No
+8654-DHAOW,Burson,95225,Female,No,No,No
+5438-QMDDL,Campo Seco,95226,Female,No,Yes,No
+9812-GHVRI,Clements,95227,Female,No,No,No
+1228-ZLNBX,Farmington,95230,Male,No,No,No
+4226-KKDON,French Camp,95231,Male,No,No,No
+6218-KNUBD,Lodi,95242,Male,No,No,No
+3317-VLGQT,Wallace,95254,Female,No,Yes,No
+4132-POCZS,West Point,95255,Male,No,Yes,No
+3896-RCYYE,Atwater,95301,Female,No,No,No
+9638-JIQYA,Ballico,95303,Male,No,No,No
+3258-SANFR,Big Oak Flat,95305,Male,Yes,No,No
+4833-QTJNO,Coulterville,95311,Male,Yes,Yes,No
+3039-MJSLN,Cressey,95312,Male,No,No,Yes
+0178-CIIKR,Crows Landing,95313,Female,No,No,No
+2322-VCZHZ,El Portal,95318,Male,Yes,Yes,No
+5222-IMUKT,Hornitos,95325,Male,No,No,No
+0118-JPNOY,Le Grand,95333,Female,Yes,No,No
+3845-FXCYS,Long Barn,95335,Male,No,No,No
+4343-EJVQB,Mariposa,95338,Male,No,No,No
+3427-GGZZI,Midpines,95345,Female,No,Yes,No
+0644-OQMDK,Merced,95348,Male,Yes,No,No
+3154-CFSZG,Modesto,95351,Male,No,Yes,Yes
+2220-IAHLS,Modesto,95356,Female,No,No,No
+1658-XUHBX,Modesto,95357,Female,Yes,Yes,Yes
+2378-HTWFW,Newman,95360,Male,Yes,No,No
+3413-CSSTH,Stevinson,95374,Male,No,No,No
+7542-CYDDM,Turlock,95382,Male,No,No,No
+8495-PRWFH,Waterford,95386,Female,Yes,No,No
+0439-IFYUN,Westley,95387,Female,Yes,No,No
+6458-CYIDZ,Albion,95410,Female,Yes,No,No
+3058-WQDRE,Branscomb,95417,Male,No,No,No
+2279-AXJJK,Cazadero,95421,Male,No,Yes,No
+0130-SXOUN,Glenhaven,95443,Male,No,No,No
+9962-BFPDU,Kenwood,95452,Female,No,Yes,Yes
+6394-HHHZM,Little River,95456,Male,No,No,No
+1932-UEDCX,Manchester,95459,Male,Yes,Yes,No
+5188-HGMLP,Middletown,95461,Male,Yes,Yes,No
+5331-RGMTT,Point Arena,95468,Male,Yes,Yes,No
+7823-JSOAG,Sonoma,95476,Male,No,No,No
+9374-YOLBJ,Upper Lake,95485,Female,No,Yes,Yes
+9074-KGVOX,Westport,95488,Male,No,Yes,Yes
+6128-DAFVY,Willits,95490,Female,No,No,No
+5066-GFJMM,Eureka,95501,Female,No,Yes,No
+3278-FSIXX,Blue Lake,95525,Female,No,No,No
+2946-KIQSP,Crescent City,95531,Female,No,No,No
+4012-ZTHBR,Kneeland,95549,Female,No,Yes,Yes
+2985-FMWYF,Myers Flat,95554,Female,No,No,No
+2717-HVIZY,Orleans,95556,Female,No,No,Yes
+3422-GALYP,Phillipsville,95559,Male,No,No,No
+7356-IWLFW,Weott,95571,Male,No,Yes,Yes
+7872-RDDLZ,Piercy,95587,Female,Yes,No,No
+3043-SUDUA,West Sacramento,95605,Female,No,No,No
+5442-BHQNG,Brooks,95606,Female,No,No,No
+8873-GLDMH,Courtland,95615,Female,No,No,No
+0547-HURJB,Dixon,95620,Male,No,No,Yes
+8904-OPDCK,Citrus Heights,95621,Male,Yes,Yes,No
+5022-JNQEQ,Esparto,95627,Female,No,Yes,Yes
+9921-QFQUL,Garden Valley,95633,Female,No,Yes,No
+7798-JVXYM,Herald,95638,Female,No,No,No
+8647-SDTWQ,Hood,95639,Male,No,Yes,Yes
+2081-KJSQF,Isleton,95641,Male,No,No,No
+3323-CPBWR,Knights Landing,95645,Male,No,No,No
+3384-CTMSF,Lincoln,95648,Male,No,Yes,No
+6048-QBXKL,Madison,95653,Female,Yes,No,No
+7718-RXDGG,Newcastle,95658,Male,No,Yes,No
+1025-FALIX,Nicolaus,95659,Female,No,No,No
+3407-QGWLG,Roseville,95661,Male,No,No,Yes
+2347-WKKAE,Penryn,95663,Male,No,Yes,No
+8735-DCXNF,Pilot Hill,95664,Male,No,Yes,No
+7148-XZPHA,Rancho Cordova,95670,Male,No,Yes,Yes
+5309-TAIKL,Rio Linda,95673,Female,No,No,No
+6856-RAURS,Rio Oso,95674,Female,No,No,No
+8778-LMWTJ,River Pines,95675,Female,No,No,No
+0943-ZQPXH,Vacaville,95688,Male,No,Yes,Yes
+2378-VTKDH,Woodland,95695,Male,Yes,Yes,No
+0927-CNGRH,Alta,95701,Male,No,No,Yes
+9853-JFZDU,Gold Run,95717,Female,No,Yes,No
+3999-WRNGR,Soda Springs,95728,Female,No,Yes,Yes
+3466-RITXD,Twin Bridges,95735,Male,No,No,No
+2974-GGUXS,Granite Bay,95746,Female,Yes,Yes,No
+2101-RANCD,El Dorado Hills,95762,Female,No,No,No
+4450-YOOHP,Sacramento,95818,Female,No,No,No
+5119-NZPTV,Sacramento,95823,Male,Yes,Yes,No
+3865-ZYKAD,Sacramento,95831,Male,Yes,Yes,No
+2096-XOTMO,Marysville,95901,Female,No,Yes,Yes
+8221-EQDGL,Alleghany,95910,Male,No,Yes,No
+9137-UIYPG,Butte City,95920,Female,No,Yes,Yes
+2809-ZMYOQ,Camptonville,95922,Female,No,No,No
+5084-OOVCJ,Canyon Dam,95923,Female,No,Yes,Yes
+7727-SHVZV,Chico,95926,Female,No,No,No
+5339-PXDVH,Clipper Mills,95930,Male,No,No,No
+7601-WFVZV,Downieville,95936,Male,No,No,No
+9529-OFXHY,Elk Creek,95939,Male,No,No,No
+2669-QVCRG,Forest Ranch,95942,Female,No,No,No
+2478-EEWWM,Glenn,95943,Male,No,Yes,No
+9644-UMGQA,Penn Valley,95946,Male,No,Yes,Yes
+3256-EZDBI,Greenville,95947,Male,Yes,Yes,No
+0419-YAAPX,Grass Valley,95949,Male,No,Yes,No
+4726-DLWQN,Live Oak,95953,Male,Yes,No,No
+3094-JOJAI,Maxwell,95955,Male,No,No,No
+9494-MRNYX,Meadow Valley,95956,Male,No,No,No
+5448-VWNAM,Oroville,95966,Female,No,No,Yes
+0939-EREMR,Chico,95973,Female,No,No,Yes
+9389-ACWBI,Richvale,95974,Female,No,Yes,Yes
+3644-QXEHN,Smartville,95977,Male,No,Yes,Yes
+5921-NGYRH,Stonyford,95979,Male,No,Yes,No
+4310-KEDTB,Yuba City,95993,Female,No,No,Yes
+4062-HBMOS,Redding,96003,Male,No,No,No
+2676-ISHSF,Anderson,96007,Male,No,No,No
+6103-QCKFX,Big Bar,96010,Female,No,Yes,Yes
+1353-LJWEM,Cottonwood,96022,Male,No,No,No
+1794-SWWKL,Dorris,96023,Male,No,Yes,Yes
+9332-GYWLO,Fall River Mills,96028,Female,No,Yes,Yes
+7233-IOQNP,Gazelle,96034,Female,No,Yes,No
+4923-ADWXJ,Igo,96047,Female,No,No,No
+1104-TNLZA,Klamath River,96050,Male,Yes,Yes,No
+3439-GVUSX,Lookout,96054,Male,No,No,No
+5949-HGVJL,Mccloud,96057,Female,No,Yes,No
+9828-QHFBK,Montgomery Creek,96065,Male,No,No,No
+5012-YSPJJ,Nubieber,96068,Male,No,Yes,Yes
+8709-KRDVL,Scott Bar,96085,Female,No,No,No
+1427-VERSM,Shasta,96087,Female,No,Yes,No
+6339-YPSAH,Tehama,96090,Male,No,No,No
+2159-TURXX,Weaverville,96093,Male,No,No,No
+1548-FEHVL,Weed,96094,Male,No,Yes,No
+6215-NQCPY,Yreka,96097,Male,No,No,No
+9626-WEQRM,Cedarville,96104,Female,No,No,No
+6969-MVBAI,Davis Creek,96108,Female,Yes,No,No
+2978-XXSOG,Doyle,96109,Female,No,No,No
+2342-CKIAO,Eagleville,96110,Female,No,No,No
+7426-GSWPO,Portola,96122,Male,Yes,No,No
+8317-BVKSO,Termo,96132,Male,No,No,No
+4657-FWVFY,Kings Beach,96143,Female,No,Yes,Yes
+2257-BOVXD,Tahoe City,96145,Male,No,Yes,No
+7729-JTEEC,Olympic Valley,96146,Male,No,Yes,Yes
+9696-RMYBA,Los Angeles,90003,Male,No,No,No
+9770-LXDBK,Los Angeles,90006,Female,No,No,No
+8344-WFMFH,Los Angeles,90008,Male,No,No,Yes
+8404-FYDIB,Los Angeles,90012,Male,No,No,No
+2791-SFVEW,Los Angeles,90013,Female,No,No,No
+1226-IENZN,Los Angeles,90024,Male,Yes,No,No
+2108-GLPQB,Los Angeles,90025,Male,No,Yes,No
+4747-LCAQL,Los Angeles,90037,Male,No,No,No
+3411-WLRSQ,Los Angeles,90038,Female,Yes,Yes,No
+8006-PYCSW,Los Angeles,90040,Female,No,No,No
+2164-SOQXL,Los Angeles,90043,Female,No,Yes,Yes
+4020-KIUDI,Los Angeles,90044,Male,No,Yes,Yes
+5850-BDWCY,Los Angeles,90045,Female,No,No,No
+2038-YSEZE,Los Angeles,90046,Female,No,No,No
+8799-OXZMD,Los Angeles,90048,Female,No,No,No
+0674-EYYZV,Los Angeles,90065,Female,No,No,No
+1395-OFUWC,Los Angeles,90067,Male,No,Yes,Yes
+0822-QGCXA,Los Angeles,90068,Female,Yes,Yes,No
+2832-KJCRD,Los Angeles,90071,Female,No,No,No
+3588-WSTTJ,Los Angeles,90077,Female,Yes,No,No
+3798-EPWRR,Beverly Hills,90212,Female,Yes,No,No
+6258-NGCNG,Compton,90220,Male,No,No,No
+5274-XHAKY,Compton,90222,Female,No,Yes,Yes
+1442-BQPVU,Culver City,90230,Female,No,No,No
+7605-SNLQG,Gardena,90249,Female,No,Yes,No
+8591-NXRCV,Malibu,90265,Female,No,No,No
+7895-VONWT,Manhattan Beach,90266,Female,No,No,No
+4566-NECEV,Palos Verdes Peninsula,90274,Male,No,No,No
+2027-CWDNU,Venice,90291,Male,No,Yes,Yes
+3733-ZEECP,Inglewood,90301,Male,No,Yes,Yes
+7878-RTCZG,Inglewood,90302,Female,No,No,No
+3545-CNWRG,Santa Monica,90402,Female,No,Yes,Yes
+1785-BPHTP,Santa Monica,90403,Male,No,Yes,Yes
+4989-LIXVT,Santa Monica,90404,Male,Yes,No,No
+7315-WYOAW,Santa Monica,90405,Male,No,No,No
+1173-XZPYF,Torrance,90501,Female,No,No,No
+2061-VVFST,Whittier,90606,Female,No,Yes,No
+0749-IRGQE,Buena Park,90621,Female,Yes,Yes,No
+5666-CYCYZ,Montebello,90640,Female,No,No,No
+4011-ARPHK,Norwalk,90650,Male,No,No,No
+3590-TCXTB,Cerritos,90703,Male,No,No,No
+6994-KERXL,Avalon,90704,Male,No,No,No
+2740-JFBOK,Lakewood,90713,Male,No,No,No
+9003-CPATH,Carson,90745,Male,No,No,No
+1754-GKYPY,Carson,90746,Male,Yes,Yes,No
+7956-XQWGU,Long Beach,90803,Male,No,No,No
+2369-FEVNO,Long Beach,90806,Male,No,No,No
+7672-VFMXZ,Long Beach,90815,Male,No,Yes,No
+3855-ONCAR,Arcadia,91006,Female,No,Yes,Yes
+1488-SYSFC,Arcadia,91007,Male,No,Yes,Yes
+0970-QXPXW,Monrovia,91016,Female,No,No,No
+9572-WUKSB,South Pasadena,91030,Male,No,Yes,No
+0076-LVEPS,Tujunga,91042,Male,No,No,Yes
+3640-JQGJG,Pasadena,91101,Male,No,Yes,Yes
+1596-OQSPS,Pasadena,91104,Female,No,No,No
+9546-KDTRB,Pasadena,91106,Female,No,No,No
+3174-RKMOW,Glendale,91201,Male,No,Yes,Yes
+1760-CAZHT,Glendale,91202,Male,No,No,Yes
+3541-ZNUHK,La Crescenta,91214,Female,No,Yes,Yes
+8725-JEDFD,Calabasas,91302,Male,No,No,No
+7562-UXTPG,Canoga Park,91303,Female,No,No,No
+5626-MGTUK,Chatsworth,91311,Female,No,No,No
+8212-DJRCH,Newbury Park,91320,Male,No,Yes,Yes
+6563-VNPMN,Sylmar,91342,Female,Yes,No,No
+2267-WTPYD,Granada Hills,91344,Female,Yes,Yes,No
+6300-BWMJX,Valencia,91355,Female,No,Yes,No
+7009-LGECI,Westlake Village,91361,Female,No,No,No
+5022-KVDQT,Woodland Hills,91364,Male,No,No,No
+7976-CICYS,Woodland Hills,91367,Male,No,No,No
+1036-GUDCL,Oak Park,91377,Male,No,Yes,Yes
+9129-UXERG,Van Nuys,91405,Female,Yes,No,No
+6229-LSCKB,Encino,91436,Male,Yes,No,No
+1724-IQWNM,Burbank,91504,Male,No,No,Yes
+8217-QYOHV,Burbank,91505,Male,No,No,No
+6897-UUBNU,North Hollywood,91602,Male,No,No,No
+6127-IYJOZ,Studio City,91604,Male,Yes,No,No
+8930-XOTDP,North Hollywood,91606,Female,No,Yes,Yes
+5916-QEWPT,Valley Village,91607,Female,No,Yes,No
+5060-TQUQN,Rancho Cucamonga,91701,Male,No,Yes,Yes
+2408-PSJVE,Chino Hills,91709,Male,No,Yes,Yes
+9700-ZCLOT,Claremont,91711,Male,No,No,No
+1930-WNXSB,Covina,91724,Male,No,Yes,Yes
+3452-SRFEG,La Verne,91750,Male,No,No,No
+4070-OKWVH,Mira Loma,91752,Female,No,Yes,No
+4926-UMJZD,Mt Baldy,91759,Female,No,Yes,No
+0682-USIXD,Diamond Bar,91765,Female,No,Yes,No
+7078-NVFAM,Pomona,91767,Female,No,Yes,Yes
+2133-TSRRM,Rosemead,91770,Female,No,No,Yes
+3191-CSNMG,Upland,91784,Female,No,Yes,Yes
+7952-OBOYL,Upland,91786,Male,No,No,No
+7853-OETYL,West Covina,91790,Female,No,Yes,No
+2363-BJLSL,Bonita,91902,Male,No,No,No
+6211-WHMYA,Chula Vista,91915,Female,Yes,No,No
+4459-BBGHE,Descanso,91916,Male,No,No,Yes
+9108-EJFJP,Jacumba,91934,Female,No,Yes,No
+2215-ZAFGX,La Mesa,91942,Male,No,No,No
+5136-GFPMB,Spring Valley,91978,Male,No,No,No
+5243-SAOTC,Bonsall,92003,Male,No,No,No
+9398-MMQTO,Borrego Springs,92004,Male,No,No,No
+4710-NKCAW,El Cajon,92019,Male,No,Yes,Yes
+0357-NVCRI,El Cajon,92021,Female,No,No,Yes
+0463-ZSDNT,Escondido,92026,Male,No,No,No
+7746-AWNQW,La Jolla,92037,Female,No,No,No
+9039-ZVJDC,Pauma Valley,92061,Male,No,No,No
+9013-AQORL,Ramona,92065,Female,No,No,Yes
+2075-RMJIK,Santa Ysabel,92070,Female,No,Yes,Yes
+9364-YKUVW,Valley Center,92082,Male,No,No,No
+5392-AKEMH,Vista,92083,Female,No,No,No
+3914-FDRHP,Warner Springs,92086,Male,No,No,No
+4690-PKDQG,San Diego,92102,Female,Yes,Yes,No
+9547-ITEFG,San Diego,92105,Male,No,Yes,Yes
+7789-CRUVC,San Diego,92107,Female,Yes,Yes,No
+2843-CQMEG,San Diego,92120,Male,No,No,No
+5351-QESIO,San Diego,92122,Male,No,No,Yes
+5568-DMXZS,San Diego,92124,Female,No,No,No
+6633-SYEUS,San Diego,92127,Female,No,No,No
+6447-GORXK,San Diego,92128,Male,No,No,Yes
+1684-FLBGS,San Diego,92139,Female,No,Yes,Yes
+0376-OIWME,San Ysidro,92173,Male,No,Yes,No
+2523-EWWZL,Blythe,92225,Female,No,Yes,No
+0928-XUTSN,Brawley,92227,Female,No,No,No
+4501-VCPFK,Coachella,92236,Male,No,No,No
+6075-SLNIL,Desert Center,92239,Male,No,No,No
+1685-BQULA,La Quinta,92253,Female,No,No,No
+9053-EJUNL,Mecca,92254,Male,No,No,No
+0666-UXTJO,Morongo Valley,92256,Male,Yes,Yes,No
+1471-GIQKQ,Niland,92257,Female,No,No,No
+9837-FWLCH,Palm Springs,92262,Male,No,Yes,Yes
+1035-IPQPU,Parker Dam,92267,Female,Yes,Yes,No
+7398-LXGYX,Pioneertown,92268,Male,No,Yes,No
+2823-LKABH,Rancho Mirage,92270,Female,No,No,No
+0550-DCXLH,Thermal,92274,Male,No,No,No
+2235-DWLJU,Thousand Palms,92276,Female,Yes,No,No
+0871-OPBXW,Twentynine Palms,92277,Female,No,No,No
+9767-FFLEM,Westmorland,92281,Male,No,No,No
+8456-QDAVC,Winterhaven,92283,Male,No,No,No
+4801-JZAZL,Angelus Oaks,92305,Female,No,Yes,Yes

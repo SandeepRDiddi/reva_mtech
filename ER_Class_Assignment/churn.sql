@@ -33,4 +33,14 @@ where cc.Churn_Label = 'Yes'
 
 
 
+--4.	Details of the most probable and the most valuable customer who might get churned and who has a known valid churn reason 
+select Churn_Score,Churn_Reason,CustomerID,Total_Charges,Churn_Label
+from churn 
+where Churn_Score = (select max(Churn_Score) from churn where Churn_Label = 'No')
+AND 
+Churn_Label ='Yes'
+order by Total_Charges, LENGTH(Churn_Reason) DESC
+
+
+
 
