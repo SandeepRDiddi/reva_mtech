@@ -13,18 +13,22 @@ This site contains the SQL Assignment
 
 # Create MySQL Connection on Local System
 
-![](images/MySql-Parameters-Local-only.png)
+
 
 
 
 # Create Database to for the Analysis 
 
 1. Create Database with "CREATE DATABASE <DATABSE BASE NAME>" 
-  
-![](images/DB.png)
 
 
 
+
+# Create Tables and Load data into MySQL 
+
+1. mysql> LOAD DATA LOCAL INFILE '/Users/'username'/customer_details.csv'  INTO TABLE curn_dev.customer  FIELDS TERMINATED BY ','  ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS; and Simlar code for other file 
+
+Once Loaded check the table by Querying if the load was sucessfull 
 
 
 
