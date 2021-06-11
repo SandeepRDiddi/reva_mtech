@@ -1,6 +1,5 @@
-## SQL Assignment REVA University 
+# SQL Assignment REVA University 
 
+This site contains the SQL Assignment 
 
-
-##Setting up SQL Workbench 
 
