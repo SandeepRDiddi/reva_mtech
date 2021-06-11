@@ -11,7 +11,20 @@ This site contains the SQL Assignment
 4. Load the data into these tables
 
 
-# Connection Parameters on MySQL 
+# Create MySQL Connection on Local System
+
+
+
+
+
+# Create Database to for the Analysis 
+
+1. Create Database with "CREATE DATABASE <DATABSE BASE NAME>" 
+
+
+
+
+
 
 
 
