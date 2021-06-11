@@ -13,13 +13,15 @@ This site contains the SQL Assignment
 
 # Create MySQL Connection on Local System
 
-
+![](images/MySql-Parameters-Local-only.png)
 
 
 
 # Create Database to for the Analysis 
 
 1. Create Database with "CREATE DATABASE <DATABSE BASE NAME>" 
+  
+![](images/DB.png)
 
 
 
