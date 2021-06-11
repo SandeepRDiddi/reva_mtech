@@ -1,1 +1,6 @@
-# reva_mtech
+## SQL Assignment REVA University 
+
+
+
+##Setting up SQL Workbench 
+
