@@ -2,8 +2,17 @@
 
 This site contains the SQL Assignment 
 
-1.Analysis of the Chrun Data on MySQL
+1. Create MySQL Connection on Local System
 
-2.Load data to MySQL from CSV and then Analyse the data to answer analytical questions
+2. Create Database to for the Analysis 
+
+3. Create 2 tables Churn and Customers
+
+4. Load the data into these tables
+
+
+# Connection Parameters on MySQL 
+
+
 
 
